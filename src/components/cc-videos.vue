@@ -88,10 +88,11 @@
                   v-for="(item, id) in filteredItems"
                   :key="id"
                 >
-                  <a
+                <g-link :to="`voorstellingen/${ item.slug }`" class="video-card w-inline-block">
+                  <!-- <a
                     v-on:click="goToPage(item.url)"
                     class="video-card w-inline-block"
-                  >
+                  > -->
                     <div
                       class="video-card-image-wrapper"
                       :style="{ backgroundImage: `url(${item.thumbnail})`}"
@@ -116,7 +117,8 @@
                         >
                       </div>
                     </div>
-                  </a>
+                  <!-- </a> -->
+                  </g-link>
                 </div>
               </div>
               <div
@@ -153,7 +155,7 @@
 
 <static-query>
 query {
-  videos: allVideos {
+  video: allVideo {
     edges {
       node {
         slug,
@@ -186,7 +188,7 @@ query {
 <script>
 export default {
   mounted() {
-    const items = this.$static.videos.edges.map(val => {
+    const items = this.$static.video.edges.map(val => {
       return val.node;
     });
 

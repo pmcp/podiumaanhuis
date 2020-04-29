@@ -1,9 +1,6 @@
 <template>
   <Layout>
-
-    <!-- <body class="body"> -->
-
-    <div class="cc-pagewrapper">
+    
       <!-- <div class="section">
       <div class="container w-container">
         <div class="rounded"><img src="images/De-tuin-van-de-walvis_banner.jpg" width="1500" srcset="images/De-tuin-van-de-walvis_banner-p-500.jpeg 500w, images/De-tuin-van-de-walvis_banner.jpg 800w" sizes="(max-width: 479px) 93vw, 95vw" alt="" class="image"></div>
@@ -25,7 +22,7 @@
         </div>
       </div>
     </div> -->
-<cc-videos></cc-videos>
+    <cc-videos></cc-videos>
     </div>
 
   </Layout>
@@ -55,9 +52,3 @@ export default {
   }
 };
 </script>
-
-<style>
-.home-links a {
-  margin-right: 1rem;
-}
-</style>

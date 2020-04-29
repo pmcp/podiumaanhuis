@@ -9,7 +9,7 @@
   >
     <div class="header-container">
       <a
-        href="index.html"
+        href="/"
         aria-current="page"
         class="link-block w-inline-block w--current"
       >
@@ -46,7 +46,9 @@
       </div>
     </div>
     </div>
-    <slot/>
+    <div class="cc-pagewrapper">
+      <slot/>
+    </div>
   </div>
 </template>
 

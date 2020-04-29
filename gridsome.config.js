@@ -5,6 +5,18 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: 'Gridsome',
-  plugins: []
+  siteName: 'Podium  Aan Huis',
+  plugins: [],
+    templates: {
+      Video: '/voorstellingen/:slug',
+    }
+  // }
+  // templates: {
+  //   Videos: [
+  //     {
+  //       path: '/voorstellingen/:slug',
+  //       component: './templates/Video.vue'
+  //     }
+  //   ]
+  // }
 }

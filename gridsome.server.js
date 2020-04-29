@@ -6,6 +6,41 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 const axios = require('axios')
 
+
+/**
+ * Get the id of the youtube vid
+ * Supports:
+ * http://www.youtube.com/watch?v=0zM3nApSvMg&feature=feedrec_grec_index
+ * http://www.youtube.com/user/IngridMichaelsonVEVO#p/a/u/1/QdK8U-VIH_o
+ * http://www.youtube.com/v/0zM3nApSvMg?fs=1&amp;hl=en_US&amp;rel=0
+ * http://www.youtube.com/watch?v=0zM3nApSvMg#t=0m10s
+ * http://www.youtube.com/embed/0zM3nApSvMg?rel=0
+ * http://www.youtube.com/watch?v=0zM3nApSvMg
+ * http://youtu.be/0zM3nApSvMg
+ * 
+ */
+function youtube_parser(url){
+  var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+  var match = url.match(regExp);
+  return (match&&match[7].length==11)? match[7] : false;
+}
+
+
+/**
+ * Get the id of the Vimeo 
+ */
+function GetVimeoIDbyUrl(url) {
+  console.log(url) 
+  var regExp = /https:\/\/(www\.)?vimeo.com\/(\d+)($|\/)/;
+  var match = url.match(regExp);
+  console.log(match)
+  if (match){
+    return match[2];
+    
+  }
+}
+
+
 async function getItems(url, token, items = [], offset = 0) {
   const config = {
     params: {
@@ -63,7 +98,7 @@ module.exports = function (api) {
     
     videoItems = await getItems('https://api.webflow.com/collections/5e74d1a9ef2235c09ec7d619/items', token);
     const videoCollection = actions.addCollection({
-      typeName: 'videos'
+      typeName: 'Video'
     })
 
 
@@ -138,10 +173,23 @@ module.exports = function (api) {
        * If no social image, change it with a stock image.
        * TODO: Still to be finished, have to add stock image. Now it just sets to null
       */
+     
       let socialImage = null;
       if (item['social-share-image']) socialImage = item['social-share-image'].url
 
 
+
+
+      
+      /**
+       * If youtube, get the id, and create embed link
+       * 
+      */
+      let embedUrl = item['link-to-video'].url;
+      if(item['link-to-video'].metadata.provider_name === 'YouTube') embedUrl = `https://www.youtube.com/embed/${youtube_parser(item['link-to-video'].url)}`
+      if(item['link-to-video'].metadata.provider_name === 'Vimeo') embedUrl = `https://player.vimeo.com/video/${GetVimeoIDbyUrl(item['link-to-video'].url)}`
+      
+      
       /**
        * TODO:
        * Add default values
@@ -154,7 +202,8 @@ module.exports = function (api) {
         video: {
           url: item['link-to-video'].url,
           provider: item['link-to-video'].metadata.provider_name,
-          length: item['video-length']
+          length: item['video-length'],
+          embedUrl: embedUrl
         },
         social: {
           descr: item['social-share-description'],
@@ -177,8 +226,4 @@ module.exports = function (api) {
   //   store.addMetadata('genres', genres)
   // })
 
-
-  api.createPages(({ createPage }) => {
-    // Use the Pages API here: https://gridsome.org/docs/pages-api/
-  })
 }
