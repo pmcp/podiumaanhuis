@@ -23,7 +23,7 @@ module.exports = {
         path: 'pages/**/*.md',
         typeName: 'MDPages',
         templates: {
-          Page: '/:slug'
+          Page: '/:id'
         }
       }
     },

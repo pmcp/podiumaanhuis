@@ -3,9 +3,10 @@ backend:
   repo: pmcp/podiumaanhuis
 
 # when using the default proxy server port
+# To run local backend git: npx netlify-cms-proxy-server
 local_backend: true
 
-media_folder: "static/uploads"
+media_folder: "src/assets/uploads"
 public_folder: "/uploads"
 
 publish_mode: editorial_workflow
@@ -22,17 +23,14 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "homepages"
+    label: "Homepage"
     files:
       - label: "Home"
-        name: "about"
+        name: "home"
         file: "pages/home.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: markdown}
-          - label: Team
-            name: team
-            widget: list
-            fields:
-              - {label: Name, name: name, widget: string}
-              - {label: Position, name: position, widget: string}
-              - {label: Photo, name: photo, widget: image}
+          - {label: Hoofdafbeelding, name: heroImage, widget: image}
+          - {label: Hoofdafbeelding - Credit, name: heroCredit, widget: markdown}
