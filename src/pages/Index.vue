@@ -1,6 +1,12 @@
 <template>
   <Layout>
-    
+    <br><br><br><br><br><br>
+    <!-- {{ $page.mdpages.edges }} -->
+    <div v-for="i in $page.mdpages.edges" :key="i.node.id">
+      
+      <div v-html="i.node.content"></div>
+
+    </div>
       <!-- <div class="section">
       <div class="container w-container">
         <div class="rounded"><img src="images/De-tuin-van-de-walvis_banner.jpg" width="1500" srcset="images/De-tuin-van-de-walvis_banner-p-500.jpeg 500w, images/De-tuin-van-de-walvis_banner.jpg 800w" sizes="(max-width: 479px) 93vw, 95vw" alt="" class="image"></div>
@@ -23,12 +29,25 @@
       </div>
     </div> -->
     <cc-videos></cc-videos>
-    </div>
+    
 
   </Layout>
 </template>
 
 
+<page-query>
+query {
+  mdpages: allMdPages {
+    edges {
+      node {
+        title
+        id,
+        content
+      }
+    }
+  }
+}
+</page-query>
 
 
 
@@ -40,7 +59,7 @@ export default {
     ccVideos
   },
   metaInfo: {
-    title: "Hello, world!"
+    title: "Podium Aan Huis - Home"
   },
   data() {
     return {

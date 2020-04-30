@@ -33,7 +33,7 @@ function GetVimeoIDbyUrl(url) {
   
   var regExp = /https:\/\/(www\.)?vimeo.com\/(\d+)($|\/)/;
   var match = url.match(regExp);
-  console.log(match)
+  
   if (match){
     return match[2];
     
