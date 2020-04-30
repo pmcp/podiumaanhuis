@@ -30,7 +30,7 @@ function youtube_parser(url){
  * Get the id of the Vimeo 
  */
 function GetVimeoIDbyUrl(url) {
-  console.log(url) 
+  
   var regExp = /https:\/\/(www\.)?vimeo.com\/(\d+)($|\/)/;
   var match = url.match(regExp);
   console.log(match)

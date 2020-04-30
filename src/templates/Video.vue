@@ -12,7 +12,7 @@
         </div>
       </div>
     </div>
-    {{$page.video.video.embedUrl}}
+    
     <div class="section cc-page__content">
 
       
