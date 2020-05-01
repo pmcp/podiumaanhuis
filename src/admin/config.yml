@@ -23,6 +23,27 @@ collections:
       - {label: "Excerpt", name: "excerpt", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "entries"
+    label: "Voorstellingen"
+    folder: "entries"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Titel", name: "title", widget: "string"}
+      - {label: "Omschrijving", name: "descr", widget: "string"}
+      - {label: "Leeftijd", name: "age", widget: "string"}
+      - {label: "Video Link", name: "videoUrl", widget: "string"}
+      - {label: "Video Lengte", name: "videoLength", widget: "string"}
+      - {label: "Social tekstje", name: "socialDescr", widget: "string"}
+      - {label: "Social Afbeelding", name: "socialImage", widget: "image"}
+      - {label: "Info", name: "info", widget: "markdown"}
+      - {label: "Opgenomen", name: "recordedAt", widget: "string"}
+      - {label: "Company", name: "company", widget: "string"}
+      - {label: "Afbeelding", name: "image", widget: "image"}
+      - {label: "text", name: "text", widget: "markdown"}
+      # TODO:
+        # related fields: genre & company 
+        # list field for info
   - name: "homepages"
     label: "Homepage"
     files:

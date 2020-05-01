@@ -7,14 +7,14 @@
         <div class="video-wrapper-large">
           <div class='embed-container'>
             
-            <iframe scrolling="no" title="Video embed" frameborder="0" allow="autoplay; fullscreen"  :src="$page.entry.videoUrl" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+            <iframe scrolling="no" title="Video embed" frameborder="0" allow="autoplay; fullscreen"  :src="$page.video.video.embedUrl" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
           </div>
         </div>
       </div>
     </div>
     
     <div class="section cc-page__content">
-{{ $page.entry }}
+{{ $page.video }}
       
       <div class="cc-container">
         <div class="grid-sidebar">
@@ -56,19 +56,28 @@
 
 <page-query>
 query ($id: ID!) {
-  entry: entries(id: $id) {
+  video(id: $id) {
+    slug,
     id
     title,
     descr,
     age
-    videoUrl,
-    videoLength,
-    socialDescr,
-    socialImage,
+    video {
+      url,
+      provider,
+      length,
+      embedUrl
+    },
+    social {
+      descr,
+      image
+    },
     info,
     recordedAt,
-    image,
+    thumbnail,
     text,
+    genre,
+    audience,
     company,
   }
 }
