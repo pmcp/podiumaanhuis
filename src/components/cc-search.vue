@@ -5,22 +5,19 @@
     class="container-width-large"
   >
     <!-- TODO: zoeken wissen -->
-    <label class="relative block">
-      
-        Zoek
-      </label>
-      <input
-        ref="input"
-        type="search"
-        :value="query"
-        class="cc-form__input w-input"
-        placeholder=""
-        @focus="focused = true"
-        @input="focusIndex = -1; query = $event.target.value"
-        @change="query = $event.target.value"
-        style="background-color:#e8edf4"
-      />
-    
+    <label class="relative block">Zoek</label>
+    <input
+      ref="input"
+      type="search"
+      :value="query"
+      class="cc-form__input w-input"
+      :class="{'search--focused': focused === true }"
+      placeholder=""
+      @focus="focused = true"
+      @input="focusIndex = -1; query = $event.target.value"
+      @change="query = $event.target.value"
+      style="background-color:#e8edf4"
+    />
 
     <div
       v-if="showResult"
@@ -36,16 +33,14 @@
           v-for="(result, index) in results"
           :key="result.id"
           @mouseenter="focusIndex = index"
-          
         >
-            <g-link
-                    :to="`voorstellingen/${ result.item.slug }`"
-                   class="video-card-horizontal w-inline-block"
-                  >
+          <g-link
+            :to="`voorstellingen/${ result.item.slug }`"
+            class="video-card-horizontal w-inline-block"
+          >
 
-            
             <div
-            :style="{ backgroundImage: `url('${result.item.thumbnail}')`}"
+              :style="{ backgroundImage: `url('${result.item.thumbnail}')`}"
               class="card-horizontal-image"
             >
               <div class="card-horizontal-image-inner">
@@ -57,14 +52,17 @@
                 </div> -->
               </div>
             </div>
-            
-            <div class="card-body" style="padding-top:10px;padding-bottom:10px">
+
+            <div
+              class="card-body"
+              style="padding-top:10px;padding-bottom:10px"
+            >
               <h3 style="margin-bottom: 10px;"> {{ result.item.title}}</h3>
               <p style="margin-bottom: 0;"> {{ result.item.company}}</p>
               <p style="margin-bottom: 0;"> {{ result.item.recordedAt}}</p>
               <!-- <div class="video-card-length">{{ result.item.video.length }}</div> -->
             </div>
-            </g-link>
+          </g-link>
         </div>
 
       </div>
@@ -175,4 +173,7 @@ export default {
 </script>
 
 <style>
+.search--focused {
+  background-color: red;
+}
 </style>
