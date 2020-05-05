@@ -2,7 +2,7 @@
 title: 'Bloed & Rozen'
 descr: 'Toneelhuis'
 videoLength: '145 min'
-text: "Jeanne d’Arc en Gilles de Rais: de Maagd en de Duivel!                
+text: Jeanne d’Arc en Gilles de Rais: de Maagd en de Duivel!                
 
 Op het eerste gezicht zijn deze twee historische figuren elkaars absolute tegenpool. Het eenvoudige Franse boerenmeisje Jeanne d’Arc sterft na enkele spectaculaire overwinningen op Engeland als heks op de brandstapel. De rijke en adellijke Gilles de Rais, die aan haar zijde vocht, geeft zich na haar dood over aan magie, moord en seksuele excessen en sterft op de brandstapel als een boetvaardige zondaar.
 
@@ -35,5 +35,5 @@ toneelHUIS WORDT HUISTONEEL
 Een theater kan niet zonder zijn publiek. Ook niet als de zalen noodgedwongen leeg staan. Daarom zoeken de Toneelhuismakers u op vanuit hun schuiloorden. Ze spinnen vanuit hun huizen lange, onzichtbare draden tot bij u, met verhalen, gedichten, gedachten en beelden. Zo wordt Toneelhuis voor even Huistoneel. Geniet ervan!  
 [huistoneel.be](http://huistoneel.be/)
 
-‍"
+‍
 ---

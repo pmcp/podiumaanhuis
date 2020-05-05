@@ -2,7 +2,7 @@
 title: 'Soldier Of  Love'
 descr: 'Veerle Malschaert'
 videoLength: '85 min'
-text: "2de onewoman comedyshow: Soldier of Love  
+text: 2de onewoman comedyshow: Soldier of Love  
 Soldiers of love, vuur liefde af!  
 Maar wat is liefde?  
 En komt uw liefde aan?  
@@ -22,5 +22,5 @@ Grote Liefde-Kleine liefde-Diepe liefde-Eindeloze liefde-Kalverliefde-Nieuwe lie
 
 ##### Credits
 
-Opname video door PIAS"
+Opname video door PIAS
 ---

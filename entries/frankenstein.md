@@ -2,7 +2,7 @@
 title: 'Frankenstein!!'
 descr: 'Spectra '
 videoLength: '29 min'
-text: "Heeft u een bijzonder gevoel voor humor? Houdt u van satire?
+text: Heeft u een bijzonder gevoel voor humor? Houdt u van satire?
 
 Dan is Frankenstein!! van H.K. Gruber wat u zoekt.
 
@@ -20,5 +20,5 @@ tekeningen: Sebastiaan Van Doninck
 
 SPECTRA o.l.v. Filip Rathé
 
-Opname door Yannick Willox"
+Opname door Yannick Willox
 ---

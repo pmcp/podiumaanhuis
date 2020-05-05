@@ -2,7 +2,7 @@
 title: 'KEIK'
 descr: '4Hoog & Blauwhuis'
 videoLength: '41 min'
-text: "De vogel achterna
+text: De vogel achterna
 
 Door de gietende regen
 
@@ -36,5 +36,5 @@ Vormgeving: Rupert Defossez, Jonas Willems & Charlotte Debussche
 
 Film: Blauwhuis  
   
-Opname door Beeldstorm o.l.v. Jan Bosteels"
+Opname door Beeldstorm o.l.v. Jan Bosteels
 ---

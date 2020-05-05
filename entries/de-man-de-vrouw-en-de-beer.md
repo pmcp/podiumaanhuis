@@ -2,7 +2,7 @@
 title: 'De man, de vrouw en de beer'
 descr: 'BRONKS'
 videoLength: '76 min'
-text: "Waar willen we naartoe en waar komen we vandaan?
+text: Waar willen we naartoe en waar komen we vandaan?
 
 DE BEER:
 
@@ -34,5 +34,5 @@ Regie Tom Dupont / Van Dominique Van Malder, Julie Delrue & Robrecht Vanden Thor
 
 _Opname video door_ [_Beeldstorm_](http://www.beeldstorm.be) _o.l.v. Jan Bosteels_  
 
-‍"
+‍
 ---

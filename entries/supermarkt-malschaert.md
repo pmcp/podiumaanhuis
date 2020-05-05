@@ -2,7 +2,7 @@
 title: 'Supermarkt Malschaert'
 descr: 'Veerle Malschaert'
 videoLength: '62 min'
-text: "Supermarkt Malschaert is verkocht, maar 't malste stuk vlees nog niet: Veerle Malschaert.Te groot hart, te grote mond en teveel testosteron Een dramaqueen on speed. Op zoek naar vaders van haar nog steeds ongeboren kinderen vecht deze grofgebekte missionaris van de liefde vol overgave tegen windmolens en eenzaamheid. Gewapend met haar Self-Help Kit om 't leven door te komen, gaat ze de confrontatie aan met de toeschouwers en zichzelf. Hard en zacht, extreem en poëtisch, subtiel en expliciet laat ze niemand onberoerd. Ze slaat u om de oren, hilarisch en ontroerend. Ze is uw rots in de branding, uw steun en toeverlaat. Veerle Malschaert, eindelijk een vrouw die u verstaat!  
+text: Supermarkt Malschaert is verkocht, maar 't malste stuk vlees nog niet: Veerle Malschaert.Te groot hart, te grote mond en teveel testosteron Een dramaqueen on speed. Op zoek naar vaders van haar nog steeds ongeboren kinderen vecht deze grofgebekte missionaris van de liefde vol overgave tegen windmolens en eenzaamheid. Gewapend met haar Self-Help Kit om 't leven door te komen, gaat ze de confrontatie aan met de toeschouwers en zichzelf. Hard en zacht, extreem en poëtisch, subtiel en expliciet laat ze niemand onberoerd. Ze slaat u om de oren, hilarisch en ontroerend. Ze is uw rots in de branding, uw steun en toeverlaat. Veerle Malschaert, eindelijk een vrouw die u verstaat!  
   
 Te groot hart, te grote mond en teveel testosteron  
 Een dramaqueen on speed  
@@ -22,5 +22,5 @@ Ge moogt er om huilen van 't lachen
 
 ##### Credits
 
-Opname video door PIAS"
+Opname video door PIAS
 ---

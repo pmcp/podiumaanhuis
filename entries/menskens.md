@@ -2,7 +2,7 @@
 title: 'Menskens'
 descr: '4Hoog'
 videoLength: '40 min'
-text: "Een oude man in een zetel.  
+text: Een oude man in een zetel.  
 Zijn vrouw is weg.  
   
 “Ik moet het stof nog afdoen.  
@@ -23,5 +23,5 @@ Coach: Frans Van der Aa
 Vormgeving: Jan De Brabander en Thao Nguyen (stage)  
 Kostuums: Dorine De Muynck
 
-Opname door Beeldstorm olv Jan Bosteels"
+Opname door Beeldstorm olv Jan Bosteels
 ---
