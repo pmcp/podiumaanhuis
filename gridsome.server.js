@@ -245,14 +245,6 @@ module.exports = function (api) {
       const content = `---
 title: '${item.name}'
 id: '${item._id}'
-descr: '${item.excerpt}'
-age: '${item.age}'
-videoUrl: '${item['link-to-video'].url}'
-videoLength: '${item['video-length']}'
-socialImage: '${socialImage}'
-recordedAt: '${item['recorded-at']}'
-company: '${item.excerpt}'
-image: '${item.thumbnail.url}'
 ---
 `;
     const filename = path.join(
