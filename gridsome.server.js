@@ -191,18 +191,27 @@ module.exports = function (api) {
       if (item['link-to-video'].metadata.provider_name === 'Vimeo') embedUrl = `https://player.vimeo.com/video/${GetVimeoIDbyUrl(item['link-to-video'].url)}`
 
 
-  
+
+
+      /**
+       * Webflow API to Netlify Markdown
+       * Quickly wrote this in here, but should be an external service
+       * TODO: convert to serverless function
+       * Don't forget to delete packages (fs, path, turndown)
+      */
       const fs = require("fs");
-const path = require("path");
-
-
+      const path = require("path");
+      const TurndownService = require('turndown')
+      const turndownService = new TurndownService()
+      const turndowndedText = turndownService.turndown(item['video-notes'])
+      
       const content = `---
 title: ${item.name}
 descr: ${item.excerpt}
 videoLength: ${item['video-length']}
 
 text: >-
-  ${item['video-notes']}
+  ${turndowndedText}
 ---
 `;
     const filename = path.join(

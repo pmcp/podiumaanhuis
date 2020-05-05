@@ -1,8 +1,0 @@
----
-title: KALF!
-descr: ZAAM
-videoLength: 68 min
-
-text: >-
-  <p>De Boer zette een deur open en toen zag Koetje Kalf voor het eerst kleuren.<br>De hemelsblauwe hemel. Het grasgroene gras.<br>Frisse lucht, vlinders en madeliefjes. Het gegons van de lente.<br>De eerste stapjes in de weide waren voorzichtig.<br>De dauw kietelde haar hoeven.<br><br>Al snel voelde ze hoe ze overvallen werd door vreugde.<br>De ruimte, de plaats die ze kreeg.<br>De geur van vers gras, de tintelende koelte van ochtendlucht.<br>Ze was gelukkig.<br>Ze kon niet anders dan lopen, huppelen en springen.<br><br>Kalf! is een dansvoorstelling met theater en muziek. Kalf! is een theatervoorstelling met dans en muziek. Kalf! is een muziekvoorstelling met dans en theater.<br><br>Het gaat over een koetje.<br><br>Ze leeft met vele melkkoeien samen in een grote stal en ze droomt over India, waar de koeien heilig zijn. Daar worden koeien oud en alle kalfjes zijn er van goud!<br><br></p><h5>Credits</h5><p>Tekst, regie &amp; spel: Dimitri Leue<br>Concept, choreografie &amp; spel: Anastassya Savitsky<br>Compositie, live muziek &amp; spel: Steven Taelman<br>Scenografie &amp; decor: Atelier Bildraum<br>Kostuums: Lotte Boonstra, Eva De Mul &amp; Sietske Van Aerde<br>Techniek: David Rex Tee<br>Coaching &amp; advies: Randi De Vlieghe &amp; Bart Van Nuffelen<br>Met steun van: MartHa!tentatief &amp; Theater Froefroe<br>In co-productie met: TAKT Dommelhof</p><p>Opname video door<a href="http://www.beeldstorm.be"> Beeldstorm</a> o.l.v. Jan Bosteels&nbsp;&nbsp;</p><p><br></p><p>‍<br></p>
----

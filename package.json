@@ -14,6 +14,7 @@
     "gridsome": "^0.7.0",
     "gridsome-plugin-netlify-cms": "^1.0.9",
     "netlify-cms": "^2.10.47",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "turndown": "^6.0.0"
   }
 }
