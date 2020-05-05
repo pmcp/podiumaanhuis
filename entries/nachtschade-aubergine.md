@@ -1,0 +1,7 @@
+
+---
+descr: Muziektheater Transparant
+videoLength: 89 min
+text: >-
+  <p>Claron McFadden gaat op zoek naar de gemeenschappelijke wortels van onze diverse culturen aan de hand van de aubergine. Ondanks de enorme migratie die deze oeroude nachtschade-achtige doormaakte, wist de aubergine zich telkens aan te passen zonder haar eigenzinnige karakter te verliezen. McFadden legt deze route in omgekeerde richting af, terug naar de roots van de aubergine langs de Mediterranee.</p><p>Telkens is ze te gast bij mensen thuis, leert ze een plaatselijk auberginerecept en oefent ze een traditioneel lied. Haar verworvenheden neemt ze mee terug naar huis: ze vormen de basis voor een ontroerend culinair en theatraal concert over ons verlangen naar identiteit in deze nomadische, steeds veranderende wereld.</p><h5>Credits</h5><p>Concept | Zang: Claron McFadden • Compositie: Tuur Florizoone, Osama Abdulrasol, Yannick Peeters • Regie: Sjaron Minailo • Dramaturgie: Tobias Kokkelmans • Video: Lisa Tahon • Lichtontwerp: Peter Quasters • Accordeon: Tuur Florizoone • Cello: Lode Vercampt • Contrabas: Yannick Peeters • Klarinet I Basklarinet I Tenora: Jean-Philippe Poncin • Percussie: Sjahin During • Qanun I Ud: Osama Abdulrasol</p><p>Productie: Muziektheater Transparant.<br>Coproductie: Concertgebouw Brugge en Operadagen Rotterdam.<br>In samenwerking met Studio Minailo. </p><p>Met de steun van Amsterdams Fonds voor de Kunst (AFK)<br><br>Opname video door <a href="http://www.beeldstorm.be">Beeldstorm</a> o.l.v. Jan Bosteels</p>
+---

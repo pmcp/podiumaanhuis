@@ -1,0 +1,7 @@
+
+---
+descr: FroeFroe
+videoLength: 52 min
+text: >-
+  <p>Een theaterclip of "tictac" op speed met poppen, spel, dans en weinig woorden. In zijn wereldvermaarde absurdistische stijl pende Ionesco ooit “4 verhalen voor Josette” neer. Ionesco zou deze voorstelling de max vinden, grappig absurd en schoon. Een voorstelling voor jong en oud. Volgens Ruy Vidal de ideale stimulans om kinderen te wapenen tegen al het boerenbedrog, misleidende valstrikken en geheimhoudingen in naam van het gezond verstand!</p><p>Elke ochtend klopt Josette op de slaapkamerdeur van haar ouders.</p><p>Ooit lagen mama en papa samen in bed, voldaan van worst en wijn en poppenkastbezoek. Nu niet meer. Papa en Mama wonen elk in hun huis en Josette in allebei. Over Josette die keigraag danseres wil worden, over soep maken, autorijden, varkens en vooral poezen, maar ook over mama die prachtige versjes verzint en papa die een babysit wil.</p><p>Deze voorstelling is met heel weinig woorden, veel visuele en muzikale drive gemaakt om jonge toeschouwers vanuit heel de wereld te kunnen boeien. Voor groot en klein publiek vanaf 4 jaar.</p><h5>Credits</h5><p>Met: Marianne Loots, Maarten Bosmans en Anastassya Savitsky</p><p>Muziek (live): Elko Blijweert &nbsp;</p><p>Regie: Marc Maillard &nbsp;</p><p>Componist : Elko Blijweert &nbsp; </p><p>Bewegingscoach: Jan Martens</p><p>Opname door &nbsp;Beeldstorm olv Jan Bosteels</p><p>Wil je nog meer FroeFroe? Bekijk alle <a href="https://vimeopro.com/janbosteels/theater-froe-froe" target="_blank">voorstellingen van FroeFroe</a></p>
+---

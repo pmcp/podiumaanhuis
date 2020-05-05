@@ -1,3 +1,4 @@
+
 // Server API makes it possible to hook into various parts of Gridsome
 // on server-side and add custom data to the GraphQL data layer.
 // Learn more: https://gridsome.org/docs/server-api/
@@ -19,10 +20,10 @@ const axios = require('axios')
  * http://youtu.be/0zM3nApSvMg
  * 
  */
-function youtube_parser(url){
+function youtube_parser(url) {
   var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
   var match = url.match(regExp);
-  return (match&&match[7].length==11)? match[7] : false;
+  return (match && match[7].length == 11) ? match[7] : false;
 }
 
 
@@ -30,13 +31,13 @@ function youtube_parser(url){
  * Get the id of the Vimeo 
  */
 function GetVimeoIDbyUrl(url) {
-  
+
   var regExp = /https:\/\/(www\.)?vimeo.com\/(\d+)($|\/)/;
   var match = url.match(regExp);
-  
-  if (match){
+
+  if (match) {
     return match[2];
-    
+
   }
 }
 
@@ -92,10 +93,10 @@ module.exports = function (api) {
   api.loadSource(async actions => {
 
     const token = '8e947815f384fcb9147fa6e4657a4b45cd8345368b9249d3707da8c63c08ced0';
-    
+
     genreItems = await getItems('https://api.webflow.com/collections/5e7e39f00adcdbab7e956666/items', token);
     audienceItems = await getItems('https://api.webflow.com/collections/5e74d1a9ef223561e3c7d618/items', token);
-    
+
     videoItems = await getItems('https://api.webflow.com/collections/5e74d1a9ef2235c09ec7d619/items', token);
     const videoCollection = actions.addCollection({
       typeName: 'Video'
@@ -161,35 +162,65 @@ module.exports = function (api) {
        * Add genre name instead of id
        */
       const genre = genreItems.filter(genre => { return genre._id === item['genre-v2'] })
-      
+
       /**
        * Add audience name instead of id
        */
       const audience = audienceItems.filter(audience => { return audience._id === item['category'] })
-      
 
-      
+
+
       /**
        * If no social image, change it with a stock image.
        * TODO: Still to be finished, have to add stock image. Now it just sets to null
       */
-     
+
       let socialImage = null;
       if (item['social-share-image']) socialImage = item['social-share-image'].url
 
 
 
 
-      
+
       /**
        * If youtube, get the id, and create embed link
        * 
       */
       let embedUrl = item['link-to-video'].url;
-      if(item['link-to-video'].metadata.provider_name === 'YouTube') embedUrl = `https://www.youtube.com/embed/${youtube_parser(item['link-to-video'].url)}`
-      if(item['link-to-video'].metadata.provider_name === 'Vimeo') embedUrl = `https://player.vimeo.com/video/${GetVimeoIDbyUrl(item['link-to-video'].url)}`
-      
-      
+      if (item['link-to-video'].metadata.provider_name === 'YouTube') embedUrl = `https://www.youtube.com/embed/${youtube_parser(item['link-to-video'].url)}`
+      if (item['link-to-video'].metadata.provider_name === 'Vimeo') embedUrl = `https://player.vimeo.com/video/${GetVimeoIDbyUrl(item['link-to-video'].url)}`
+
+
+  
+      const fs = require("fs");
+const path = require("path");
+
+
+      const content = `
+---
+descr: ${item.excerpt}
+videoLength: ${item['video-length']}
+
+text: >-
+  ${item['video-notes']}
+---
+`;
+    const filename = path.join(
+      __dirname,
+      `/entries/${item.slug}.md`
+      );
+
+    fs.writeFile(filename, content, function (err) {
+      if (err) {
+        return console.log(err);
+      }
+      console.log("The file was saved!", filename);
+    });
+    
+
+
+
+
       /**
        * TODO:
        * Add default values
