@@ -36,6 +36,7 @@
                 >
               </form> -->
   <form 
+  class="grid-form"
   name="contact"
   method="post"
   v-on:submit.prevent="handleSubmit"
@@ -49,23 +50,20 @@
       Don’t fill this out: <input name="bot-field" />
     </label>
   </p>
-  <div class="sender-info">
-    <div>
-      <label for="name" class="label" >Your name</label>
-      <input type="text" name="name" v-model="formData.name" />
-    </div>
-    <div>
-      <label for="email">Your email</label>
-      <input type="email" name="email" v-model="formData.email" />
-    </div>
+  <div class="form-group">
+      <label for="formInitiative">Wat vind je van dit initatief?</label>
+      <textarea class="cc-form__input w-input" name="formInitiative" v-model="formData.initiative"></textarea>
   </div>
-
-  <div class="message-wrapper">
-    <label for="message">Message</label>
-    <textarea name="message" v-model="formData.message"></textarea>
+  <div class="form-group">
+    <label for="formContent">Wat vind je van de voorstellingen?</label>
+    <textarea class="cc-form__input w-input" name="formContent" v-model="formData.content"></textarea>
+    </div>
+  <div class="form-group">
+    <label for="email">E-mail (optioneel)</label>
+    <input  class="cc-form__input w-input" type="email" name="email" v-model="formData.email" />
   </div>
-
-  <button type="submit">Submit form</button>
+<!-- TODO: result page -->
+  <button type="submit" class="submit-button-2 button-full w-button">Verstuur</button>
 </form>
 </template>
 
