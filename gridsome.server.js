@@ -206,7 +206,7 @@ module.exports = function (api) {
       const turndowndedText = turndownService.turndown(item['video-notes'])
       
       const content = `---
-title: ${item.name}
+title: "${item.name}"
 descr: ${item.excerpt}
 videoLength: ${item['video-length']}
 

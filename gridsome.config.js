@@ -27,16 +27,16 @@ module.exports = {
         }
       }
     },
-    {
-      use: '@gridsome/source-filesystem',
-      options: {
-        path: 'entries/**/*.md',
-        typeName: 'entries',
-        templates: {
-          Page: '/voorstellingen/:slug'
-        }
-      }
-    },
+    // {
+    //   use: '@gridsome/source-filesystem',
+    //   options: {
+    //     path: 'entries/**/*.md',
+    //     typeName: 'entries',
+    //     templates: {
+    //       Page: '/voorstellingen/:slug'
+    //     }
+    //   }
+    // },
     {
       use: `gridsome-plugin-netlify-cms`,
       options: {
