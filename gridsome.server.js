@@ -203,15 +203,44 @@ module.exports = function (api) {
       const path = require("path");
       const TurndownService = require('turndown')
       const turndownService = new TurndownService()
+      turndownService.addRule('indentP', {
+        filter: ['p'],
+        replacement: function (content, node, options) {
+          return '\n\n  ' + content
+        }
+      })
+      turndownService.addRule('indentBr', {
+        filter: ['br'],
+        replacement: function (content, node, options) {
+          return '\n  ' + content
+        }
+      })
+
+      turndownService.addRule('indentH4 ', {
+        filter: ['h4'],
+        replacement: function (content, node, options) {
+          return '\n\n  ####' + content
+        }
+      })
+
+
+      turndownService.addRule('indentH5 ', {
+        filter: ['h5'],
+        replacement: function (content, node, options) {
+          return '\n\n  #####' + content
+        }
+      })
+
+      
       const turndowndedText = turndownService.turndown(item['video-notes'])
       
       const content = `---
 title: '${item.name}'
 descr: '${item.excerpt}'
 videoLength: '${item['video-length']}'
-
-text: '>-
-  ${turndowndedText}'
+text: ">-
+${turndowndedText}
+"
 ---
 `;
     const filename = path.join(
