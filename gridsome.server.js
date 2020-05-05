@@ -254,8 +254,6 @@ socialImage:'${socialImage}'
 recordedAt: '${item['recorded-at']}'
 company: '${item.excerpt}'
 image: '${item.thumbnail.url}'
-text: '|
-${turndowndedText}'
 ---
 `;
     const filename = path.join(

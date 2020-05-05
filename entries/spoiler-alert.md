@@ -11,20 +11,4 @@ socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8465b9ae
 recordedAt: 'Opname in Minardschouwburg, Gent'
 company: 'Larf!'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8465b9aeea3a209324e218_Schermafbeelding%202020-04-01%20om%2011.57.37.png'
-text: '|
-  Spoiler Alert vertrekt vanuit het verhaal van Oedipus.
-  Acht jongens gaan op zoek naar de belangrijkheid, de bruikbaarheid en de onvoorwaardelijkheid van hun relatie met hun ma. Geen klassiek verhaal, maar een pak anekdotes, stoere verhalen, verloren liefdes en dilemma’s.
-
-  ‍
-
-  #####Credits
-
-  Spelers: Emiel Lenaert, Maurice Leerman, Sadik Echatti, Tobias Steenhout, Jaak Daemen, Stan Vertommen, Manos Siozos, Emmanuel Schutyser, Joppe De Campeneere
-  Regie: Inge Goddijn
-  Tekst: Annelies De Nil & Inge Goddijn
-  Scenografie: Marrigje Spoelstra
-  Muziek: Kenji Minogue
-  Affichebeeld: Jan-Sebastiaan Degeyter
-
-  Opname video doorAchiel Van den Abeele'
 ---
