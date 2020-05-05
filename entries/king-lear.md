@@ -1,6 +1,6 @@
 ---
 title: 'King Lear'
-id: '5e907062ca807b5a9c294c48
+id: '5e907062ca807b5a9c294c48'
 descr: 'Het Zuidelijk Toneel & hetpaleis'
 age: '15+'
 videoUrl: 'https://vimeo.com/244103055',

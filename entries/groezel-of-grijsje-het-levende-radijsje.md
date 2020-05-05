@@ -1,6 +1,6 @@
 ---
 title: 'Groezel of Grijsje, het levende Radijsje'
-id: '5e79244967fd687fbd9b802f
+id: '5e79244967fd687fbd9b802f'
 descr: 'hetpaleis & Abattoir Fermé'
 age: '6+'
 videoUrl: 'https://vimeo.com/382004899',

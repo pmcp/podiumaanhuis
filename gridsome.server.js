@@ -244,7 +244,7 @@ module.exports = function (api) {
       
       const content = `---
 title: '${item.name}'
-id: '${item._id}
+id: '${item._id}'
 descr: '${item.excerpt}'
 age: '${item.age}'
 videoUrl: '${item['link-to-video'].url}',

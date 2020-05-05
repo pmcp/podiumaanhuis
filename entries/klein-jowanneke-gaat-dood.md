@@ -1,6 +1,6 @@
 ---
 title: 'Klein Jowanneke gaat dood'
-id: '5e819ba865262a42730f88e2
+id: '5e819ba865262a42730f88e2'
 descr: 'MartHa!tentatief '
 age: 'undefined'
 videoUrl: 'https://youtu.be/iNRJ_2ZCOrw',

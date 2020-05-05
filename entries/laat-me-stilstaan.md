@@ -1,6 +1,6 @@
 ---
 title: 'Laat me stilstaan'
-id: '5e7a4c486881ddea9a6a4ffd
+id: '5e7a4c486881ddea9a6a4ffd'
 descr: 'Compagnie COVAR'
 age: '12+'
 videoUrl: 'https://vimeo.com/357907703',

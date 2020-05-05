@@ -1,6 +1,6 @@
 ---
 title: 'The only way is UP '
-id: '5e7a1450a6c4ac51bcefca4b
+id: '5e7a1450a6c4ac51bcefca4b'
 descr: 'Boris Van Severen en Jonas Vermeulen / CAMPO (2017) '
 age: '16+'
 videoUrl: 'https://vimeo.com/231085914',
