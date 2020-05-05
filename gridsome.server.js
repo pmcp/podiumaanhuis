@@ -199,65 +199,84 @@ module.exports = function (api) {
        * TODO: convert to serverless function
        * Don't forget to delete packages (fs, path, turndown)
       */
-      const fs = require("fs");
-      const path = require("path");
-      const TurndownService = require('turndown')
-      const turndownService = new TurndownService()
-      turndownService.addRule('indentP', {
-        filter: ['p'],
-        replacement: function (content, node, options) {
-          return '\n\n  ' + content
-        }
-      })
-      turndownService.addRule('indentBr', {
-        filter: ['br'],
-        replacement: function (content, node, options) {
-          return '\n  ' + content
-        }
-      })
+//       const fs = require("fs");
+//       const path = require("path");
+//       const TurndownService = require('turndown')
+//       const turndownService = new TurndownService()
+//       turndownService.addRule('indentP', {
+//         filter: ['p'],
+//         replacement: function (content, node, options) {
+//           return '\n\n  ' + content
+//         }
+//       })
+//       turndownService.addRule('indentBr', {
+//         filter: ['br'],
+//         replacement: function (content, node, options) {
+//           return '\n  ' + content
+//         }
+//       })
 
-      turndownService.addRule('indentH4 ', {
-        filter: ['h4'],
-        replacement: function (content, node, options) {
-          return '\n\n  ####' + content
-        }
-      })
+//       turndownService.addRule('indentH4 ', {
+//         filter: ['h4'],
+//         replacement: function (content, node, options) {
+//           return '\n\n  ####' + content
+//         }
+//       })
 
 
-      turndownService.addRule('indentH5 ', {
-        filter: ['h5'],
-        replacement: function (content, node, options) {
-          return '\n\n  #####' + content
-        }
-      })
+//       turndownService.addRule('indentH5 ', {
+//         filter: ['h5'],
+//         replacement: function (content, node, options) {
+//           return '\n\n  #####' + content
+//         }
+//       })
 
-      turndownService.addRule('li ', {
-        filter: ['li'],
-        replacement: function (content, node, options) {
-          return '\n  * ' + content
-        }
-      })
+//       turndownService.addRule('li ', {
+//         filter: ['li'],
+//         replacement: function (content, node, options) {
+//           return '\n  * ' + content
+//         }
+//       })
 
       
-      const turndowndedText = turndownService.turndown(item['video-notes'])
-      const turndowndedInfo = turndownService.turndown(item['key-takeaways'])
+//       const turndowndedText = turndownService.turndown(item['video-notes'])
+//       const turndowndedInfo = turndownService.turndown(item['key-takeaways'])
       
-      const content = `---
-title: '${item.name}'
-id: '${item._id}'
----
-`;
-    const filename = path.join(
-      __dirname,
-      `/entries/${item.slug}.md`
-      );
+//       const content = `---
+// title: |-
+//   ${item.name}
+// id: ${item._id}
+// company: |-
+//   ${item.excerpt}
+// age: ${item.age}
+// videoUrl: ${item['link-to-video'].url}
+// videoLength: ${item['video-length']}
+// socialImage: ${socialImage}
+// socialDescr: |-
+//   ${item['social-share-description']}
+// descr: |-
+// ${turndowndedInfo}
+// recordedAt: |-
+//   ${item['recorded-at']}
+// image: ${item.thumbnail.url}
+// text: |-
+// ${turndowndedText}
+// ---
+// `;
 
-    fs.writeFile(filename, content, function (err) {
-      if (err) {
-        return console.log(err);
-      }
-      console.log("The file was saved!", filename);
-    });
+
+
+//     const filename = path.join(
+//       __dirname,
+//       `/entries/${item.slug}.md`
+//       );
+
+//     fs.writeFile(filename, content, function (err) {
+//       if (err) {
+//         return console.log(err);
+//       }
+//       console.log("The file was saved!", filename);
+//     });
     
 
 
