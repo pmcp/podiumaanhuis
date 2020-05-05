@@ -2,7 +2,7 @@
 title: 'Tagfish'
 descr: 'BERLIN'
 videoLength: '56 min '
-text: ">-
+text: '>-
   \[all great changes begin at the table\]
   
   Een verhaal over wachten. Zeven personages aan tafel, op zoek naar nieuwe bestemmingen voor de braakliggende terreinen in hun gebied. Een conferentie die in realiteit nooit plaatsvond.
@@ -36,6 +36,5 @@ text: ">-
   BUSINESS MANAGEMENT: Kurt Lannoye
   CATERING: Kim Troubleyn
   COPRODUCTION: Theater der Welt \[Mülheim, DE\], STUK \[Leuven, BE\], Festival TEMPS D'IMAGES 2010 / La Ferme du Buisson \[Scène Nationale de Marne-la-Vallée, FR\], Wiener Festwochen \[Vienna, AT\].
-  WITH THE SUPPORT OF the Flemish Government. BERLIN is associated artist to deSingel \[Antwerp, BE\] & le CENTQUATRE-PARIS \[FR\].
-"
+  WITH THE SUPPORT OF the Flemish Government. BERLIN is associated artist to deSingel \[Antwerp, BE\] & le CENTQUATRE-PARIS \[FR\].'
 ---

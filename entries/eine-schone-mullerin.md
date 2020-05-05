@@ -2,7 +2,7 @@
 title: 'Eine schöne Müllerin'
 descr: 'Spectra'
 videoLength: '71 min'
-text: ">-
+text: '>-
   “In my arranging and rearranging of images I’m like a child \[…\]
 
   I’m like a lunatic adorning my hair with dried flowers that are still alive in my dreams.”
@@ -37,6 +37,5 @@ text: ">-
 
   ‍
 
-  Opname door PARCHFILMS
-"
+  Opname door PARCHFILMS'
 ---

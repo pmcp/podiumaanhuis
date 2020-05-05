@@ -2,7 +2,7 @@
 title: 'Penelope'
 descr: 'Voetvolk / Lisbeth Gruwez & Maarten Van Cauwenberghe'
 videoLength: '17 min'
-text: ">-
+text: '>-
   “Penelope wacht, worstelt met tijd en verlangen. Haar beweging is die van de stilstand.”
   
   Als al het verbale geweld van de 24 mannen die de Odyssee vertellen eenmaal over de scène heeft geraasd, brengt Lisbeth Gruwez een woordeloos antwoord in de meest zuivere eenvoud: twintig minuten lang danst ze alle verzwegen vrouwen van de Odyssee bijeen, en dient dusdanig al die mannen van repliek.
@@ -27,6 +27,5 @@ text: ">-
 
   CHOREOGRAFIE Lisbeth Gruwez COMPOSITIE Maarten Van Cauwenberghe PERFORMANCE Lisbeth Gruwez LICHTONTWERP Jan Maertens & Harry Cole SCENOGRAFIE Marie Szersnovicz KOSTUUM Myriam Van Gucht REPETITOR Lucius Romeo-Fromm TECHNISCH DIRECTEUR Thomas Glorieux PRODUCTIE Voetvolk vzw & KVS MET DE STEUN VAN de Vlaamse Gemeenschap & de Vlaamse Gemeenschapscommissie
 
-  Opname video door Yves Pezet
-"
+  Opname video door Yves Pezet'
 ---

@@ -2,7 +2,7 @@
 title: 'Los'
 descr: 'Ultima Thule'
 videoLength: '65 min'
-text: ">-
+text: '>-
   Max is een jongen van acht zonder superkracht.
   Zijn ouders zijn net uit-één.
   Weg van de plaats waar alles één is.
@@ -36,6 +36,5 @@ text: ">-
   Kostuums/ Chris Snik
   Scenografie en techniek/ Rupert Defossez
 
-  Opname door Beeldstorm olv Jan Bosteels
-"
+  Opname door Beeldstorm olv Jan Bosteels'
 ---

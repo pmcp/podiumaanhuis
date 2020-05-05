@@ -2,7 +2,7 @@
 title: 'Karandasj'
 descr: 'KOPERGIETERY'
 videoLength: '72 min'
-text: ">-
+text: '>-
   Een voorstelling van KOPERGIETERY
   
   Karandasj dompelt je onder in het grootse,
@@ -23,6 +23,5 @@ text: ">-
   KOOR: Chor-Rus
   LICHTONTWERP: Jeroen Doise
   KLANK: Korneel Moreaux
-  FOTO: Phile Deprez
-"
+  FOTO: Phile Deprez'
 ---

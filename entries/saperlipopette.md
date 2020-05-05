@@ -2,7 +2,7 @@
 title: 'SAPERLIPOPETTE'
 descr: 'Ultima Thule'
 videoLength: '56 min'
-text: ">-
+text: '>-
   SAPERLIPOPETTE  6+
   of hoe verbeelding verlies verlicht
   in samenwerking met Une Tribu
@@ -49,6 +49,5 @@ text: ">-
   Kostuum-assistentie: Jessica Krepinsky (stage)
   Scenografie en techniek: Rupert Defossez
 
-  Opname door Beeldstorm olv Jan Bosteels
-"
+  Opname door Beeldstorm olv Jan Bosteels'
 ---

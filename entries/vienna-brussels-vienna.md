@@ -2,7 +2,7 @@
 title: 'VIENNA-BRUSSELS-VIENNA'
 descr: 'Terra Nova Collective'
 videoLength: '38 min'
-text: ">-
+text: '>-
   Vlad Weverbergh conductor and basset clarinet
   Coline Dutilleul mezzo-soprano        
   
@@ -29,6 +29,5 @@ text: ">-
 
   Beeld en geluidsopname: Stoffel de Laat, [Studio C](http://www.studioc.be)
   Beeldmontage: Cédric Murrath
-  Artistieke supervisie: Dirk Decaluwe r.i.p.
-"
+  Artistieke supervisie: Dirk Decaluwe r.i.p.'
 ---

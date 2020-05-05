@@ -2,7 +2,7 @@
 title: 'De man, de vrouw en de beer'
 descr: 'BRONKS'
 videoLength: '76 min'
-text: ">-
+text: '>-
   Waar willen we naartoe en waar komen we vandaan?
 
   DE BEER:
@@ -35,6 +35,5 @@ text: ">-
 
   _Opname video door_ [_Beeldstorm_](http://www.beeldstorm.be) _o.l.v. Jan Bosteels_  
 
-  ‍
-"
+  ‍'
 ---

@@ -2,7 +2,7 @@
 title: 'Lampionaio'
 descr: 'Sprookjes enzo'
 videoLength: '50 min'
-text: ">-
+text: '>-
   Een interactieve circustheatervoorstelling met weinig woorden, maar des te meer beelden.
   
   Een familievoorstelling voor kleuters van 3 tot 5 jaar.
@@ -28,6 +28,5 @@ text: ">-
   Kostuums & grafisch ontwerp Margot De Group
   
   In samenwerking met Accademia Perduta Romagna Teatri en CC Asse
-  Met steun van de stad Antwerpen
-"
+  Met steun van de stad Antwerpen'
 ---

@@ -2,7 +2,7 @@
 title: 'Gesprek met de regen / Conversation with the rain'
 descr: 'Het nieuwstedelijk'
 videoLength: '107 min'
-text: ">-
+text: '>-
   English version of 'Gesprek met de regen', see below
   
 
@@ -38,6 +38,5 @@ text: ">-
   
   **written and directed** Stijn Devillé **with** Tom Van Bauwel & Sara Vertongen **child’s voice** Marion De Schepper **music** Gerrit Valckenaers & Geert Waegeman **video** Walter Verdin **light design** Mark Van Denesse light design **dramaturgy** Els Theunis **technical coordination** Kishan Singh **development rain printer** Arne Broeders & Wouter Driessens, prof. Luc Geurts  **technicians** Viktor Thys, Thomas Verachtert, Peter Lauwers, Tom Buys, Bregt Janssen **production** Ellen Haesevoets, Greet Van Poeck, Thomas Verachtert  **sound design** Stefan De Reese & Tom Buys **costume design** Veerle Hasselman **stage design** Benoit Aigret, Andreas Ketels **a production of**Het nieuwstedelijk **coproduction** C-mine cultuurcentrum **in collaboration with** e-Media Research Lab KU Leuven **with the support of** Leuven MindGate Crossover Contest and the Flemish Government and the support of Flanders Literature **with the support of** the Tax Shelter incentive of the Belgian Government and Gallop Tax Shelter
   
-  Opname in: OPEK - Openbaar Entrepot voor de Kunsten, Leuven
-"
+  Opname in: OPEK - Openbaar Entrepot voor de Kunsten, Leuven'
 ---

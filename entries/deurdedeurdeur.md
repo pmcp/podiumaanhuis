@@ -2,7 +2,7 @@
 title: 'Deurdedeurdeur'
 descr: 'SKaGeN'
 videoLength: '154 min'
-text: ">-
+text: '>-
   SKaGeN zet de lachband aan… Een meesterwerkje in drie bedrijven… En elk bedrijf wordt ‘Deurdedeurdeur’ grappiger. Technisch is het perfect: de timing zit goed, de vergissingen worden perfect uitgevoerd. (De Standaard)
 
   Het ene hilarische moment volgt het andere op. (Cutting Edge)
@@ -21,6 +21,5 @@ text: ">-
 
   _Opname video door_ [_Beeldstorm_](http://www.beeldstorm.be) _o.l.v. Jan Bosteels_  
 
-  ‍
-"
+  ‍'
 ---

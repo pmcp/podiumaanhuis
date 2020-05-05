@@ -2,7 +2,7 @@
 title: 'KALF!'
 descr: 'ZAAM'
 videoLength: '68 min'
-text: ">-
+text: '>-
   De Boer zette een deur open en toen zag Koetje Kalf voor het eerst kleuren.
   De hemelsblauwe hemel. Het grasgroene gras.
   Frisse lucht, vlinders en madeliefjes. Het gegons van de lente.
@@ -40,6 +40,5 @@ text: ">-
   
   
 
-  ‍
-"
+  ‍'
 ---

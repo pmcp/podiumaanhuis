@@ -2,7 +2,7 @@
 title: 'KEIK'
 descr: '4Hoog & Blauwhuis'
 videoLength: '41 min'
-text: ">-
+text: '>-
   De vogel achterna
 
   Door de gietende regen
@@ -37,6 +37,5 @@ text: ">-
 
   Film: Blauwhuis
   
-  Opname door Beeldstorm o.l.v. Jan Bosteels
-"
+  Opname door Beeldstorm o.l.v. Jan Bosteels'
 ---

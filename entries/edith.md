@@ -2,7 +2,7 @@
 title: 'Edith!'
 descr: 'Mireille Vaessen, Sam Pasternak , Martine de Kok'
 videoLength: '17 min'
-text: ">-
+text: '>-
   Edith! is een chansonprogramma met nummers die door Edith Piaf gezongen werden.
 
   The show must go on, wat er ook gebeurt.
@@ -32,6 +32,5 @@ text: ">-
 
   Samen muziekmaken is het liefste wat ze doen.
 
-  ‍
-"
+  ‍'
 ---

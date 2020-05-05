@@ -2,7 +2,7 @@
 title: 'Menskens'
 descr: '4Hoog'
 videoLength: '40 min'
-text: ">-
+text: '>-
   Een oude man in een zetel.
   Zijn vrouw is weg.
   
@@ -24,6 +24,5 @@ text: ">-
   Vormgeving: Jan De Brabander en Thao Nguyen (stage)
   Kostuums: Dorine De Muynck
 
-  Opname door Beeldstorm olv Jan Bosteels
-"
+  Opname door Beeldstorm olv Jan Bosteels'
 ---

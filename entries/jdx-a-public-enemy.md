@@ -2,7 +2,7 @@
 title: 'JDX - a public enemy'
 descr: 'tg STAN'
 videoLength: '91 min'
-text: ">-
+text: '>-
   JDX a public enemy vertelt het verhaal van een enkeling die tegenover een maatschappelijke en politieke meerderheid staat. Een dokter ontdekt dat het water in het nieuwe kuuroord ernstig vervuild is. Zijn broer, de burgemeester van de stad, weigert op te treden wegens de zware financiële gevolgen die dat zou hebben. Uiteindelijk wordt de dokter als een vijand van het volk gebrandmerkt, want de bevolking denkt dat haar welvaart bedreigd wordt. De rol van de media en de valkuilen van de democratie worden uitvoerig belicht. In agitpropstijl stelt de voorstelling het totaal gebrek aan oprechtheid in een democratie aan de kaak, het gesjoemel, de leugens en intimidatie, het bedrog van de bevolking en de onverdraagzaamheid.
 
   ‍
@@ -23,6 +23,5 @@ text: ">-
 
   ‍
 
-  _Opname video door_ [_Beeldstorm_](http://www.beeldstorm.be) _o.l.v. Jan Bosteels_
-"
+  _Opname video door_ [_Beeldstorm_](http://www.beeldstorm.be) _o.l.v. Jan Bosteels_'
 ---

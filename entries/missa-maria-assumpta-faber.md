@@ -2,7 +2,7 @@
 title: 'Missa Maria Assumpta, Faber'
 descr: 'Terra Nova Collective'
 videoLength: '47 min'
-text: ">-
+text: '>-
   Joannes Adamus Faber
   Missa Maria Assumpta
 
@@ -31,6 +31,5 @@ text: ">-
   Met dank aan Wilfried Van den Brande!
 
   
-  Beeld, geluidsopname en montage: Stoffel de Laat, [Studio C](http://www.studioc.be)
-"
+  Beeld, geluidsopname en montage: Stoffel de Laat, [Studio C](http://www.studioc.be)'
 ---

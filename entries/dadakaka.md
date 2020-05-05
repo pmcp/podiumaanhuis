@@ -2,7 +2,7 @@
 title: 'Dadakaka'
 descr: 'Tuning People'
 videoLength: '65 min'
-text: ">-
+text: '>-
   DaDaKaKa is een op hol geslagen cabaret voor kinderen vanaf 8 jaar (en hun ouders en grootouders en vrienden van hun ouders en grootouders). Verschillende acts doordrongen van wilde creativiteit volgen elkaar op. DaDaKaKa is een combinatie van hoekige dans, gebroken pianomuziek, geflipte beelden en gestoorde teksten. DaDaKaKa is een voorstelling over wat kan en wat niet kan. De wereld barst van de regels, in deze voorstelling zijn er geen: een schilderij kan zingen en letters kunnen dansen.
 
   DaDa = dadaïsme\*, maar dan korter
@@ -47,6 +47,5 @@ text: ">-
 
   ‍
 
-  Opname door Ans Kanen
-"
+  Opname door Ans Kanen'
 ---

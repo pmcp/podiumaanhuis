@@ -2,7 +2,7 @@
 title: 'TILL IT'S OVER'
 descr: 'SKaGeN ism Richard Jackson'
 videoLength: '77 min'
-text: ">-
+text: '>-
   'TILL IT'S OVER' is een cross-disciplinaire samenwerking tussen SKaGeN en de Amerikaanse schilder en beeldend kunstenaar Richard Jackson, rond de thema's burgeroorlog, tederheid en wraak.
 
   Richard Jackson maakte een installatie op basis van Picasso's bekende oorlogsschilderij Guernica. Acteurs Valentijn Dhaenens en Clara van den Broek creëren een theatrale performance op basis van hetzelfde thema. Hoe gaan twee mensen om met de gevolgen van extreem geweld, en wat is de blijvende impact wanneer de tijd zijn werk heeft gedaan? Kan geweld ons dichter bij elkaar brengen? Dringen we dieper in elkaar door en raken we verbonden ondanks of zelfs door het geweld dat we elkaar aandoen? Creëert geweld intimiteit?
@@ -37,6 +37,5 @@ text: ">-
 
   _Opname video door_ [_Beeldstorm_](http://www.beeldstorm.be) _o.l.v. Jan Bosteels_  
 
-  ‍
-"
+  ‍'
 ---

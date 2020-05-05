@@ -2,7 +2,7 @@
 title: 'Spoiler Alert'
 descr: 'Larf!'
 videoLength: '51 min'
-text: ">-
+text: '>-
   Spoiler Alert vertrekt vanuit het verhaal van Oedipus.
   Acht jongens gaan op zoek naar de belangrijkheid, de bruikbaarheid en de onvoorwaardelijkheid van hun relatie met hun ma. Geen klassiek verhaal, maar een pak anekdotes, stoere verhalen, verloren liefdes en dilemma’s.
 
@@ -17,6 +17,5 @@ text: ">-
   Muziek: Kenji Minogue
   Affichebeeld: Jan-Sebastiaan Degeyter
 
-  Opname video doorAchiel Van den Abeele
-"
+  Opname video doorAchiel Van den Abeele'
 ---

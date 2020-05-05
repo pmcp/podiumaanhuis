@@ -2,7 +2,7 @@
 title: 'De stroom'
 descr: 'Ultima Thule'
 videoLength: '60 min'
-text: ">-
+text: '>-
   DE STROOM 10+
   Of een waterkans om te worden wie ik altijd al was
   
@@ -36,6 +36,5 @@ text: ">-
   Objecten en kostuums/ Griet Herssens
   Scenografie & techniek/ Rupert Defossez
 
-  Opname door Beeldstorm olv Jan Bosteels
-"
+  Opname door Beeldstorm olv Jan Bosteels'
 ---
