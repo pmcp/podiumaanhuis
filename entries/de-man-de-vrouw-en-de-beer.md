@@ -2,7 +2,6 @@
 title: 'De man, de vrouw en de beer'
 descr: 'BRONKS'
 videoLength: '76 min'
-videoLength: '76 min'
 text: '
   Waar willen we naartoe en waar komen we vandaan?
 

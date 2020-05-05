@@ -245,7 +245,6 @@ module.exports = function (api) {
 title: '${item.name}'
 descr: '${item.excerpt}'
 videoLength: '${item['video-length']}'
-videoLength: '${item['video-length']}'
 text: '
 ${turndowndedText}'
 ---

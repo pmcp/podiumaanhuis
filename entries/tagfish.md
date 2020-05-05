@@ -2,7 +2,6 @@
 title: 'Tagfish'
 descr: 'BERLIN'
 videoLength: '56 min '
-videoLength: '56 min '
 text: '
   \[all great changes begin at the table\]
   

@@ -2,7 +2,6 @@
 title: 'Bravo! meneer Bruegel'
 descr: 'Laika & Openluchtmuseum Bokrijk'
 videoLength: '100 min'
-videoLength: '100 min'
 text: '
   Met de internationale expo ‘De wereld van Bruegel’ bracht het Openluchtmuseum Bokrijk in 2019 hommage aan Pieter Bruegel de Oude. Laika was één van de artistieke partners. Geuren en verhalen, eten en drinken en muzikaal theater dompelden je onder in Bruegels schilderij De Strijd tussen Carnaval en Vasten.
 

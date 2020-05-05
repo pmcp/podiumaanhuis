@@ -2,7 +2,6 @@
 title: 'Poepsimpel'
 descr: 'Compagnie Cecilia'
 videoLength: '95 min'
-videoLength: '95 min'
 text: '
   ‘Poepsimpel’ vertelt het verhaal van een familiereünie op het domein van ‘de baron’. Hij heeft zijn kasteel verkocht en nodigt voor een laatste keer de mensen uit die hem na aan het hart liggen. Van Arne Sierens met Titus De Voogdt, Robrecht Vanden Thoren en Tom Vermeir.
   

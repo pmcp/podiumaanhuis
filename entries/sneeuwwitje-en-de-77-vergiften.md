@@ -2,7 +2,6 @@
 title: 'Sneeuwwitje en de 77 vergiften'
 descr: 'Hanneke Paauwe & Villanella'
 videoLength: '90 min'
-videoLength: '90 min'
 text: '
   Voor iedereen vanaf 7 jaar
 

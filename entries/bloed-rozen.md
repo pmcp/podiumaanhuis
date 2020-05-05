@@ -2,7 +2,6 @@
 title: 'Bloed & Rozen'
 descr: 'Toneelhuis'
 videoLength: '145 min'
-videoLength: '145 min'
 text: '
   Jeanne d’Arc en Gilles de Rais: de Maagd en de Duivel!                
 

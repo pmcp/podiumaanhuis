@@ -2,7 +2,6 @@
 title: 'Eerste sneeuw'
 descr: 'KOPERGIETERY en Vélo Théâtre'
 videoLength: '60 min'
-videoLength: '60 min'
 text: '
   Een productie van KOPERGIETERY en Vélo Théâtre.
   

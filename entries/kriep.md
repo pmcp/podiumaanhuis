@@ -2,7 +2,6 @@
 title: 'Kriep'
 descr: '4Hoog'
 videoLength: '47 min'
-videoLength: '47 min'
 text: '
   _Wat als een thriller ontleed wordt?_
   _Volledig binnenstebuiten gedraaid?

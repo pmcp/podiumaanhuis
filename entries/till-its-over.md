@@ -2,7 +2,6 @@
 title: 'TILL IT'S OVER'
 descr: 'SKaGeN ism Richard Jackson'
 videoLength: '77 min'
-videoLength: '77 min'
 text: '
   'TILL IT'S OVER' is een cross-disciplinaire samenwerking tussen SKaGeN en de Amerikaanse schilder en beeldend kunstenaar Richard Jackson, rond de thema's burgeroorlog, tederheid en wraak.
 

@@ -2,7 +2,6 @@
 title: 'Expo 58'
 descr: 'Along Comes Mary'
 videoLength: '97 min'
-videoLength: '97 min'
 text: '
   58 – Back to the future
 

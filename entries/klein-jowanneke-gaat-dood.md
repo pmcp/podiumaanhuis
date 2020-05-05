@@ -2,7 +2,6 @@
 title: 'Klein Jowanneke gaat dood'
 descr: 'MartHa!tentatief '
 videoLength: '118 min'
-videoLength: '118 min'
 text: '
   op nen dag wordt ge wakker
 

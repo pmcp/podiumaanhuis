@@ -2,7 +2,6 @@
 title: 'Groupe Diane'
 descr: 'Het nieuwstedelijk'
 videoLength: '125 min'
-videoLength: '125 min'
 text: '
   Het begint bij het verhaal van een jonge kerel. Het is 1980. Hij kaapt een lijnbus en eist radiozendtijd. Naïef idealisme in een tijdperk dat wordt getekend door economische crisis, bijzondere wetten en indexsprongen. Dreiging uit het oosten en protest, gewapende actie en geweld.
   

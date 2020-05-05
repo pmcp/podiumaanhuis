@@ -2,7 +2,6 @@
 title: 'Menuet'
 descr: 'LOD / Daan Janssens & Fabrice Murgia'
 videoLength: '90 min'
-videoLength: '90 min'
 text: '
   Een man, een vrouw en een meisje delen een huis. De man slijt zijn dagen in de vrieskelder van een bedrijf. Om de tijd te doden verzamelt hij krantenknipsels van allerhande gruwelijkheden. Zijn hyperactieve echtgenote verliest zich ondertussen in het geregel van het huishouden en in het maken van kinderkleertjes die ze verkoopt via haar zwager. Het huishoudhulpje dat haar bijstaat, speelt de hoofdrol in de verlangens van de man. Die klassieke driehoeksverhouding ontvouwt zich in Menuet tot een grootse tragedie in huiskamerformaat.
   

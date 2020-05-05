@@ -2,7 +2,6 @@
 title: 'De tuin van de walvis'
 descr: 'Beeldsmederij DE MAAN'
 videoLength: '47 min'
-videoLength: '47 min'
 text: '
   Gebaseerd op de prachtvertelling van meesterpointillist Toon Tellegen, bekroond met de Zilveren Griffel 2016. Over een walvis die een tuin op zijn rug wil. Tot het zover is.
 

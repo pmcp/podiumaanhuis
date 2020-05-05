@@ -2,7 +2,6 @@
 title: 'Wit is altijd schoon'
 descr: 'HETGEVOLG'
 videoLength: '83 min'
-videoLength: '83 min'
 text: '
   Een opgewekte roman over rouw, afkomst en taal. Kan dat wel?
 

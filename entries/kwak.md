@@ -2,7 +2,6 @@
 title: 'Kwak'
 descr: 'FroeFroe'
 videoLength: '57 min'
-videoLength: '57 min'
 text: '
   In een eigen theater installatie wordt de kleine wereld van de kikkerprins een fijn bubbelend bellen en waterparadijs.
 

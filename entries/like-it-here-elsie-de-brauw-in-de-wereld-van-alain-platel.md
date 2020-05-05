@@ -2,7 +2,6 @@
 title: 'Like it here? Elsie de Brauw in de wereld van Alain Platel'
 descr: 'Les ballets C de la B / Carine Bijlsma'
 videoLength: '54 min'
-videoLength: '54 min'
 text: '
   Documentaire uit 2014 van Carine Bijlsma. Als enige actrice tussen vijf dansers, volgt Elsie de Brauw een moeilijke en eenzame weg tijdens het creatieproces van de dansvoorstelling ‘tauberbach’ van choreograaf Alain Platel. De documentaire volgt van nabij haar worsteling met de rol, het loslaten van tekst als houvast, het zoeken naar een nieuwe taal.
 

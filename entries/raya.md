@@ -2,7 +2,6 @@
 title: 'Raya'
 descr: 'hetpaleis, beeldsmederij DE MAAN en Moussem Nomadisch Kunstencentrum'
 videoLength: '68 min'
-videoLength: '68 min'
 text: '
   In een klein vreemd dorp woont Raya, het meisje met de groene haren. Zij is de laatste overlevende van de groenharigen. Raya wil op zoek naar haar ouders, die ooit verbannen zijn uit het dorp. Niemand weet waarom. Of niemand zegt waarom. Met de hulp van haar vriendin Nana start ze de zoektocht die haar op verrassende en bizarre plekken brengt …
 

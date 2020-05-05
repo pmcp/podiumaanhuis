@@ -2,7 +2,6 @@
 title: 'BREL'
 descr: 'David Linx & Brussels Jazz Orchestra'
 videoLength: '93 min'
-videoLength: '93 min'
 text: '
   Brel en Brussels Jazz Orchestra, het is een combinatie die tot de verbeelding spreekt. Voeg daar de internationaal gerenommeerde vocalist David Linx aan toe en je hebt een muzikaal project met vijfsterrenkwaliteit.
 

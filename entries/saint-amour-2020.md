@@ -2,7 +2,6 @@
 title: 'Saint Amour 2020'
 descr: 'Behoud de Begeerte'
 videoLength: '103 min'
-videoLength: '103 min'
 text: '
   Over de meest recente editie van het meest bekende programma van Behoud de Begeerte schreef Het Nieuwsblad:  “De liefde is een huis met vele kamers en de 26ste editie van het valentijnsprogramma Saint Amour verkent ze allemaal”, en zo is het maar net.
 

@@ -2,7 +2,6 @@
 title: 'Het wijde land'
 descr: 'Tg STAN'
 videoLength: '119 min'
-videoLength: '119 min'
 text: '
   Obstakels bij het hebben van een relatie met een getrouwde vrouw:Het is toegestaan de vrouw van een ander te verleiden wanneer men het gevaar loopt te sterven van liefde voor haar.
 

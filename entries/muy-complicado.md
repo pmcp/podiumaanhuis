@@ -2,7 +2,6 @@
 title: 'Muy Complicado'
 descr: 'ARSENAAL'
 videoLength: '80 min'
-videoLength: '80 min'
 text: '
   **_Muy Complicado_** is een wervelende, tragikomische voorstelling waarin vier spelers omgaan met het lijden van de mens als soort. De personages lijken weggelopen uit films van de Spaanse cineast Pedro Almodovar.
 

@@ -2,7 +2,6 @@
 title: 'Rood'
 descr: 'HETGEVOLG'
 videoLength: '63 min'
-videoLength: '63 min'
 text: '
   Internationaal bejubeld jeugdauteur Jan De Kinder werkt samen met topacteur Stefaan Degand en regisseur Stefan Perceval aan een organisch verhaal over pesten.
 

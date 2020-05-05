@@ -2,7 +2,6 @@
 title: 'Van den Vos'
 descr: 'FC Bergman / Toneelhuis'
 videoLength: '93 min'
-videoLength: '93 min'
 text: '
   Nevel hangt in dikke plakken tussen het groen. In het schaarse licht zien we de tijd voorbijgaan. Iets schiet tussen de planten door en verdwijnt weer. De mist neemt toe, vult het woud met een dicht wolkenpak, tot er niets anders meer overblijft dan een solide, witte massa. Verloren, op de tast, stapt hij door deze smog, door dit bos. Het bos dat kraakt en fluistert. Hij waadt door de varens en roept voorzichtig een naam en die klinkt als “Vos!” en “Vos?”. En de varens fluisteren mee. En hij kan amper een hand voor ogen zien in de mist die zich als een dikke deken om hem heen plooit.                
 

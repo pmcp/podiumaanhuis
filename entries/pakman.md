@@ -2,7 +2,6 @@
 title: 'PAKMAN'
 descr: 'Post uit Hessdalen'
 videoLength: '23 min'
-videoLength: '23 min'
 text: '
   _PAKMAN_ leeft sneller dan een muis kan klikken. 1 pakje, 2 formulieren, 3 stempels, 6 handtekeningen, 450 keer per dag, 159.750 pakjes per jaar in ruil voor 10 vakantiedagen. _PAKMAN_ doorkruist het land om altijd precies op tijd pakjes af te leveren. In de laadbak van zijn kleine vrachtwagen wordt het publiek uitgenodigd voor een intense performance over een even eenzame als onzichtbare bewoner van onze virtuele economie.
 

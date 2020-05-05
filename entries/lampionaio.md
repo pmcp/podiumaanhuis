@@ -2,7 +2,6 @@
 title: 'Lampionaio'
 descr: 'Sprookjes enzo'
 videoLength: '50 min'
-videoLength: '50 min'
 text: '
   Een interactieve circustheatervoorstelling met weinig woorden, maar des te meer beelden.
   

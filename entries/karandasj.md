@@ -2,7 +2,6 @@
 title: 'Karandasj'
 descr: 'KOPERGIETERY'
 videoLength: '72 min'
-videoLength: '72 min'
 text: '
   Een voorstelling van KOPERGIETERY
   

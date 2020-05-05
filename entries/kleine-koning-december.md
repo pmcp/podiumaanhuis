@@ -2,7 +2,6 @@
 title: 'Kleine Koning December'
 descr: 'HETGEVOLG'
 videoLength: '45 min'
-videoLength: '45 min'
 text: '
   KLEINE KONING DECEMBER (8+) met meesterverteller Vic De Wachter in een regie en bewerking van Stefan Perceval.
 

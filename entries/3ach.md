@@ -2,7 +2,6 @@
 title: '3ACH'
 descr: 'Zonzo Compagnie'
 videoLength: '53 min'
-videoLength: '53 min'
 text: '
   Zonzo Compagnie verovert de wereld met intrigerende voorstellingen over het werk van fascinerende muzikanten en componisten. Eerder werd de muziek van John Cage, Miles Davis en Luciano Berio uitgepakt en aangepakt, nu is Johann Sebastian Bach aan de beurt. Bach is een monument, een tovenaar met klank en melodieën, een genie dat duizelingwekkende fuga’s, preludes, koralen en partita’s aan elkaar reeg en 250 jaar na zijn dood nog steeds de hitparades aanvoert.
 

@@ -2,7 +2,6 @@
 title: 'POPCORN '
 descr: 'Randi De Vlieghe / fABULEUS '
 videoLength: '82 min'
-videoLength: '82 min'
 text: '
   **POPCORN** is een dansvoorstelling met de impact van een popconcert. Een intense krachtmeting tussen drie mannenlijven en een live drummer. Alles draait om de onweerstaanbare kracht van de beat. Maar ook van de stilte.
 

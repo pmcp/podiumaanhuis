@@ -2,7 +2,6 @@
 title: 'Berg'
 descr: 'Raumteid'
 videoLength: '87 min'
-videoLength: '87 min'
 text: '
   Raumteid versmelt in Berg muziek van Richard Wagner met motieven uit 'De Toverberg' van Thomas Mann. Op scène zien we vier mensen die samen een berglandschap opbouwen. Als ze daarna elk apart een moment van verstilling opzoeken, lijkt de berg op steeds weer andere manieren terug te spreken.
 

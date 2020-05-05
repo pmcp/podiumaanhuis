@@ -2,7 +2,6 @@
 title: 'Le Salon'
 descr: 'Peeping Tom'
 videoLength: '70 min'
-videoLength: '70 min'
 text: '
   Le Salon vormde het tweede luik uit een trilogie die startte met Le Jardin in 2002 en eindigde met Le Sous Sol in 2007. Le Salon was een collectieve creatie van de performers en ging op 4 november 2004 in première in La Rose des Vents (Villeneuve d'Ascq, FR). Tussen 2004 en 2009 toerde het stuk wereldwijd, in Europa, Zuid-Korea en Australië.
   

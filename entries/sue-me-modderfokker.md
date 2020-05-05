@@ -2,7 +2,6 @@
 title: 'SUE ME MODDERFOKKER'
 descr: 'SKaGeN'
 videoLength: '120 min'
-videoLength: '120 min'
 text: '
   Ik heb een heel goede buurman. Echt waar. Ik weet dat u de indruk zult krijgen dat àlles wat ik vandaag vertel waar is, maar dat is dus niet zo. Ik heb echt een zeer zeer goede buurman. Dat is heel belangrijk. Het is zeer belangrijk dat ik duidelijk maak dat dit allemaal niks met de realiteit te maken heeft. Dat heeft mijn advocaat ook gezegd.
 

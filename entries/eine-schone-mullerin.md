@@ -2,7 +2,6 @@
 title: 'Eine schöne Müllerin'
 descr: 'Spectra'
 videoLength: '71 min'
-videoLength: '71 min'
 text: '
   “In my arranging and rearranging of images I’m like a child \[…\]
 

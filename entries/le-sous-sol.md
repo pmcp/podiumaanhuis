@@ -2,7 +2,6 @@
 title: 'Le Sous Sol'
 descr: 'Peeping Tom'
 videoLength: '60 min'
-videoLength: '60 min'
 text: '
   Le Sous Sol vormt het sluitstuk van de eerste trilogie van Peeping Tom, die in 2002 startte met Le Jardin, gevolgd door Le Salon in 2004. Le Sous Sol was opnieuw een collectieve creatie van de performers en ging op 28 maart 2007 in première in de Koninklijke Vlaamse Schouwburg (KVS) in Brussel (BE). Tussen 2007 en 2009 toerde het stuk doorheen Europa en Japan.
   

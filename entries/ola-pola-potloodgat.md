@@ -2,7 +2,6 @@
 title: 'Ola Pola Potloodgat'
 descr: 'BRONKS & het TheaterFestival'
 videoLength: '52 min'
-videoLength: '52 min'
 text: '
   In 2002 maakte BRONKS met Pascale Platel en Randi De Vlieghe Ola Pola Potloodgat. Uitverkochte zalen, ellenlange tournees in binnen- en buitenland én winnaar van de Grote TheaterFestivalprijs.
 

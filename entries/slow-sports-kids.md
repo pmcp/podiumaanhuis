@@ -2,7 +2,6 @@
 title: 'Slow Sports Kids'
 descr: 'Albert Quesada / fABULEUS'
 videoLength: '54 min'
-videoLength: '54 min'
 text: '
   In 2012 maakte de Spaanse choreograaf Albert Quesada de dansvoorstelling Slow Sports vanuit een soort heimwee naar het teamgevoel dat hij als kind ervoer bij het voetballen en vanuit de vaststelling hoe anders je voetbal beleeft vanuit je zetel.
   

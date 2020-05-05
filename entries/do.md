@@ -2,7 +2,6 @@
 title: 'DO'
 descr: 'Speelman'
 videoLength: '50 min'
-videoLength: '50 min'
 text: '
   Rien is jarig.En dus geeft ze een feestje. Iedereen is er. Alle vriendjes en vriendinnetjes.
 

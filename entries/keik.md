@@ -2,7 +2,6 @@
 title: 'KEIK'
 descr: '4Hoog & Blauwhuis'
 videoLength: '41 min'
-videoLength: '41 min'
 text: '
   De vogel achterna
 

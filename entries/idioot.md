@@ -2,7 +2,6 @@
 title: 'Idioot'
 descr: 'LAZARUS'
 videoLength: '108 min'
-videoLength: '108 min'
 text: '
   In 2017 hernemen de LAZARUSSEN drie straffe voorstellingen van Russische schrijvers onder de noemer ‘De Russen komen!’: Oblomow, Idioot en Karamazow. Eén keer Gontsjarow, twee keer Dostojewski. Drie joekels van romans met een serieuze staat van dienst.
 

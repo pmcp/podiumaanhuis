@@ -2,7 +2,6 @@
 title: 'Nachtschade: Aubergine'
 descr: 'Muziektheater Transparant'
 videoLength: '89 min'
-videoLength: '89 min'
 text: '
   Claron McFadden gaat op zoek naar de gemeenschappelijke wortels van onze diverse culturen aan de hand van de aubergine. Ondanks de enorme migratie die deze oeroude nachtschade-achtige doormaakte, wist de aubergine zich telkens aan te passen zonder haar eigenzinnige karakter te verliezen. McFadden legt deze route in omgekeerde richting af, terug naar de roots van de aubergine langs de Mediterranee.
 

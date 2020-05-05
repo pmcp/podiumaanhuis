@@ -2,7 +2,6 @@
 title: 'NERF'
 descr: 'Zefiro Torna & Ultima Thule'
 videoLength: '81 min'
-videoLength: '81 min'
 text: '
   Morgen is het feest in rusthuis De Eglantier. Frans en Hélène, beiden 106, vieren hun 80 jaar samen. Maar midden in de nacht zit Frans naar haar te kijken. Dat is Hélène niet meer. Dat zijn haar contouren, maar dan slecht ingekleurd. Help, Frans! Help! Hij moet iets doen. Nu. De deur staat op een kier. 't Is de moment! En ineens zijn ze daar: herinneringen, een verhaal over jeugd en ouderdom, stappen en misstappen, waarheid en verzinsel, over lief en leed.
 

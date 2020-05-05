@@ -2,7 +2,6 @@
 title: 'Josette'
 descr: 'FroeFroe'
 videoLength: '52 min'
-videoLength: '52 min'
 text: '
   Een theaterclip of "tictac" op speed met poppen, spel, dans en weinig woorden. In zijn wereldvermaarde absurdistische stijl pende Ionesco ooit “4 verhalen voor Josette” neer. Ionesco zou deze voorstelling de max vinden, grappig absurd en schoon. Een voorstelling voor jong en oud. Volgens Ruy Vidal de ideale stimulans om kinderen te wapenen tegen al het boerenbedrog, misleidende valstrikken en geheimhoudingen in naam van het gezond verstand!
 

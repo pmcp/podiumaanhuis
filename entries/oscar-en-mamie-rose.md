@@ -2,7 +2,6 @@
 title: 'Oscar en Mamie Rose'
 descr: 'KOPERGIETERY'
 videoLength: '75 min'
-videoLength: '75 min'
 text: '
   Een voorstelling van KOPERGIETERY
   

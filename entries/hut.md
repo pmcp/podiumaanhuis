@@ -2,7 +2,6 @@
 title: 'HUT'
 descr: '4Hoog'
 videoLength: '45 min'
-videoLength: '45 min'
 text: '
   Kleine Zus neemt je mee naar grote broer.
   Grote Broer kan alles.

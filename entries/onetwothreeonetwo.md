@@ -2,7 +2,6 @@
 title: 'OneTwoThreeOneTwo'
 descr: 'Albert Quesada'
 videoLength: '40 min'
-videoLength: '40 min'
 text: '
   Dit is geen flamencovoorstelling.
   

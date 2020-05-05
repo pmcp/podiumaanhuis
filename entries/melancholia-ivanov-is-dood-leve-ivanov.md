@@ -2,7 +2,6 @@
 title: 'Melancholia - Ivanov is dood. Leve Ivanov'
 descr: 'de Roovers'
 videoLength: '80 min'
-videoLength: '80 min'
 text: '
   "Ondanks duidelijke successen hebben veel mensen het gevoel dat ze falen. Nooit zijn we mooi en succesvol genoeg, nooit in vergelijking met de ander als concurrent, maar ook met de ander die je zelf bent. Een race tegen je eigen schaduw kan je niet winnen." – Paul Verhaeghe.
   

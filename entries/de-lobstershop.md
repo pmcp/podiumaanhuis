@@ -2,7 +2,6 @@
 title: 'De Lobstershop'
 descr: 'Jan Lauwers & Needcompany'
 videoLength: '90 min'
-videoLength: '90 min'
 text: '
   De Lobstershop vertelt het verhaal van Axel en Theresa. Door een stom incident sterft hun zoon. Het verdriet is allesvernietigend en als geen enkele therapie nog helpt en zijn vrouw hem verlaat, besluit Axel zelfmoord te plegen. Op de bewuste dag trekt hij zijn beste pak aan en gaat hij, bij wijze van afscheid, nog één keer kreeft eten, met sauce armoricaine, in zijn geliefkoosde restaurant “De Lobstershop”. Maar de kelner struikelt en de kreeft met sauce armoricaine komt op Axels witte pak terecht. In de fractie van een seconde waarin Axel de saus op zijn witte pak ziet terechtkomen, wordt zijn ritueel vernietigd en ziet hij zijn hele leven in zijn gelaat ontploffen. De Lobstershop is de beschrijving van deze fractie van een seconde.
   

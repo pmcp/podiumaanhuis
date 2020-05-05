@@ -2,7 +2,6 @@
 title: 'Don’t we deserve grand human projects that give us meaning?'
 descr: 'Robbert&Frank Frank&Robbert / CAMPO'
 videoLength: '70 min'
-videoLength: '70 min'
 text: '
   Robbert&Frank Frank&Robbert gaan in hun derde voorstelling op zoek naar zingeving in een wereld zonder Groot Verhaal, en dat doen ze op hun geheel eigen manier: met een sterke visuele logica, en knipogend naar ruimtevaart en wetenschap.
   

@@ -2,7 +2,6 @@
 title: 'Missa Maria Assumpta, Faber'
 descr: 'Terra Nova Collective'
 videoLength: '47 min'
-videoLength: '47 min'
 text: '
   Joannes Adamus Faber
   Missa Maria Assumpta

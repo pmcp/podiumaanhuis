@@ -2,7 +2,6 @@
 title: 'Rood'
 descr: 'de KOE'
 videoLength: '86 min'
-videoLength: '86 min'
 text: '
   Rood is, na Wit, het tweede deel van de trilogie De Wederopbouw van het Westen, waarin de KOE stilstaat bij ontstaan, progressie, stagnatie en onvermijdelijk verval van een beweging, idee, organisatie. ROOD behandelt de bloeiperiode van een nieuw idee.
 

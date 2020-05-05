@@ -2,7 +2,6 @@
 title: 'Onvoltooid verleden'
 descr: 'Olympiqe Dramatique / Toneelhuis'
 videoLength: '126 min'
-videoLength: '126 min'
 text: '
   “Ik ben de hond die als hij eenmaal mensenvlees heeft gegeten, afgemaakt moet worden.”                
 

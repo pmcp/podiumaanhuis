@@ -2,7 +2,6 @@
 title: 'Geletterde mensen'
 descr: 'Behoud de Begeerte'
 videoLength: '121 min'
-videoLength: '121 min'
 text: '
   In december 2008 en januari 2009 organiseerde Behoud de Begeerte _Geletterde Mensen_ met **Ramsey Nasr** en **Mauro Pawlowski**. Dat moet dan zo ongeveer de 28ste editie geweest zijn. **Mauro Pawlowski** bracht naast zijn muziek ook, en dit in primeur, eigen teksten - met name: poëzie. Dichter **Ramsey Nasr** las uit zijn werk, maar schroomde zich niet een paar liederen te zingen.
 

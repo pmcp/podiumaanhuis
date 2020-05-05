@@ -2,7 +2,6 @@
 title: 'BONTE NACHT'
 descr: 'beeldsmederij DE MAAN en TUNING PEOPLE'
 videoLength: '50 min'
-videoLength: '50 min'
 text: '
   _In BONTE NACHT krijgt de creativiteit carte blanche en worden kinderdromen reëel. Vlekken worden tot kunst verheven en smossen is een weldaad._
   

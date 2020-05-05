@@ -2,7 +2,6 @@
 title: 'An Old Monk'
 descr: 'LOD / Josse De Pauw & Kris Defoort Trio'
 videoLength: '77 min'
-videoLength: '77 min'
 text: '
   _Over lijf en geest en hoe die maar niet op elkaar afgestemd geraken. Behalve tijdens een dansje misschien. – Josse De Pauw_
 

@@ -2,7 +2,6 @@
 title: 'Tornar'
 descr: 'Ultima Vez / Seppe Baeyens'
 videoLength: '52 min'
-videoLength: '52 min'
 text: '
   Tornar vertelt het verhaal van een groep achterblijvers die na de doortocht van een tornado opnieuw een gemeenschap tracht op te bouwen. Choreograaf / danser Seppe Baeyens (Ultima Vez) neemt de afbrokkelende solidariteit tussen generaties als uitgangspunt voor zijn eerste grootschalige dansvoorstelling.  
   

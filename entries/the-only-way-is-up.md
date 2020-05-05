@@ -2,7 +2,6 @@
 title: 'The only way is UP '
 descr: 'Boris Van Severen en Jonas Vermeulen / CAMPO (2017) '
 videoLength: '59 min'
-videoLength: '59 min'
 text: '
   “Better a ‘Has Been’ than a ‘Never Was’.” Tony in The Up Series, BBC
 

@@ -2,7 +2,6 @@
 title: 'Revelations'
 descr: 'HERMESensemble'
 videoLength: '66 min'
-videoLength: '66 min'
 text: '
   Revelations is een multimediaproject dat de indrukwekkende visioenen van de 13e-eeuwse dichteres en mystica Hadewijch van Antwerpen (s.d.-1248) als uitgangspunt neemt. Haar getuigenissen behoren tot de verbazingwekkendste teksten uit onze literatuurgeschiedenis. In de traditie van de middeleeuwse christelijke mystiek beschrijft Hadewijch in haar Visioenen een extatische liefdesrelatie met de goddelijke Ander; passie is hierbij het sleutelwoord.
   

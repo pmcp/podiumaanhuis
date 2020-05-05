@@ -2,7 +2,6 @@
 title: 'Bambole'
 descr: 'FroeFroe'
 videoLength: '45 min'
-videoLength: '45 min'
 text: '
   Het Sprookje Van Koen en zijn Nieuwe Buurvrouw
   

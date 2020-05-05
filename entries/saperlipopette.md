@@ -2,7 +2,6 @@
 title: 'SAPERLIPOPETTE'
 descr: 'Ultima Thule'
 videoLength: '56 min'
-videoLength: '56 min'
 text: '
   SAPERLIPOPETTE  6+
   of hoe verbeelding verlies verlicht

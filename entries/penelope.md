@@ -2,7 +2,6 @@
 title: 'Penelope'
 descr: 'Voetvolk / Lisbeth Gruwez & Maarten Van Cauwenberghe'
 videoLength: '17 min'
-videoLength: '17 min'
 text: '
   “Penelope wacht, worstelt met tijd en verlangen. Haar beweging is die van de stilstand.”
   

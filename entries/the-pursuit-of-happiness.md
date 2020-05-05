@@ -2,7 +2,6 @@
 title: 'The Pursuit of Happiness'
 descr: 'Behoud de Begeerte'
 videoLength: '89 min'
-videoLength: '89 min'
 text: '
   “We hold these truths to be self-evident that all men are created equal, that they are endowed by their creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.”
 

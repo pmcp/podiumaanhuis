@@ -2,7 +2,6 @@
 title: 'Tape voor kleuters'
 descr: 'Tuning People & fABULEUS'
 videoLength: '54 min'
-videoLength: '54 min'
 text: '
   Een productie van Tuning People & fABULEUS
 

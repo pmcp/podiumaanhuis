@@ -2,7 +2,6 @@
 title: 'Willy Wrat'
 descr: 'Jaela Cole & Villanella'
 videoLength: '56 min'
-videoLength: '56 min'
 text: '
   Een grappige voorstelling over vriendschap en durf voor iedereen vanaf 6 jaar.
 

@@ -2,7 +2,6 @@
 title: 'Ik ben een held!'
 descr: 'Anna's Steen'
 videoLength: '50 min'
-videoLength: '50 min'
 text: '
   Over een monster zonder kop, een vis met scherpe tanden, een geheim… dat geheim is én een spook onder het bed! Vier straffe verhalen over een bijzondere vader- kind relatie waarin het kind altijd slimmer en moediger is dan zijn vader. Gekleurd met vertedering, deugnieterij en onverbloemde gruwel. Dit alles voortgestuwd door ritmische jazzmuziek zoals in een stomme film.
 

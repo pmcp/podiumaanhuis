@@ -2,7 +2,6 @@
 title: 'Le Jardin'
 descr: 'Peeping Tom'
 videoLength: '38 min'
-videoLength: '38 min'
 text: '
   Met Le Jardin creëerde Peeping Tom voor het eerst een voorstelling voor het podium. De voorstelling bestaat uit een film - gedraaid in een Afrikaanse nachtclub in Brussel - gevolgd door een stuk danstheater. Le Jardin werd gecreëerd door Gabriela Carrizo, Franck Chartier en Simon Versnel, en ging op 13 juni 2002 in première in Victoria, Gent (BE). Het stuk ging tussen 2002 en 2008 op tournee doorheen Europa. Le Jardin vormde ook het eerste luik van een trilogie en werd gevolgd in 2004 door Le Salon en in 2007 door Le Sous Sol.
   

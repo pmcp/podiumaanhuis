@@ -2,7 +2,6 @@
 title: 'This door is too small (for a bear)'
 descr: 'Grace Ellen Barkey & Needcompany'
 videoLength: '85 min'
-videoLength: '85 min'
 text: '
   Met This door is too small (for a bear) creëert Grace Ellen Barkey een eigen vormentaal die bijdraagt naar haar zoektocht 'how to free your mind', naar datgene dat nog ondoorgrond is in de geest. Frank Zappa’s lijfspreuk “To me, absurdity is the only reality" is de rode draad doorheen deze voorstelling waarin Grace Ellen Barkey tussen het surrealistische en het psychedelische balanceert.
   

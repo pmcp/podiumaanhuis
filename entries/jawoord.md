@@ -2,7 +2,6 @@
 title: 'Jawoord'
 descr: '’t Arsenaal en LAZARUS'
 videoLength: '93 min'
-videoLength: '93 min'
 text: '
   ‘Over de liefde?’  ‘Ja.’  ‘Een voorstelling over de liefde?’  ‘Ja.’  ‘Tussen man en vrouw?’  ‘Ja.’  ‘Klinkt moeilijk.’  ‘Ja.’  ‘Maar moeilijk gaat ook?’  (denkt na) ‘Ja.’  ‘Zal het desondanks een beetje grappig zijn?’ ‘Desondanks?’  ‘Omdat het zo serieus is…’  ‘Vind jij de liefde serieus?’  ‘Ik stel de vragen.’  ‘Ja.’  ‘Ook om te lachen dus?’  ‘Ja.’  ‘Zeg jij ook soms ‘nee’?’  ‘Ja.’
 
