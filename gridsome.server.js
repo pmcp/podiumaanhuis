@@ -251,8 +251,6 @@ videoUrl: '${item['link-to-video'].url}',
 videoLength: '${item['video-length']}'
 socialDescr: '${item['social-share-description']}'
 socialImage:'${socialImage}'
-info: '|
-${turndowndedInfo}'
 recordedAt: '${item['recorded-at']}'
 company: '${item.excerpt}'
 image: '${item.thumbnail.url}'
