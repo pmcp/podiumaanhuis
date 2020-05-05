@@ -3,12 +3,23 @@ import '~/assets/style/webflow.css'
 import '~/assets/style/podiumaanhuis.webflow.css'
 import '~/assets/style/cc.tweaks.css'
 
+import VueGtag from 'vue-gtag'
 
 import DefaultLayout from '~/layouts/Default.vue'
 
 export default function (Vue, { router, head, isClient }) {
+  if (isClient) {
+    Vue.use(
+      VueGtag,
+      {
+        config: { id: 'GTM-5TGPDTT' }
+      },
+      router
+    )
+  }
   // Set default layout as a global component
-  Vue.component('Layout', DefaultLayout)
+  Vue.component('Layout', DefaultLayout),
+  
   head.bodyAttrs = { class: 'body' },
   // Script for the identity provider of netlify (for cms)
   head.script.push({
