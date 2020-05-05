@@ -2,7 +2,8 @@
 title: 'POPCORN '
 descr: 'Randi De Vlieghe / fABULEUS '
 videoLength: '82 min'
-text: '>-
+videoLength: '82 min'
+text: '
   **POPCORN** is een dansvoorstelling met de impact van een popconcert. Een intense krachtmeting tussen drie mannenlijven en een live drummer. Alles draait om de onweerstaanbare kracht van de beat. Maar ook van de stilte.
 
   Voor **POPCORN** ging choreograaf Randi De Vlieghe (van o.m. _Blauwe Storm_, _ZOO doen ze de dingen_) op zoek naar de essentie van ritme. Hij liet zich daarvoor inspireren door de oneindige variatie van percussie in alle tijden en culturen: van het stampen in krijgersdansen, over flamenco en breakdance, tot megatechnofestivals als Tomorrowland.

@@ -2,7 +2,8 @@
 title: 'Sadko (Rimski-Korsakov)'
 descr: 'Opera Ballet Vlaanderen'
 videoLength: '150 min'
-text: '>-
+videoLength: '150 min'
+text: '
   Deze magische opera van Rimski-Korsakov vertelt het verhaal van de kunstenaar Sadko die met zijn kunst de anderen ervan wil overtuigen het isolement te doorbreken en nieuwe werelden te ontsluiten. Zijn droom wordt echter vijandig onthaald. Alleen Volkhova, de dochter van de zeekoning, betoverd door Sadko’s muziek, helpt hem zijn visionaire ideeën te realiseren.
   
   Rimski-Korsakov baseerde zich voor Sadko op een middel­eeuwse ‘bylina’ of epos over de gelijknamige avonturier, handelaar en minnestreel, en verweefde die met diverse zeelegenden. Schipperend tussen mensen- en zeewereld en tussen mythe en werkelijkheid verschijnt Sadko als een Slavische variant van zowel Orfeus als Odysseus. Hij belichaamt de scheppende kracht van de fantasie die de strijd aanbindt met de realiteit.

@@ -2,7 +2,8 @@
 title: 'Menskens'
 descr: '4Hoog'
 videoLength: '40 min'
-text: '>-
+videoLength: '40 min'
+text: '
   Een oude man in een zetel.
   Zijn vrouw is weg.
   

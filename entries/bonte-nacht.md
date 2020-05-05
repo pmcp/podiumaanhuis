@@ -2,7 +2,8 @@
 title: 'BONTE NACHT'
 descr: 'beeldsmederij DE MAAN en TUNING PEOPLE'
 videoLength: '50 min'
-text: '>-
+videoLength: '50 min'
+text: '
   _In BONTE NACHT krijgt de creativiteit carte blanche en worden kinderdromen reëel. Vlekken worden tot kunst verheven en smossen is een weldaad._
   
   BONTE NACHT is een bewegend schilderij. Drie mensen met emmers verf en gebricoleerde schilderobjecten bekladden hun omgeving en zichzelf. Ze belanden in een kleurrijke droom waarin ze transformeren tot extravagante figuren met gekleurde gezichten en veelbenige wezens. Ze glibberen van het ene schilderachtige tafereel naar het andere.

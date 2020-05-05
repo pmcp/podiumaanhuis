@@ -2,7 +2,8 @@
 title: 'Soldier Of  Love'
 descr: 'Veerle Malschaert'
 videoLength: '85 min'
-text: '>-
+videoLength: '85 min'
+text: '
   2de onewoman comedyshow: Soldier of Love
   Soldiers of love, vuur liefde af!
   Maar wat is liefde?

@@ -2,7 +2,8 @@
 title: 'De stroom'
 descr: 'Ultima Thule'
 videoLength: '60 min'
-text: '>-
+videoLength: '60 min'
+text: '
   DE STROOM 10+
   Of een waterkans om te worden wie ik altijd al was
   

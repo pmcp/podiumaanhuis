@@ -2,7 +2,8 @@
 title: 'Raphaël'
 descr: 'Alexander Vantournhout / not standing'
 videoLength: '42 min'
-text: '>-
+videoLength: '42 min'
+text: '
   ‘Raphaël’ toont twee mannelijke performers. De ene is actief en handelt (hij), de ander is schijnbaar levenloos en inert (hem). Hij tracht hem te manipuleren tot ideale dans- of sparringpartner, maar wordt in die poging tegelijk zelf tot ding gemaakt. Samen dansen ze een geforceerd duet. Beide lichamen meten de grenzen op tussen intimiteit en perversie, tussen subject en object. Vervolgens doen ze die grenzen vervagen in wederzijdse medeplichtigheid.
   
   "Je ziet het niet zo vaak: spectaculair anti-spektakel, met zoveel diepere lagen onder een lichamelijke confrontatie die extreem tastbaar en erg toegankelijk is. Het duidt op grote kunst van een artiest met een grote toekomst." (\*\*\*\*, De Standaard)

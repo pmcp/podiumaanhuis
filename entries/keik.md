@@ -2,7 +2,8 @@
 title: 'KEIK'
 descr: '4Hoog & Blauwhuis'
 videoLength: '41 min'
-text: '>-
+videoLength: '41 min'
+text: '
   De vogel achterna
 
   Door de gietende regen

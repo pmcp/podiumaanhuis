@@ -2,7 +2,8 @@
 title: 'The secrets of the universe are hidden under a pile of pigeon poop'
 descr: 'Larf!'
 videoLength: '73 min'
-text: '>-
+videoLength: '73 min'
+text: '
   we kijken in de spiegel, naar onze contouren
 
   om te zien waar de één eindigt en de andere begint

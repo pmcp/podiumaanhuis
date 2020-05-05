@@ -2,7 +2,8 @@
 title: 'kom mee, Leon!'
 descr: 'tout petit'
 videoLength: '30 min'
-text: '>-
+videoLength: '30 min'
+text: '
   Kom mee, Leon! is een voorstelling op en rond een Italiaanse driewieler voor iedereen vanaf 3 jaar.
   
   Ciska en Lies trekken de wijde wereld in. Op weg naar het grote avontuur zijn ze van de baan gesukkeld. Hun eigenwijze wagentje Leon opent zijn deuren. Iedereen mag binnengluren, ontdekken en dromen. Meegenomen in de wereld van twee vrouwen die elkaar niet kunnen missen.

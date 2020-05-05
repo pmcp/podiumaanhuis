@@ -2,7 +2,8 @@
 title: 'Slumberland'
 descr: 'Zonzo Compagnie'
 videoLength: '52 min'
-text: '>-
+videoLength: '52 min'
+text: '
   Slumberland is een adembenemende filmisch-muzikale tocht naar de wereld van de nacht. Het moment dat alles kantelt en de droom het wint van de realiteit. Het zijn de kinderen zelf die je met hun verbazingwekkende fantasie meenemen naar een fascinerende wereld. Ze vertellen over hoe ze slapen, wat er gebeurt in hun dromen en waarom het nacht wordt. De live gebrachte songs van An Pierlé en Fulco Ottervanger en de filmbeelden van Nathalie Teirlinck verbeelden en verklanken een reeks wonderbaarlijke figuren die elkaar in een nachtelijke wereld ontmoeten. Het Maanmeisje dat op de aarde landt, het Zandmannetje dat zijn zandgrot verlaat, de Slaapprofessional die de slaap tot wetenschap maakt, de Vleermuisjongen die liefst ondersteboven slaapt… Stuk voor stuk magische, ontroerende en grappige figuren die balanceren op de koord die slap gespannen staat tussen wat echt is en wat niet en nog lang in je geheugen blijven verder leven.
   Wat is dat donkere niemandsland dat ‘slaap’ heet? Hoe weet je echt helemaal zeker dat de ‘droomwereld’ niet de échte aarde is? Of dat we niet gewoon dromen dat we wakker worden? Sowieso komt alles wat je overdag ziet terug in je droom, maar dan binnenstebuiten!
   

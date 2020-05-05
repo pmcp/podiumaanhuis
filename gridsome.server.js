@@ -231,6 +231,13 @@ module.exports = function (api) {
         }
       })
 
+      turndownService.addRule('li ', {
+        filter: ['li'],
+        replacement: function (content, node, options) {
+          return '  * ' + content
+        }
+      })
+
       
       const turndowndedText = turndownService.turndown(item['video-notes'])
       
@@ -238,7 +245,8 @@ module.exports = function (api) {
 title: '${item.name}'
 descr: '${item.excerpt}'
 videoLength: '${item['video-length']}'
-text: '>-
+videoLength: '${item['video-length']}'
+text: '
 ${turndowndedText}'
 ---
 `;

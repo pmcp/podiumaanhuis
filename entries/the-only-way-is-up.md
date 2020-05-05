@@ -2,7 +2,8 @@
 title: 'The only way is UP '
 descr: 'Boris Van Severen en Jonas Vermeulen / CAMPO (2017) '
 videoLength: '59 min'
-text: '>-
+videoLength: '59 min'
+text: '
   “Better a ‘Has Been’ than a ‘Never Was’.” Tony in The Up Series, BBC
 
   In The only way is UP komen vier hoofdpersonages aan het woord op verschillende sleutelmomenten in hun leven: als kind, puber, jongvolwassene, dertiger, veertiger en vijftiger. Hoezeer verandert je houding tegenover bepaalde thema’s naarmate je ouder wordt? In hoeverre is de manier waarop je in het leven staat al van jongs af aan bepaald? Is er een manier om ouder worden niet langer als een eliminatie van mogelijkheden te beschouwen, maar als iets om naar uit te kijken?

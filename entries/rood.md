@@ -2,7 +2,8 @@
 title: 'Rood'
 descr: 'HETGEVOLG'
 videoLength: '63 min'
-text: '>-
+videoLength: '63 min'
+text: '
   Internationaal bejubeld jeugdauteur Jan De Kinder werkt samen met topacteur Stefaan Degand en regisseur Stefan Perceval aan een organisch verhaal over pesten.
 
   Jan De Kinder koos voor de invalshoek van de ‘meeloper’ in dit geval een naamloze ik, die min of meer ongewild en onschuldig de aanzet geeft voor het pesten. In de theatrale vertaling van deze internationale bestseller gaan de makers opzoek naar hoe mensen in de schoenen kunnen staan van een getuige van een soort wreedheid die vast vaker op plaatsen voorkomen dan volwassenen zich willen inbeelden

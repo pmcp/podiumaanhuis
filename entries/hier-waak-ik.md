@@ -2,7 +2,8 @@
 title: 'Hier waak ik'
 descr: 'Janne Desmet & Villanella'
 videoLength: '104 min'
-text: '>-
+videoLength: '104 min'
+text: '
   "Sommig onheil kunt ge gewoon voorspellen
 
   door naar de lucht te kijken
