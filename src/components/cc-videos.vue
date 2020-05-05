@@ -96,7 +96,7 @@
                   > -->
                     <div
                       class="video-card-image-wrapper"
-                      :style="{ backgroundImage: `url(${item.thumbnail})`}"
+                      :style="{ backgroundImage: `url('${item.thumbnail}')`}"
                     >
                       <div class="video-card-image-inner">
                         <div class="tagline">{{ item.genre }}</div>
