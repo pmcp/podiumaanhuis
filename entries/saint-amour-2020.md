@@ -2,30 +2,29 @@
 title: 'Saint Amour 2020'
 descr: 'Behoud de Begeerte'
 videoLength: '103 min'
-text: '
-  Over de meest recente editie van het meest bekende programma van Behoud de Begeerte schreef Het Nieuwsblad:  “De liefde is een huis met vele kamers en de 26ste editie van het valentijnsprogramma Saint Amour verkent ze allemaal”, en zo is het maar net.
+text: "Over de meest recente editie van het meest bekende programma van Behoud de Begeerte schreef Het Nieuwsblad:  “De liefde is een huis met vele kamers en de 26ste editie van het valentijnsprogramma Saint Amour verkent ze allemaal”, en zo is het maar net.
 
-  "Een tiental welbespraakte auteurs, revelaties naast routiniers, die broederlijk naast elkaar de liefde bezingen: daarvoor smelt zelfs de grootste cynicus." (De Standaard)  
+"Een tiental welbespraakte auteurs, revelaties naast routiniers, die broederlijk naast elkaar de liefde bezingen: daarvoor smelt zelfs de grootste cynicus." (De Standaard)  
 
-  Aan het vooralsnog niet te canoniseren fornuis van de Liefde stonden: Andy Fierens, Dominique De Groen, Ish Ait Hamou, Fleur Pierets, Gaea Schoeters, Roderik Six, Jeroen Theunissen en Dimitri Verhulst. Sven Speybrouck speelde maître d’hôtel.
+Aan het vooralsnog niet te canoniseren fornuis van de Liefde stonden: Andy Fierens, Dominique De Groen, Ish Ait Hamou, Fleur Pierets, Gaea Schoeters, Roderik Six, Jeroen Theunissen en Dimitri Verhulst. Sven Speybrouck speelde maître d’hôtel.
 
-  Uit de pot van Andy Fierens en Michaël Brijs werden De Bronstige Bazooka’s opgelepeld, een koor van kant en kanonnen.
+Uit de pot van Andy Fierens en Michaël Brijs werden De Bronstige Bazooka’s opgelepeld, een koor van kant en kanonnen.
 
-  #####Credits
+##### Credits
 
-  Productie: Behoud de Begeerte
+Productie: Behoud de Begeerte
 
-  Regie: Luc Coorevits
+Regie: Luc Coorevits
 
-  Samenstelling programma: Luc Coorevits en Amber Maes
+Samenstelling programma: Luc Coorevits en Amber Maes
 
-  Licht & decor: Hugo Moens
+Licht & decor: Hugo Moens
 
-  Video: Klaas Verpoest
+Video: Klaas Verpoest
 
-  Techniek klank: Karel Marynissen (Klaar voor opname)
+Techniek klank: Karel Marynissen (Klaar voor opname)
 
-  Tekst en spel: Andy Fierens, Dominique De Groen, Ish Ait Hamou, Fleur Pierets, Gaea Schoeters, Roderik Six, Jeroen Theunissen en Dimitri Verhulst.
+Tekst en spel: Andy Fierens, Dominique De Groen, Ish Ait Hamou, Fleur Pierets, Gaea Schoeters, Roderik Six, Jeroen Theunissen en Dimitri Verhulst.
 
-  Muziek: De Bronstige Bazooka’s'
+Muziek: De Bronstige Bazooka’s"
 ---

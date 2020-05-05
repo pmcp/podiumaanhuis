@@ -2,35 +2,34 @@
 title: 'HUT'
 descr: '4Hoog'
 videoLength: '45 min'
-text: '
-  Kleine Zus neemt je mee naar grote broer.
-  Grote Broer kan alles.
-  Wonen in een hut.
-  Praten met konijnen.
-  Vogels doen fluiten.
+text: "Kleine Zus neemt je mee naar grote broer.  
+Grote Broer kan alles.  
+Wonen in een hut.  
+Praten met konijnen.  
+Vogels doen fluiten.  
   
-  Kleine Zus is er graag.
-  Samen appels rapen.
-  Wortels schrapen en in één pyjama slapen.
+Kleine Zus is er graag.  
+Samen appels rapen.  
+Wortels schrapen en in één pyjama slapen.  
   
-  Langs een imaginair bospad neemt Kleine Zus (Lotte Diependaele) je mee het woud in. Een wondermooi decor herbergt de hut waar Grote Broer (Nikolas Lestaeghe) woont.
+Langs een imaginair bospad neemt Kleine Zus (Lotte Diependaele) je mee het woud in. Een wondermooi decor herbergt de hut waar Grote Broer (Nikolas Lestaeghe) woont.  
   
-  VERHAAL
+VERHAAL  
   
-  Kleine Zus verheugt zich op de verjaardag van haar oma. Ze heeft de kaart al klaar: “Lieve oma, je bent nu bejaard. Daarom geven we je uiteraard... een appel-worteltaart!”. Kleine Zus heeft alleen een klein probleem: ze mist de twee belangrijkste ingrediënten voor de taart. Wat nu? Grote Broer kan haar vast helpen. Hij kan namelijk alles, zoals praten met konijnen en vogels laten fluiten. Op naar de hut waar Grote Broer woont!
+Kleine Zus verheugt zich op de verjaardag van haar oma. Ze heeft de kaart al klaar: “Lieve oma, je bent nu bejaard. Daarom geven we je uiteraard... een appel-worteltaart!”. Kleine Zus heeft alleen een klein probleem: ze mist de twee belangrijkste ingrediënten voor de taart. Wat nu? Grote Broer kan haar vast helpen. Hij kan namelijk alles, zoals praten met konijnen en vogels laten fluiten. Op naar de hut waar Grote Broer woont!  
   
-  In een kleurrijk decor met goudbruine bladeren en getimmerde vogelhuisjes staat iets waar elk kind vast een dagje in wil spelen: een prachtige boomhut. In en rond de hut beleven Grote Broer en Kleine Zus een vrolijk avontuur, waarin ze samen appels rapen, wortels schrapen en in één pyama slapen. Een scène-op-scène voorstelling vol grappige vondsten en leuke liedjes. Daarin herkent het publiek klassieke composities en filmsoundtracks.
+In een kleurrijk decor met goudbruine bladeren en getimmerde vogelhuisjes staat iets waar elk kind vast een dagje in wil spelen: een prachtige boomhut. In en rond de hut beleven Grote Broer en Kleine Zus een vrolijk avontuur, waarin ze samen appels rapen, wortels schrapen en in één pyama slapen. Een scène-op-scène voorstelling vol grappige vondsten en leuke liedjes. Daarin herkent het publiek klassieke composities en filmsoundtracks.
 
-  **Voorstelling gekeken? Gebruik de** [**lesmap**](https://www.4hoog.be/nl/production/57/hut#lesmappen) **voor nog meer plezier.**
+**Voorstelling gekeken? Gebruik de** [**lesmap**](https://www.4hoog.be/nl/production/57/hut#lesmappen) **voor nog meer plezier.**
 
-  ‍
+‍
 
-  **CREDITS**
+**CREDITS**  
   
-  Concept en regie: Nikolas Lestaeghe en Frans Van der Aa
-  Spel: Ilse de Koe & Nikolas Lestaeghe
-  Decor: Nikolas Lestaeghe, Sarah Geirnaert en Lucas Verbrugge
-  Foto's: Jeroen Vanneste
-  ‍
-  Opname door [Beeldstorm](http://www.beeldstorm.be) olv Jan Bosteels'
+Concept en regie: Nikolas Lestaeghe en Frans Van der Aa  
+Spel: Ilse de Koe & Nikolas Lestaeghe  
+Decor: Nikolas Lestaeghe, Sarah Geirnaert en Lucas Verbrugge  
+Foto's: Jeroen Vanneste  
+‍  
+Opname door [Beeldstorm](http://www.beeldstorm.be) olv Jan Bosteels"
 ---
