@@ -38,12 +38,8 @@
           :key="result.id"
           @mouseenter="focusIndex = index"
           @mousedown="go"
-        >
-{{ result.item.slug }}
-        
-          <g-link :to="`voorstellingen/${ result.item.slug }`" class="video-card w-inline-block">
-            :to="'/voorstellingen/'+result.item.slug"
-          >
+        >        
+          <g-link :to="`voorstellingen/${ result.item.slug }`">
             {{ result.item.title}}
           </g-link>
         </li>

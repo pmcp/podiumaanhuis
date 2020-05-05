@@ -2,17 +2,19 @@
   <div
     id="videos"
     class="section ccsection--videos"
-    
   >
+
+    <div class="container">
+      <ClientOnly>
+        <cc-search />
+      </ClientOnly>
+    </div>
     <div class="container">
       <h2 class="section-header-border">Video&#x27;s</h2>
       <div x-data="{ parents: true }">
 
         <div class="cc-video__vue">
-          <div
-            class="container"
-            
-          >
+          <div class="container">
             <div
               class="filter__container"
               style="padding-left:10px;padding-right:10px;"
@@ -89,8 +91,11 @@
                   v-for="(item, id) in filteredItems"
                   :key="id"
                 >
-                <g-link :to="`voorstellingen/${ item.slug }`" class="video-card w-inline-block">
-                  <!-- <a
+                  <g-link
+                    :to="`voorstellingen/${ item.slug }`"
+                    class="video-card w-inline-block"
+                  >
+                    <!-- <a
                     v-on:click="goToPage(item.url)"
                     class="video-card w-inline-block"
                   > -->
@@ -118,7 +123,7 @@
                         >
                       </div>
                     </div>
-                  <!-- </a> -->
+                    <!-- </a> -->
                   </g-link>
                 </div>
               </div>
@@ -187,7 +192,15 @@ query {
 </static-query>
 
 <script>
+const ccSearch = () =>
+  import(
+    /* webpackChunkName: "search" */ "@/components/cc-search"
+  ).catch(error => console.warn(error));
+
 export default {
+  components: {
+    ccSearch
+  },
   mounted() {
     const items = this.$static.video.edges.map(val => {
       return val.node;
@@ -202,7 +215,7 @@ export default {
 
     this.genresDefaultObject = this.genres;
     this.genres = [...genresArray];
-    
+
     this.items = items;
 
     this.filterItems(items);
@@ -234,7 +247,6 @@ export default {
       this.filterItems(this.items);
     },
     toggleStatus: function(type, key, originalArray, allActive) {
-      
       /* Back to first page */
       this.startItem = 0;
 
@@ -343,7 +355,6 @@ export default {
         filteredItemsAudience = items;
       } else {
         filteredItemsAudience = items.filter(item => {
-          
           const audience = this.audience.find(
             element => element.name === item.audience
           );
