@@ -55,6 +55,25 @@
     <div class="cc-pagewrapper">
       <slot/>
     </div>
+
+      <div class="section-3">
+    <div class="container">
+      <div class="w-row">
+        <div class="w-col w-col-6">
+          <div class="w-richtext">
+            <p><a href="/pages/gebruiksvoorwaarden">Gebruiksvoorwaarden / Privacyverklaring</a></p>
+          </div>
+        </div>
+        <div class="w-col w-col-6">
+          <div class="text-block-3">Deze website is mogelijk gemaakt door</div>
+          <div class="columns-2 w-row">
+            <div class="column-3 w-col w-col-6 w-col-medium-6 w-col-small-6 w-col-tiny-tiny-stack"><a href="https://www.cultuurconnect.be/" target="_blank" class="w-inline-block"><g-image src="~/assets/images/logocc.png" width="400"/></a></div>
+            <div class="column-4 w-col w-col-6 w-col-medium-6 w-col-small-6 w-col-tiny-tiny-stack"><img src="images/vlaanderen-logo.png" alt="" class="image-3"><g-image src="~/assets/images/logovlaanderen.png" width="400"/></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
   </div>
 </template>
 
