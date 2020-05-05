@@ -259,6 +259,7 @@ module.exports = function (api) {
 // recordedAt: |-
 //   ${item['recorded-at']}
 // image: ${item.thumbnail.url}
+// audience: audience[0].name,
 // text: |-
 // ${turndowndedText}
 // ---
