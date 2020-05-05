@@ -1,4 +1,3 @@
-
 ---
 title: Raya
 descr: hetpaleis, beeldsmederij DE MAAN en Moussem Nomadisch Kunstencentrum

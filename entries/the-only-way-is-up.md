@@ -1,4 +1,3 @@
-
 ---
 title: The only way is UP 
 descr: Boris Van Severen en Jonas Vermeulen / CAMPO (2017) 

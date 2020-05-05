@@ -1,4 +1,3 @@
-
 ---
 title: De passant
 descr: Laika

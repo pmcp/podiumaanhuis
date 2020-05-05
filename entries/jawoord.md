@@ -1,4 +1,3 @@
-
 ---
 title: Jawoord
 descr: ’t Arsenaal en LAZARUS

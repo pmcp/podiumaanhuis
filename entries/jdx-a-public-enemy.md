@@ -1,4 +1,3 @@
-
 ---
 title: JDX - a public enemy
 descr: tg STAN

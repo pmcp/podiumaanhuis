@@ -1,4 +1,3 @@
-
 ---
 title: Groezel of Grijsje, het levende Radijsje
 descr: hetpaleis & Abattoir Fermé

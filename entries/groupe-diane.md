@@ -1,4 +1,3 @@
-
 ---
 title: Groupe Diane
 descr: Het nieuwstedelijk

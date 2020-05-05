@@ -1,4 +1,3 @@
-
 ---
 title: Eerste sneeuw
 descr: KOPERGIETERY en Vélo Théâtre

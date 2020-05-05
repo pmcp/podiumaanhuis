@@ -1,4 +1,3 @@
-
 ---
 title: Nachtschade: Aubergine
 descr: Muziektheater Transparant

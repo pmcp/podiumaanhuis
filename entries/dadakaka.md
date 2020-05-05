@@ -1,4 +1,3 @@
-
 ---
 title: Dadakaka
 descr: Tuning People

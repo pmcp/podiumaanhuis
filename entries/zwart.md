@@ -1,4 +1,3 @@
-
 ---
 title: Zwart
 descr: de KOE

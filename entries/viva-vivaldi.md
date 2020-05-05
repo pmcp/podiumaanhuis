@@ -1,4 +1,3 @@
-
 ---
 title: Viva Vivaldi!
 descr: B'Rock Orchestra 

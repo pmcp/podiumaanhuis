@@ -1,4 +1,3 @@
-
 ---
 title: Spoiler Alert
 descr: Larf!

@@ -1,4 +1,3 @@
-
 ---
 title: Kapitein Winokio: Berenconcerten met Selah Pooh, Isolde Lasoen, Jean Blaute & Stefaan Degand
 descr: Kapitein Winokio

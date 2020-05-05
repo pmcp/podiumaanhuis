@@ -1,4 +1,3 @@
-
 ---
 title: Dagboek van een Verdwenene
 descr: Muziektheater Transparant

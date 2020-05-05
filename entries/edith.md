@@ -1,4 +1,3 @@
-
 ---
 title: Edith!
 descr: Mireille Vaessen, Sam Pasternak , Martine de Kok

@@ -1,4 +1,3 @@
-
 ---
 title: OneTwoThreeOneTwo
 descr: Albert Quesada

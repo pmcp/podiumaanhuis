@@ -1,4 +1,3 @@
-
 ---
 title: Kleine Koning December
 descr: HETGEVOLG

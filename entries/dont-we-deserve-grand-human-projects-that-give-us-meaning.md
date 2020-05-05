@@ -1,4 +1,3 @@
-
 ---
 title: Don’t we deserve grand human projects that give us meaning?
 descr: Robbert&Frank Frank&Robbert / CAMPO

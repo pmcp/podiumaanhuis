@@ -1,4 +1,3 @@
-
 ---
 title: Bravo! meneer Bruegel
 descr: Laika & Openluchtmuseum Bokrijk

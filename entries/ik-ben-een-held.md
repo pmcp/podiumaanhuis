@@ -1,4 +1,3 @@
-
 ---
 title: Ik ben een held!
 descr: Anna's Steen

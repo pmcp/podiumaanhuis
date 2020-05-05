@@ -1,4 +1,3 @@
-
 ---
 title: The Pursuit of Happiness
 descr: Behoud de Begeerte

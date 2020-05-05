@@ -1,4 +1,3 @@
-
 ---
 title: Whiskey on stage
 descr: HERMESensemble, I Solisti en Champdaction

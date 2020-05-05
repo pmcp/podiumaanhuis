@@ -1,4 +1,3 @@
-
 ---
 title: Van den Vos
 descr: FC Bergman / Toneelhuis

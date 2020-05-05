@@ -1,4 +1,3 @@
-
 ---
 title: The secrets of the universe are hidden under a pile of pigeon poop
 descr: Larf!

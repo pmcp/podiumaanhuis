@@ -1,4 +1,3 @@
-
 ---
 title: De Lobstershop
 descr: Jan Lauwers & Needcompany

@@ -1,4 +1,3 @@
-
 ---
 title: Raphaël
 descr: Alexander Vantournhout / not standing

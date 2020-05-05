@@ -1,4 +1,3 @@
-
 ---
 title: This door is too small (for a bear)
 descr: Grace Ellen Barkey & Needcompany

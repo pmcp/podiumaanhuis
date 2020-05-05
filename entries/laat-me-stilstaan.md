@@ -1,4 +1,3 @@
-
 ---
 title: Laat me stilstaan
 descr: Compagnie COVAR

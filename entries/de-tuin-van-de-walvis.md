@@ -1,4 +1,3 @@
-
 ---
 title: De tuin van de walvis
 descr: Beeldsmederij DE MAAN

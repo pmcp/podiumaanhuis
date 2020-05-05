@@ -1,4 +1,3 @@
-
 ---
 title: Le Salon
 descr: Peeping Tom

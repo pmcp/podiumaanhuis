@@ -1,4 +1,3 @@
-
 ---
 title: King Lear
 descr: Het Zuidelijk Toneel & hetpaleis

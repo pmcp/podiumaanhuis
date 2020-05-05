@@ -1,4 +1,3 @@
-
 ---
 title: Geletterde mensen
 descr: Behoud de Begeerte

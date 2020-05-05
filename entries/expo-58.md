@@ -1,4 +1,3 @@
-
 ---
 title: Expo 58
 descr: Along Comes Mary

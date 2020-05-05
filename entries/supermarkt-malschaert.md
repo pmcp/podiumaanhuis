@@ -1,4 +1,3 @@
-
 ---
 title: Supermarkt Malschaert
 descr: Veerle Malschaert

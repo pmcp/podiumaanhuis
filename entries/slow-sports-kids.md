@@ -1,4 +1,3 @@
-
 ---
 title: Slow Sports Kids
 descr: Albert Quesada / fABULEUS

@@ -1,4 +1,3 @@
-
 ---
 title: EcoDiva
 descr: Veerle Malschaert

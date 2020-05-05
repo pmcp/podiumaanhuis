@@ -1,4 +1,3 @@
-
 ---
 title: Wa Wilder Man
 descr: compagnie barbarie 

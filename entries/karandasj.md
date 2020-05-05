@@ -1,4 +1,3 @@
-
 ---
 title: Karandasj
 descr: KOPERGIETERY

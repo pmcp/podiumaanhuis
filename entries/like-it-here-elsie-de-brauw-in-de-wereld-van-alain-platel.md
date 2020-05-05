@@ -1,4 +1,3 @@
-
 ---
 title: Like it here? Elsie de Brauw in de wereld van Alain Platel
 descr: Les ballets C de la B / Carine Bijlsma

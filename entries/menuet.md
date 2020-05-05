@@ -1,4 +1,3 @@
-
 ---
 title: Menuet
 descr: LOD / Daan Janssens & Fabrice Murgia

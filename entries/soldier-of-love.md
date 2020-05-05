@@ -1,4 +1,3 @@
-
 ---
 title: Soldier Of  Love
 descr: Veerle Malschaert

@@ -1,4 +1,3 @@
-
 ---
 title: Wit is altijd schoon
 descr: HETGEVOLG

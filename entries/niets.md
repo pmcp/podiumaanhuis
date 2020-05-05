@@ -1,4 +1,3 @@
-
 ---
 title: Niets
 descr: De Nwe Tijd/HETPALEIS

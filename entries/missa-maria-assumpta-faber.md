@@ -1,4 +1,3 @@
-
 ---
 title: Missa Maria Assumpta, Faber
 descr: Terra Nova Collective

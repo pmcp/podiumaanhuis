@@ -1,4 +1,3 @@
-
 ---
 title: TILL IT'S OVER
 descr: SKaGeN ism Richard Jackson

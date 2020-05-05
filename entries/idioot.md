@@ -1,4 +1,3 @@
-
 ---
 title: Idioot
 descr: LAZARUS

@@ -1,4 +1,3 @@
-
 ---
 title: An Old Monk
 descr: LOD / Josse De Pauw & Kris Defoort Trio

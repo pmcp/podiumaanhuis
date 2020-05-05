@@ -1,4 +1,3 @@
-
 ---
 title: Wit
 descr: de KOE

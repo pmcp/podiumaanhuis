@@ -1,4 +1,3 @@
-
 ---
 title: Rood
 descr: de KOE

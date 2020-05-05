@@ -1,4 +1,3 @@
-
 ---
 title: Muy Complicado
 descr: ARSENAAL

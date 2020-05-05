@@ -1,4 +1,3 @@
-
 ---
 title: Eine schöne Müllerin
 descr: Spectra

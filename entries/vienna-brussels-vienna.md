@@ -1,4 +1,3 @@
-
 ---
 title: VIENNA-BRUSSELS-VIENNA
 descr: Terra Nova Collective

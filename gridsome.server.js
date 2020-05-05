@@ -196,8 +196,8 @@ module.exports = function (api) {
 const path = require("path");
 
 
-      const content = `
----
+      const content = `---
+title: ${item.name}
 descr: ${item.excerpt}
 videoLength: ${item['video-length']}
 
