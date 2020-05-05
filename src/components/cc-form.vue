@@ -52,7 +52,6 @@
     </form>
     <div v-if="formSend">Bedankt voor je feedback!<br></div>
     <div v-if="formError">Oeps, er ging iets fout bij het versturen van je bericht.</div>
-    </div>
   </div>
 </template>
 
@@ -75,7 +74,7 @@ export default {
         .join("&");
     },
     handleSubmit(e) {
-      console.log(e)
+      console.log(this.formData)
       fetch("/", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
