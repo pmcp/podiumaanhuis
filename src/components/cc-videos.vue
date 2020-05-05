@@ -5,16 +5,17 @@
   >
 
     <div class="container">
-      <ClientOnly>
-        <cc-search />
-      </ClientOnly>
-    </div>
-    <div class="container">
       <h2 class="section-header-border">Video&#x27;s</h2>
-      <div x-data="{ parents: true }">
+      <div >
 
         <div class="cc-video__vue">
           <div class="container">
+            <div style="padding-left:10px;padding-right:10px;">
+            <ClientOnly>
+            
+        <cc-search />
+      </ClientOnly>
+</div>
             <div
               class="filter__container"
               style="padding-left:10px;padding-right:10px;"

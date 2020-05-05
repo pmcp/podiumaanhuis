@@ -2,48 +2,72 @@
   <div
     @keydown.down="increment"
     @keydown.up="decrement"
-    @keydown.enter="go"
-    class="relative"
+    class="container-width-large"
   >
+    <!-- TODO: zoeken wissen -->
     <label class="relative block">
-      <div class="absolute inset-y-0 left-0 flex items-center justify-center px-3 py-2 opacity-50">
+      
         Zoek
-      </div>
+      </label>
       <input
         ref="input"
         type="search"
         :value="query"
-        class="block w-full py-2 pl-10 pr-4 border-2 rounded-lg bg-ui-sidebar border-ui-sidebar focus:bg-ui-background"
-        :class="{'rounded-b-none': showResult,}"
+        class="cc-form__input w-input"
         placeholder=""
         @focus="focused = true"
-        @blur="focused = false"
         @input="focusIndex = -1; query = $event.target.value"
         @change="query = $event.target.value"
+        style="background-color:#e8edf4"
       />
-    </label>
-    <div 
-      v-if="showResult"
-      class="fixed inset-x-0 z-50 overflow-y-auto border-2 border-t-0 rounded-lg rounded-t-none shadow-lg results bg-ui-background bottom:0 sm:bottom-auto sm:absolute border-ui-sidebar"
-      style="max-height: calc(100vh - 120px)"
-    >
-      <ul class="px-4 py-2 m-0">
-        <li v-if="results.length === 0" class="px-2">
-          Geen resultaten voor <span class="font-bold">{{ query }}</span>.
-        </li>
+    
 
-        <li
+    <div
+      v-if="showResult"
+      class="w-dyn-list"
+    >
+      <div class="grid-column w-dyn-items">
+        <div v-if="results.length === 0">
+          Geen resultaten voor <span class="font-bold">{{ query }}</span>.
+        </div>
+        <div
+          class="w-dyn-item"
           v-else
           v-for="(result, index) in results"
           :key="result.id"
           @mouseenter="focusIndex = index"
-          @mousedown="go"
-        >        
-          <g-link :to="`voorstellingen/${ result.item.slug }`">
-            {{ result.item.title}}
-          </g-link>
-        </li>
-      </ul>
+          
+        >
+            <g-link
+                    :to="`voorstellingen/${ result.item.slug }`"
+                   class="video-card-horizontal w-inline-block"
+                  >
+
+            
+            <div
+            :style="{ backgroundImage: `url('${result.item.thumbnail}')`}"
+              class="card-horizontal-image"
+            >
+              <div class="card-horizontal-image-inner">
+                <!-- <div class="play-button small"><img
+                    src="@/assets/images/play.svg"
+                    alt=""
+                    class="icon-small"
+                  >
+                </div> -->
+              </div>
+            </div>
+            
+            <div class="card-body" style="padding-top:10px;padding-bottom:10px">
+              <h3 style="margin-bottom: 10px;"> {{ result.item.title}}</h3>
+              <p style="margin-bottom: 0;"> {{ result.item.company}}</p>
+              <p style="margin-bottom: 0;"> {{ result.item.recordedAt}}</p>
+              <!-- <div class="video-card-length">{{ result.item.video.length }}</div> -->
+            </div>
+            </g-link>
+        </div>
+
+      </div>
     </div>
   </div>
 </template>
@@ -73,12 +97,12 @@ query Search{
 </static-query>
 
 <script>
-import Fuse from 'fuse.js';
+import Fuse from "fuse.js";
 export default {
   components: {},
   data() {
     return {
-      query: '',
+      query: "",
       focusIndex: -1,
       focused: false
     };
@@ -86,17 +110,17 @@ export default {
   computed: {
     results() {
       const fuse = new Fuse(this.headings, {
-        keys: ['title', 'descr', 'company'],
-        threshold: .25
+        keys: ["title", "descr", "company"],
+        threshold: 0.25
       });
       return fuse.search(this.query).slice(0, 15);
     },
     headings() {
       let result = [];
-      
+
       const allPages = this.$static.video.edges.map(edge => edge.node);
 
-      return allPages
+      return allPages;
       // Create the array of all headings of all pages.
       // allPages.forEach(page => {
       //   result = [...result, {
@@ -114,12 +138,13 @@ export default {
     },
     showResult() {
       // Show results, if the input is focused and the query is not empty.
-      return this.focused && this.query.length > 0;
+      // return this.focused && this.query.length > 0;
+      return this.query.length > 0;
     }
   },
   methods: {
     increment() {
-      if (this.focusIndex < this.results.length - 1) {
+      if (this.Z < this.results.length - 1) {
         this.focusIndex++;
       }
     },
@@ -140,12 +165,10 @@ export default {
       } else {
         result = this.results[this.focusIndex];
       }
-      this.$router.push(
-        result.path + result.anchor
-      );
+      this.$router.push(result.path + result.anchor);
       // Unfocus the input and reset the query.
       this.$refs.input.blur();
-      this.query = '';
+      this.query = "";
     }
   }
 };

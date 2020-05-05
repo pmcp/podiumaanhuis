@@ -29,7 +29,7 @@
       </div>
     </div>
 
-<cc-videos></cc-videos>
+    <cc-videos></cc-videos>
 
 
     <div class="section">
