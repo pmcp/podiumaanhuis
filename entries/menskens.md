@@ -7,11 +7,18 @@ videoUrl: 'https://youtu.be/a5JTXM2seAQ',
 videoLength: '40 min'
 socialDescr: 'Een oude man in een zetel. Zijn vrouw is weg.“Ik moet het stof nog afdoen. Met de planten gaan wandelen. De hond nog water geven. Mijn neus nog snuiten.” En hij wil zo graag een eitje. Maar hij kan niet koken. Menskes is een tragikomische voorstelling over liefde, verlangen, gemis en alleen zijn. Op een speelse manier wordt zowel groot als klein meegesleurd in dit ontroerend verhaal.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9564b4fc1266c602e35255_4Hoog_menskes-ellengoegebuer_web.jpg'
-info: '<ul><li>theater</li><li>leeftijd: 5+</li><li>duur: 40 min</li><li>taal: Nederlands</li><li><a href="https://www.4hoog.be/" target="_blank">4Hoog</a></li></ul><p>‍</p>'
+info: '|
+  * theater
+  * leeftijd: 5+
+  * duur: 40 min
+  * taal: Nederlands
+  * [4Hoog](https://www.4hoog.be/)
+
+  ‍'
 recordedAt: 'undefined'
 company: '4Hoog'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9564b4fc1266c602e35255_4Hoog_menskes-ellengoegebuer_web.jpg'
-text: '|-
+text: '|
   Een oude man in een zetel.
   Zijn vrouw is weg.
   

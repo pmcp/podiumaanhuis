@@ -18,11 +18,15 @@ Ze slaat u om de oren, hilarisch en ontroerend. Een voorstelling over:
 Grote Liefde-Kleine liefde-Diepe liefde-Eindeloze liefde-Kalverliefde-Nieuwe liefde-Oude liefde-Bejaarde liefde-Naastenliefde-Eigenliefde-ware liefde en Moederliefde
 "'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9e9ffc6e2575e071db0ccd_VeerleMalschaertSOLDIER%20OF%20LOVE.jpeg'
-info: '<ul><li>comedy</li><li>duur: 85 min</li><li>taal: Nederlands</li><li><a href="http://veerlemalschaert.be/" target="_blank">Veerle Malschaert</a></li></ul>'
+info: '|
+  * comedy
+  * duur: 85 min
+  * taal: Nederlands
+  * [Veerle Malschaert](http://veerlemalschaert.be/)'
 recordedAt: 'Opname in Minardschouwburg, Gent'
 company: 'Veerle Malschaert'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9e9ffc6e2575e071db0ccd_VeerleMalschaertSOLDIER%20OF%20LOVE.jpeg'
-text: '|-
+text: '|
   2de onewoman comedyshow: Soldier of Love
   Soldiers of love, vuur liefde af!
   Maar wat is liefde?

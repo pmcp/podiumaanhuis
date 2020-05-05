@@ -7,11 +7,19 @@ videoUrl: 'https://vimeo.com/400623073',
 videoLength: '54 min'
 socialDescr: 'Een verrassende bewegingsvoorstelling die blijft plakken voor iedereen vanaf 4 jaar.Met de afval van een plakbandfabriek viert Tuning People een feest voor de verbeelding. Chaplin-figuurtjes zoeken hun weg door een doolhof van plakbandlinten, kopvoeters en vogelbekdieren duiken op en om het kinderparadijs compleet te maken zijn er plakslingers, plakoorbellen en tonnen vol plaksnoep.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9074d9fbb605aa8ea8c6d5_tapeLR2.jpg'
-info: '<ul><li>theater</li><li>leeftijd: 4+</li><li>duur: 54 min</li><li>taal: Nederlands</li><li><a href="/www.tuningpeople.be" target="_blank">Tuning People</a></li><li><a href="https://www.fabuleus.be/" target="_blank">fABULEUS</a></li></ul><p>‍</p>'
+info: '|
+  * theater
+  * leeftijd: 4+
+  * duur: 54 min
+  * taal: Nederlands
+  * [Tuning People](/www.tuningpeople.be)
+  * [fABULEUS](https://www.fabuleus.be/)
+
+  ‍'
 recordedAt: 'undefined'
 company: 'Tuning People & fABULEUS'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9074d9fbb605aa8ea8c6d5_tapeLR2.jpg'
-text: '|-
+text: '|
   Een productie van Tuning People & fABULEUS
 
   Een verrassende bewegingsvoorstelling die blijft plakken voor iedereen vanaf 4 jaar.

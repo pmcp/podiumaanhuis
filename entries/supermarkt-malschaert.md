@@ -7,11 +7,15 @@ videoUrl: 'https://youtu.be/gOJ7YqvOsBo',
 videoLength: '62 min'
 socialDescr: 'Supermarkt Malschaert is verkocht, maar 't malste stuk vlees nog niet: Veerle Malschaert.Te groot hart, te grote mond en teveel testosteron Een dramaqueen on speed. '
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9d3a22cef7528396b4752c_VeerleMalschaert_SUPERMARK.png'
-info: '<ul><li>comedy</li><li>duur: 62 min</li><li>taal: Nederlands</li><li><a href="http://veerlemalschaert.be/" target="_blank">Veerle Malschaert</a></li></ul>'
+info: '|
+  * comedy
+  * duur: 62 min
+  * taal: Nederlands
+  * [Veerle Malschaert](http://veerlemalschaert.be/)'
 recordedAt: 'Opname Bij de vieze gasten, Gent'
 company: 'Veerle Malschaert'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9d3a22cef7528396b4752c_VeerleMalschaert_SUPERMARK.png'
-text: '|-
+text: '|
   Supermarkt Malschaert is verkocht, maar 't malste stuk vlees nog niet: Veerle Malschaert.Te groot hart, te grote mond en teveel testosteron Een dramaqueen on speed. Op zoek naar vaders van haar nog steeds ongeboren kinderen vecht deze grofgebekte missionaris van de liefde vol overgave tegen windmolens en eenzaamheid. Gewapend met haar Self-Help Kit om 't leven door te komen, gaat ze de confrontatie aan met de toeschouwers en zichzelf. Hard en zacht, extreem en poëtisch, subtiel en expliciet laat ze niemand onberoerd. Ze slaat u om de oren, hilarisch en ontroerend. Ze is uw rots in de branding, uw steun en toeverlaat. Veerle Malschaert, eindelijk een vrouw die u verstaat!
   
   Te groot hart, te grote mond en teveel testosteron

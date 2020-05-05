@@ -7,11 +7,16 @@ videoUrl: 'https://youtu.be/xgmsalgyZ3U',
 videoLength: '78 min'
 socialDescr: 'Opera Ballet Vlaanderen haalt met de Franse choreograaf Benjamin Millepied een van de meest gerenommeerde hedendaagse balletchoreografen naar België. Hij creëert voor het eerst een avondvullend balletwerk. Dat werk kreeg (en behield uiteindelijk) de werktitel ‘Bach Studies’, en exploreert het muzikale universum van Johann Sebastian Bach. Geïnspireerd door Bachs complexe ritmes, vaak met roots in barokke dansritmes, stelt Millepied zichzelf als uitdaging om Bachs compositietechnieken te vertalen naar een fysieke realiteit. De beweging wordt geïnspireerd door Millepieds eigen emotionele reactie op de muziek. Twee iconische werken van Bach, Partita Nr. 2 en Passacaglia voor Orgel, zijn de ankerpunten voor de choreografie. Het orkest van Opera Ballet Vlaanderen, onder leiding van Daniel Inbal, wordt ingezet ter versterking van de iconische partijen voor soloviool en orgel.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7b1c373be82f5d8ff91756_web_1819-Bach-Studies-Benjamin-Millepied-generale-repetitie-71A8827-(c)-Filip-Van-Roe.jpg'
-info: '<ul><li>Ballet</li><li>duur: 77 min</li><li><a href="http://operaballet.be" target="_blank">Opera Ballet Vlaanderen</a></li></ul><p>‍</p>'
+info: '|
+  * Ballet
+  * duur: 77 min
+  * [Opera Ballet Vlaanderen](http://operaballet.be)
+
+  ‍'
 recordedAt: 'Opera, Antwerpen'
 company: 'Opera Ballet Vlaanderen'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7b1c373be82f5d8ff91756_web_1819-Bach-Studies-Benjamin-Millepied-generale-repetitie-71A8827-(c)-Filip-Van-Roe.jpg'
-text: '|-
+text: '|
   Opera Ballet Vlaanderen haalt met de Franse choreograaf Benjamin Millepied een van de meest gerenommeerde hedendaagse balletchoreografen naar België. Hij creëert voor het eerst een avondvullend balletwerk. Dat werk kreeg (en behield uiteindelijk) de werktitel ‘Bach Studies’, en exploreert het muzikale universum van Johann Sebastian Bach. Geïnspireerd door Bachs complexe ritmes, vaak met roots in barokke dansritmes, stelt Millepied zichzelf als uitdaging om Bachs compositietechnieken te vertalen naar een fysieke realiteit. De beweging wordt geïnspireerd door Millepieds eigen emotionele reactie op de muziek. Twee iconische werken van Bach, Partita Nr. 2 en Passacaglia voor Orgel, zijn de ankerpunten voor de choreografie. Het orkest van Opera Ballet Vlaanderen, onder leiding van Daniel Inbal, wordt ingezet ter versterking van de iconische partijen voor soloviool en orgel.
   
 

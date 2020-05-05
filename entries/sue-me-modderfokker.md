@@ -7,11 +7,17 @@ videoUrl: 'https://vimeo.com/317082482',
 videoLength: '120 min'
 socialDescr: '“SUE ME MODDERFOKKER. Over de hond van Hitler, een zwangere vrouw met een lekke buik en een revolver in het verkeerde kastje. Over de Bouwpolitie die nu niet meer zo heet en die nog een hele strenge brief gaat sturen maar u moet doen alsof u die nooit heeft gekregen. Over een veel te vroeg geboren jongetje met een gehavende linkerkant, met naast hem een heel stille vader die in zichzelf lijkt te verdwijnen en een moeder die niet weet wat ze verkeerd heeft gedaan. Over een witte man die maar niet komt. En helaas ook over een “sterfelijke man” die door dit alles heen walst. Met een gruwelijke timing aan zijn zijde.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7b3f057091cc302b6f53cd_Sueme.jpg'
-info: '<ul><li>theater</li><li>duur: 120 min</li><li>taal: Nederlands</li><li><a href="https://www.skagen.be/nl/voorstellingen/sue-me-modderfokker" target="_blank">SKaGeN</a></li></ul><p>‍</p>'
+info: '|
+  * theater
+  * duur: 120 min
+  * taal: Nederlands
+  * [SKaGeN](https://www.skagen.be/nl/voorstellingen/sue-me-modderfokker)
+
+  ‍'
 recordedAt: 'Opname in Arca, NTGent '
 company: 'SKaGeN'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7b3f057091cc302b6f53cd_Sueme.jpg'
-text: '|-
+text: '|
   Ik heb een heel goede buurman. Echt waar. Ik weet dat u de indruk zult krijgen dat àlles wat ik vandaag vertel waar is, maar dat is dus niet zo. Ik heb echt een zeer zeer goede buurman. Dat is heel belangrijk. Het is zeer belangrijk dat ik duidelijk maak dat dit allemaal niks met de realiteit te maken heeft. Dat heeft mijn advocaat ook gezegd.
 
   Dus om alle misverstanden te vermijden: mijn buurman heet meneer Mortelmans, maar mijn buurman vanàvond heet niet Mortelmans maar Mortélmans. Dat is iets helemaal anders, dat heeft mijn advocaat ook gezegd, hij heeft gezegd dat dat heel goed is, Mortélmans dat is duidelijk fictie, een krachtige metafoor, de “sterfelijke man”, Mortél-man-s, de verzinnebeelding van eenieder van ons want wij zijn allemaal sterfelijk. Voilà, dat wilde ik graag even op voorhand zeggen.

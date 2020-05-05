@@ -23,11 +23,17 @@ ja
 waar moeten we nu dan naartoe?
 verder'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg'
-info: '<ul><li>theater</li><li>duur: 73 min</li><li>taal: Nederlands</li><li><a href="http://www.larf.be" target="_blank">Larf!</a></li></ul><p>‍</p>'
+info: '|
+  * theater
+  * duur: 73 min
+  * taal: Nederlands
+  * [Larf!](http://www.larf.be)
+
+  ‍'
 recordedAt: 'Opname in De Kazematten, Gent'
 company: 'Larf!'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg'
-text: '|-
+text: '|
   we kijken in de spiegel, naar onze contouren
 
   om te zien waar de één eindigt en de andere begint

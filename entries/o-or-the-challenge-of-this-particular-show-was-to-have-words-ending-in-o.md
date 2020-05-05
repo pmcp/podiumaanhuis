@@ -7,11 +7,15 @@ videoUrl: 'https://vimeo.com/406486556',
 videoLength: '44 min'
 socialDescr: 'O Or The Challenge Of This Particular Show Was To Have Words Ending In O is een Needcompany productie van Maarten Seghers in confrontatie met beeldend kunstenaars, muzikanten en dansers Fritz Welch, Simon Lenski, Nicolas Field en Mohamed Toukabri.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5ea2a02525bafda9de7bb902_photo_O.jpg'
-info: '<ul><li>multidisciplinair</li><li>duur: 44 min</li><li>taal: Engels</li><li><a href="https://www.needcompany.org/nl" target="_blank">Maarten Seghers &amp; Needcompany</a><br></li></ul>'
+info: '|
+  * multidisciplinair
+  * duur: 44 min
+  * taal: Engels
+  * [Maarten Seghers & Needcompany](https://www.needcompany.org/nl)'
 recordedAt: 'undefined'
 company: 'Maarten Seghers & Needcompany'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5ea2a02525bafda9de7bb902_photo_O.jpg'
-text: '|-
+text: '|
   _O Or The Challenge Of This Particular Show Was To Have Words Ending In O is e_en Needcompany productie van Maarten Seghers in confrontatie met beeldend kunstenaars, muzikanten en dansers Fritz Welch, Simon Lenski, Nicolas Field en Mohamed Toukabri.
   
   “Voor deze mannen schreef ik dit bezwerende lied over de lawaaierigheid van het troosten. _The Challenge Of This Particular Show Was To Have Words Ending In O_ is een gevecht tussen koppige ritmiek en melodische stroop. Deze waarheid wordt verpatst: de verwondering over het bijna niets.” – Maarten Seghers

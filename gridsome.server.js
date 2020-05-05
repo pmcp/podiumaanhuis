@@ -234,12 +234,13 @@ module.exports = function (api) {
       turndownService.addRule('li ', {
         filter: ['li'],
         replacement: function (content, node, options) {
-          return '  * ' + content
+          return '\n  * ' + content
         }
       })
 
       
       const turndowndedText = turndownService.turndown(item['video-notes'])
+      const turndowndedInfo = turndownService.turndown(item['key-takeaways'])
       
       const content = `---
 title: '${item.name}'
@@ -250,11 +251,12 @@ videoUrl: '${item['link-to-video'].url}',
 videoLength: '${item['video-length']}'
 socialDescr: '${item['social-share-description']}'
 socialImage:'${socialImage}'
-info: '${item['key-takeaways']}'
+info: '|
+${turndowndedInfo}'
 recordedAt: '${item['recorded-at']}'
 company: '${item.excerpt}'
 image: '${item.thumbnail.url}'
-text: '|-
+text: '|
 ${turndowndedText}'
 ---
 `;

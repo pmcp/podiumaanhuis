@@ -7,11 +7,18 @@ videoUrl: 'https://vimeo.com/76478112',
 videoLength: '30 min'
 socialDescr: 'Kom mee, Leon! is een voorstelling op en rond een Italiaanse driewieler voor iedereen vanaf 3 jaar.Ciska en Lies trekken de wijde wereld in. Op weg naar het grote avontuur zijn ze van de baan gesukkeld. Hun eigenwijze wagentje Leon opent zijn deuren. Iedereen mag binnengluren, ontdekken en dromen. Meegenomen in de wereld van twee vrouwen die elkaar niet kunnen missen.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7ca555afc24a31fbd55c5c_KommeeLeon_web.jpg'
-info: '<ul><li>dans</li><li>leeftijd: 3+</li><li>duur: 30 min</li><li><a href="http://www.toutpetit.be/" target="_blank">tout petit</a></li><li><a href="https://www.despil.be/mediastorage/FSDocument/884/Kom_mee__Leon__tout_petit__lesmateriaal.pdf" target="_blank">lesmap</a> (pdf)</li></ul><p>‍</p>'
+info: '|
+  * dans
+  * leeftijd: 3+
+  * duur: 30 min
+  * [tout petit](http://www.toutpetit.be/)
+  * [lesmap](https://www.despil.be/mediastorage/FSDocument/884/Kom_mee__Leon__tout_petit__lesmateriaal.pdf) (pdf)
+
+  ‍'
 recordedAt: 'Opname in cultuurcentrum Hasselt'
 company: 'tout petit'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7ca555afc24a31fbd55c5c_KommeeLeon_web.jpg'
-text: '|-
+text: '|
   Kom mee, Leon! is een voorstelling op en rond een Italiaanse driewieler voor iedereen vanaf 3 jaar.
   
   Ciska en Lies trekken de wijde wereld in. Op weg naar het grote avontuur zijn ze van de baan gesukkeld. Hun eigenwijze wagentje Leon opent zijn deuren. Iedereen mag binnengluren, ontdekken en dromen. Meegenomen in de wereld van twee vrouwen die elkaar niet kunnen missen.

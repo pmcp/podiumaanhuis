@@ -7,11 +7,15 @@ videoUrl: 'https://vimeo.com/153099241',
 videoLength: '60 min'
 socialDescr: 'In Le Sous Sol zijn de familieleden nu dood en begraven, maar leven ze verder onder de grond. Er zijn geen regels en afspraken meer, de familiale pikorde wordt grondig op haar kop gezet. Inspiratie kwam onder meer van Dostojevski's Bobok. De overleden personages praten over hun dood, het waarom en hoe van het leven dat ze reeds achter de rug hebben. De situationele humor vormt een belangrijk contrapunt. In deze voorstelling spelen bejaarde personages een nog grotere rol dan tevoren. Bijzonder is de samenwerking met de 80-jarige butohdanseres Maria Otal.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a099aae5f16a039a606cc_Le%20Sous%20Sol%20(c)%20Maarten%20Vanden%20Abeele%2C%20Peeping%20Tom_web.jpg'
-info: '<ul><li>dans</li><li>duur: 60 min</li><li>taal: Frans/Engels/Nederlands</li><li><a href="http://www.peepingtom.be" target="_blank">Peeping Tom</a></li></ul>'
+info: '|
+  * dans
+  * duur: 60 min
+  * taal: Frans/Engels/Nederlands
+  * [Peeping Tom](http://www.peepingtom.be)'
 recordedAt: 'undefined'
 company: 'Peeping Tom'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a099aae5f16a039a606cc_Le%20Sous%20Sol%20(c)%20Maarten%20Vanden%20Abeele%2C%20Peeping%20Tom_web.jpg'
-text: '|-
+text: '|
   Le Sous Sol vormt het sluitstuk van de eerste trilogie van Peeping Tom, die in 2002 startte met Le Jardin, gevolgd door Le Salon in 2004. Le Sous Sol was opnieuw een collectieve creatie van de performers en ging op 28 maart 2007 in première in de Koninklijke Vlaamse Schouwburg (KVS) in Brussel (BE). Tussen 2007 en 2009 toerde het stuk doorheen Europa en Japan.
   
   In Le Sous Sol zijn de familieleden nu dood en begraven, maar leven ze verder onder de grond. Er zijn geen regels en afspraken meer, de familiale pikorde wordt grondig op haar kop gezet. Inspiratie kwam onder meer van Dostojevski's Bobok. De overleden personages praten over hun dood, het waarom en hoe van het leven dat ze reeds achter de rug hebben. De situationele humor vormt een belangrijk contrapunt. In deze voorstelling spelen bejaarde personages een nog grotere rol dan tevoren. Bijzonder is de samenwerking met de 80-jarige butohdanseres Maria Otal.

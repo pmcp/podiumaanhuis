@@ -7,11 +7,19 @@ videoUrl: 'https://vimeo.com/124392435',
 videoLength: '154 min'
 socialDescr: 'Deurdedeurdeur is een hilarische deurenkomedie over het wel en wee van een theatergezelschap tijdens de repetities en tijdens hun toernee. U ziet de voor- en achterzijde van de mensen en het toneel: het decor, maar ook de acteurs en de regisseur die in de coulissen te kampen hebben met verliefdheden, gebrek aan professionalisme, jaloezie en drank. '
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e79197278618a116b185669_SkaGeN_deurdeurdeur-01%20(c)%20Luc%20VLeugels.jpg'
-info: '<ul><li>theater</li><li>duur: 61 min</li><li>taal: Nederlands</li><li><a href="https://www.skagen.be/nl/voorstellingen/deurdedeurdeur" target="_blank">SKaGeN</a></li></ul><p>‍</p><p>‍</p>'
+info: '|
+  * theater
+  * duur: 61 min
+  * taal: Nederlands
+  * [SKaGeN](https://www.skagen.be/nl/voorstellingen/deurdedeurdeur)
+
+  ‍
+
+  ‍'
 recordedAt: 'Opname in CC de bogaard, Sint-Truiden'
 company: 'SKaGeN'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e79197278618a116b185669_SkaGeN_deurdeurdeur-01%20(c)%20Luc%20VLeugels.jpg'
-text: '|-
+text: '|
   SKaGeN zet de lachband aan… Een meesterwerkje in drie bedrijven… En elk bedrijf wordt ‘Deurdedeurdeur’ grappiger. Technisch is het perfect: de timing zit goed, de vergissingen worden perfect uitgevoerd. (De Standaard)
 
   Het ene hilarische moment volgt het andere op. (Cutting Edge)

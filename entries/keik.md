@@ -7,11 +7,18 @@ videoUrl: 'https://www.youtube.com/watch?v=k23U-aFWVTM&feature=youtu.be',
 videoLength: '41 min'
 socialDescr: 'In een mix van film, animatie, live muziek en theater ontstaat een woordeloos spel tussen acteurs op het podium en acteurs op het witte doek. Ze creëren de illusie van een bizarre en wondere wereld. Live pianomuziek vult de zaal en zet de toon. Een streling voor oog en oor!'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e79f870abf2d41de9bf0596_4hoog_KEIK.jpg'
-info: '<ul><li>multidisciplinair</li><li>leeftijd: 3+</li><li>duur: 41 min</li><li>taal: Nederlands</li><li><a href="http://www.4hoog.be" target="_blank">4Hoog &amp; Blauwhuis</a></li></ul><p>‍</p>'
+info: '|
+  * multidisciplinair
+  * leeftijd: 3+
+  * duur: 41 min
+  * taal: Nederlands
+  * [4Hoog & Blauwhuis](http://www.4hoog.be)
+
+  ‍'
 recordedAt: 'undefined'
 company: '4Hoog & Blauwhuis'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e79f870abf2d41de9bf0596_4hoog_KEIK.jpg'
-text: '|-
+text: '|
   De vogel achterna
 
   Door de gietende regen
