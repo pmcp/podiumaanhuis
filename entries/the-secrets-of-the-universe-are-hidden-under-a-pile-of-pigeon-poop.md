@@ -23,13 +23,6 @@ ja
 waar moeten we nu dan naartoe?
 verder'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg'
-info: '|
-  * theater
-  * duur: 73 min
-  * taal: Nederlands
-  * [Larf!](http://www.larf.be)
-
-  ‍'
 recordedAt: 'Opname in De Kazematten, Gent'
 company: 'Larf!'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg'

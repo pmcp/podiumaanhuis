@@ -62,7 +62,7 @@
     <label for="email">E-mail (optioneel)</label>
     <input  class="cc-form__input w-input" type="email" name="email" v-model="formData.email" />
   </div>
-<!-- TODO: result page -->
+  <!-- TODO: result page -->
   <button type="submit" class="submit-button-2 button-full w-button">Verstuur</button>
 </form>
 </template>

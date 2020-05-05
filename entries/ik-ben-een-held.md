@@ -7,12 +7,6 @@ videoUrl: 'https://vimeo.com/409472448',
 videoLength: '50 min'
 socialDescr: 'Over een monster zonder kop, een vis met scherpe tanden, een geheim…dat geheim is én een spook onder het bed!Vier straffe verhalen over een bijzondere vader- kind relatie waarin het kind altijd slimmer en moediger is dan zijn vader. Gekleurd met vertedering, deugnieterij en onverbloemde gruwel. Dit alles voortgestuwd door ritmische jazzmuziek zoals in een stomme film.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9e96244fdf31721c838be5_Annassteen_Ikbeneenheld.JPG'
-info: '|
-  * theater
-  * leeftijd: 4+
-  * duur: 50 min
-  * taal: Nederlands
-  * [Anna's Steen](http://www.annassteen.com)‍'
 recordedAt: 'undefined'
 company: 'Anna's Steen'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9e96244fdf31721c838be5_Annassteen_Ikbeneenheld.JPG'

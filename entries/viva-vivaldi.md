@@ -7,12 +7,6 @@ videoUrl: 'https://www.youtube.com/watch?v=ZT5LXrvduls',
 videoLength: '86 min'
 socialDescr: 'Blaffende honden, zingende koekoeken en ronkende dronkaards, Antonio Vivaldi zette ze allemaal zorgvuldig op muziek in zijn legendarische kwartet van vioolconcerti, De Vier seizoenen. Niet minder legendarisch – nu al! – is de violist die B’Rock naar Brugge haalt voor dit project vol beeldende en verbeeldende muziek. Het was in deze Concertzaal dat Dmitry Sinkovsky ooit het concours van het MAfestival won, en in één flitsende beweging ook de harten van het publiek.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e790ee002418e81fa4b1721_BRock.jpg'
-info: '|
-  * concert
-  * leeftijd: 18+
-  * duur: 86 min
-  * taal: Nederlands
-  * [B'Rock Orchestra](http://www.b-rock.org)'
 recordedAt: 'Opname in Concertgebouw Brugge'
 company: 'B'Rock Orchestra '
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e790ee002418e81fa4b1721_BRock.jpg'

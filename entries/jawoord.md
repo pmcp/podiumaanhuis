@@ -7,12 +7,6 @@ videoUrl: 'https://vimeo.com/403651546',
 videoLength: '93 min'
 socialDescr: 'undefined'
 socialImage:'null'
-info: '|
-  * theater
-  * duur: 93 min
-  * taal: Nederlands
-  * [’t Arsenaal](http://www.arsenaallazarus.be)
-  * [LAZARUS](http://www.lazarusvzw.be)'
 recordedAt: 'Opname in ARSENAAL/LAZARUS Mechelen'
 company: '’t Arsenaal en LAZARUS'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8764c3eeaffc3d8919a680_Jawoord_LAZARUS_t%2Carsenaal%20(c)%20GuyKokken%20kopie.jpg'

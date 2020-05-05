@@ -7,12 +7,6 @@ videoUrl: 'https://vimeo.com/409463307',
 videoLength: '53 min'
 socialDescr: 'Een sprankelende theatervoorstelling waarin we de wereld van taart, beukennoten en eindeloos feesten op een beeldrijke en muzikale wijze tot leven brengen. Stuk voor stuk pareltjes van verhalen van Toon Tellegen met een filosofische insteek en ongewone denkpistes en hersenkronkels, met zorg uitgezocht voor kinderen vanaf 5 jaar.'
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9de15dc942ea85f0f2abf9_Annassteen_Enmorgenwashetfeest.JPG'
-info: '|
-  * theater
-  * leeftijd: 5+
-  * duur: 53 min
-  * taal: Nederlands
-  * [Anna's steen](http://www.annassteen.com)‍'
 recordedAt: 'undefined'
 company: 'Anna's Steen'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9de15dc942ea85f0f2abf9_Annassteen_Enmorgenwashetfeest.JPG'

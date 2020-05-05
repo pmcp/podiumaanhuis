@@ -7,13 +7,6 @@ videoUrl: 'https://www.youtube.com/watch?v=3DramEaoQK4&list=PLPFW7whyH3m5zvW5JOR
 videoLength: '71 min'
 socialDescr: 'In this production SPECTRA takes Die Schöne Müllerin of Schubert/Müller as a musical-literary roadmap, asking composer Daan Janssens to be the guide towards a contemporary landscape. '
 socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e944a846d487336a35210cc_Spectra_Eine%20Scho%CC%88ne%20Mu%CC%88llerin.jpg'
-info: '|
-  * concert
-  * duur: 71 min
-  * taal: Duits
-  * [Spectra](http://www.spectraensemble.com)
-
-  ‍'
 recordedAt: 'undefined'
 company: 'Spectra'
 image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e944a846d487336a35210cc_Spectra_Eine%20Scho%CC%88ne%20Mu%CC%88llerin.jpg'
