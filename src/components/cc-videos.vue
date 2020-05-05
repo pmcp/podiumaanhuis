@@ -202,7 +202,7 @@ export default {
 
     this.genresDefaultObject = this.genres;
     this.genres = [...genresArray];
-    console.log(this.genres);
+    
     this.items = items;
 
     this.filterItems(items);
@@ -234,7 +234,7 @@ export default {
       this.filterItems(this.items);
     },
     toggleStatus: function(type, key, originalArray, allActive) {
-      console.log(type, key, originalArray, allActive);
+      
       /* Back to first page */
       this.startItem = 0;
 
@@ -343,7 +343,7 @@ export default {
         filteredItemsAudience = items;
       } else {
         filteredItemsAudience = items.filter(item => {
-          console.log(item.audience);
+          
           const audience = this.audience.find(
             element => element.name === item.audience
           );

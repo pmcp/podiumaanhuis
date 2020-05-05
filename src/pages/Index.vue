@@ -1,35 +1,43 @@
 <template>
   <Layout>
     
-      <!-- <div class="section">
+    <!-- {{ c }} -->
+    <!-- {{ $page.home }} -->
+      <div class="section">
       <div class="container w-container">
-        <div class="rounded"><img src="images/De-tuin-van-de-walvis_banner.jpg" width="1500" srcset="images/De-tuin-van-de-walvis_banner-p-500.jpeg 500w, images/De-tuin-van-de-walvis_banner.jpg 800w" sizes="(max-width: 479px) 93vw, 95vw" alt="" class="image"></div>
+        <div class="rounded"><g-image :src="heroImage" width="1500"/></div>
         <div class="div-block-7">
           <div class="credit__container">
-            <div class="credit__first">Beeld uit</div>
-            <div class="credit__text">De tuin van de walvis, beeldsmederij DE MAAN</div>
-          </div>
-          <div class="credit__container">
-            <div class="credit__first">©<br></div>
-            <div class="credit__text"></div>
+            <div class="credit__text" style="white-space: pre;" v-html="$page.home.heroCredit"></div>
           </div>
         </div>
       </div>
       <div class="container hero-container">
         <div class="section-hero">
-          <h2 class="cc-heading--left">Haal voorstellingen naar je huiskamer </h2>
-          <p class="paragraph">Bekijk gratis opnames van straffe podiumvoorstellingen voor jong en oud. Elke dag komen er nieuwe bij. Via Podium Aan Huis bundelen gezelschappen, kunst- en cultuurhuizen virtueel de krachten om jou te blijven ontroeren en ontspannen. Door de coronacrisis is de magie van de live beleving even onbereikbaar. Geen nood, want als de zalen moeten sluiten, dan komt de voorstelling gewoon naar je toe. Veel kijkplezier!</p>
+          <h2 class="cc-heading--left">{{ $page.home.title }}</h2>
+          <p class="paragraph" >{{ $page.home.intro }}</p>
         </div>
       </div>
     </div>
-
     <cc-videos></cc-videos>
-    </div>
+    
 
   </Layout>
 </template>
 
 
+<page-query>
+  query {
+    home: mdPages(id: "7e4b4855d8becbeb699c887ba0c2fc82") {
+      title
+      id,
+      content,
+      intro,
+      heroImage,
+      heroCredit
+    }
+  }	
+</page-query>
 
 
 
@@ -41,15 +49,17 @@ export default {
     ccVideos
   },
   metaInfo: {
-    title: "Hello, world!"
+    title: "Podium Aan Huis - Home"
   },
   data() {
     return {
       otherPage: null
     };
   },
-  mounted() {
-    // console.log(this.$page.videos.edges);
+  computed: {
+    heroImage () {
+      return require('~/assets' + this.$page.home.heroImage)
+    }
   }
-};
+}
 </script>
