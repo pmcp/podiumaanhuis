@@ -1,7 +1,9 @@
 
 ---
+title: Supermarkt Malschaert
 descr: Veerle Malschaert
 videoLength: 62 min
+
 text: >-
   <p>Supermarkt Malschaert is verkocht, maar 't malste stuk vlees nog niet: Veerle Malschaert.Te groot hart, te grote mond en teveel testosteron Een dramaqueen on speed. Op zoek naar vaders van haar nog steeds ongeboren kinderen vecht deze grofgebekte missionaris van de liefde vol overgave tegen windmolens en eenzaamheid. Gewapend met haar Self-Help Kit om 't leven door te komen, gaat ze de confrontatie aan met de toeschouwers en zichzelf. Hard en zacht, extreem en poëtisch, subtiel en expliciet laat ze niemand onberoerd. Ze slaat u om de oren, hilarisch en ontroerend. Ze is uw rots in de branding, uw steun en toeverlaat. Veerle Malschaert, eindelijk een vrouw die u verstaat!<br><br>Te groot hart, te grote mond en teveel testosteron<br>Een dramaqueen on speed<br>Ze stelt zich open voor u!<br>Maar ook voor negers, rukkers, bejaarden, vampieren en mongolen<br>Op zoek naar vaders van haar nog steeds ongeboren kinderen vecht deze grofgebekte missionaris van de liefde vol overgave tegen windmolens en eenzaamheid<br>Uw rots in de branding, uw steun en toeverlaat. Eindelijk een vrouw die u verstaat!<br><br>In haar eerste solo comedyshow: 'Supermarkt Malschaert' staat Veerle recht op comedy met haar hoogste hakken aan.<br>Gewapend met haar Self-Help Kit om 't leven door te komen, gaat ze de confrontatie aan met de toeschouwers en zichzelf<br>Hard en zacht, extreem en poëtisch, subtiel en expliciet laat ze niemand onberoerd<br>Over de ernstige gevolgen van Wereldberoemd zijn in Vlaanderen, verstoord contact in de westerse wereld vol eenzame virtuele sex, de isolering van bejaarden, gehandicapten en freaks, ontredderde perfecte mensen, potjes en dekseltjes en hoe we allemaal op zoek zijn.<br>Ze slaat u om de oren, hilarisch en ontroerend.<br>Ge moogt er om huilen van 't lachen</p><p>‍</p><h5>Credits</h5><p>Opname video door&nbsp;PIAS<br></p>
 ---

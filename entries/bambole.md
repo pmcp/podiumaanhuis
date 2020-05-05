@@ -1,7 +1,9 @@
 
 ---
+title: Bambole
 descr: FroeFroe
 videoLength: 45 min
+
 text: >-
   <p>Het Sprookje Van Koen en zijn Nieuwe Buurvrouw<br><br>Koen woont in nummer 9. Hij heeft een burnout. Hij heeft jaren naast de botsauto's gestaan met loeiharde muziek in zijn oren en is er ziek van geworden. Soms heeft hij nog een kleine woede aanval maar gelukkig is er een medicijn. Hij heeft nu een huis, een bloementuin, een appelboom, een perenboom en een eendje. Koen gaat elke ochtend door de tuin wandelen. Hij eet een appel en geeft eendje eten. Het komt goed met Koen.<br>Op een nacht, piep, piep, piep, piep, kaboengkschrrrrrdoef!<br>Een vrachtwagen heeft een pakje gebracht: het is een huis.<br>Het huis 6 staat nu naast huis 9.<br>Ring, ring, een fietsende buurvrouw komt naast Koen wonen.<br>Die buurvrouw is helemaal anders dan Koen.<br>Ze fietst en ze zingt liedjes<br>Ze kust veel, ook het eendje, I LOVE YOU.<br>Ze kust ook bloemen, I LOVE YOU.<br>Buurvrouw krijgt een pakje: een papfles.<br>Buurvrouw krijgt nog een pakje: babykledij.<br>En er komt nog een pak vol pampers en ook een pakje tutters...<br>Ze is in blijde verwachting van haar laatste pakje; een echte Bambole !</p><p><strong>Credits</strong></p><p>Een verhaal van Filip Peeters en Dimitri Duquennoy in regie van Marc Maillard<br>Met in de hoofdrollen Koen Swanenberg, Annelore Stubbe en de fenomenale muziekjes van Arne Leurentop - Techniek van Klaartje Vermeulen of Wim Bernaers<br>Poppen, Kostuum, Decor en Props van Klaartje Vermeulen en Ina Peeters.</p><p>Opname door &nbsp;Beeldstorm olv Jan Bosteels<br><br>Wil je nog meer FroeFroe? Bekijk alle <a href="https://vimeopro.com/janbosteels/theater-froe-froe" target="_blank">voorstellingen van FroeFroe.</a><br></p>
 ---

@@ -1,7 +1,9 @@
 
 ---
+title: Dadakaka
 descr: Tuning People
 videoLength: 65 min
+
 text: >-
   <p>DaDaKaKa is een op hol geslagen cabaret voor kinderen vanaf 8 jaar (en hun ouders en grootouders en vrienden van hun ouders en grootouders). Verschillende acts doordrongen van wilde creativiteit volgen elkaar op. DaDaKaKa is een combinatie van hoekige dans, gebroken pianomuziek, geflipte beelden en gestoorde teksten. DaDaKaKa is een voorstelling over wat kan en wat niet kan. De wereld barst van de regels, in deze voorstelling zijn er geen: een schilderij kan zingen en letters kunnen dansen.</p><p>DaDa = dadaïsme*, maar dan korter</p><p>DaDa = een stokpaardje, of iets wat iemand leuk vindt</p><p>DaDa = babytaal</p><p>KaKa = iets anders</p><p>KaKa = iets wat iemand maakt</p><p>DaDaKaKa = iets anders dan dadaïsme</p><p>DaDaKaKa = 2xD, 2xK en 4xa</p><p>DaDaKaKa = iets wat iemand maakt dat iemand anders leuk vindt</p><p>*Het dadaïsme verzette zich tegen de ‘beschaafde’ wereld door zotte conventieloze, vaak grappige kunst te maken. DaDaKaKa is een hedendaagse versie van dadaïstische cabaretten uit 1916.</p><p>“Een statement over de vrijheid van geest, een pleidooi voor creativiteit, wars van alle regelzucht.” De Standaard</p><p>“DaDaKaKa is lekker maf. Heel vaak zijn de combinaties van spel, muziek en vorm spitsvondig.” Theaterkrant</p><h5>Credits</h5><p>Spel, dans en muziek: Wannes Deneer, Jef Van gestel, Karolien Verlinden en Wim Muyllaert</p><p>Eindregie: Randi De Vlieghe</p><p>Kostuums: Maartje Van Bourgognie</p><p>Lichtontwerp en techniek: Sander Salden</p><p>Productieleiding: Pauline Jocqué</p><p>Productie: Tuning People</p><p>Co-producenten: TAKT / Provinciaal Domein Dommelhof, P2 - cultuurcentrum Hasselt &amp; Theater aan het Vrijthof Maastricht i.h.k.v. de interlimburgse subsidies, Villanella en in samenwerking met Froe Froe</p><p>Met steun van de Vlaamse Gemeenschap</p><p>‍</p><p>Opname door Ans Kanen</p>
 ---
