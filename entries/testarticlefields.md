@@ -17,5 +17,10 @@ info: |-
 recordedAt: recordedat
 company: company
 image: /uploads/screenshot-2020-04-25-18.04.29.png
-text: "> text"
+text: |-
+  > text
+  >
+  > as
+  >
+  > **dfsa**
 ---
