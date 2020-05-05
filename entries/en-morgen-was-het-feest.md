@@ -1,8 +1,17 @@
 ---
 title: 'En morgen was het feest'
+id: '5e9de2c3917b8e63ca300b54
 descr: 'Anna's Steen'
+age: '5+'
+videoUrl: 'https://vimeo.com/409463307',
 videoLength: '53 min'
-text: '>-
+socialDescr: 'Een sprankelende theatervoorstelling waarin we de wereld van taart, beukennoten en eindeloos feesten op een beeldrijke en muzikale wijze tot leven brengen. Stuk voor stuk pareltjes van verhalen van Toon Tellegen met een filosofische insteek en ongewone denkpistes en hersenkronkels, met zorg uitgezocht voor kinderen vanaf 5 jaar.'
+socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9de15dc942ea85f0f2abf9_Annassteen_Enmorgenwashetfeest.JPG'
+info: '<ul><li>theater</li><li>leeftijd: 5+</li><li>duur: 53 min</li><li>taal: Nederlands</li><li><a href="http://www.annassteen.com" target="_blank">Anna's steen</a>‍</li></ul>'
+recordedAt: 'undefined'
+company: 'Anna's Steen'
+image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9de15dc942ea85f0f2abf9_Annassteen_Enmorgenwashetfeest.JPG'
+text: '|-
   Een sprankelende theatervoorstelling waarin we de wereld van taart, beukennoten en eindeloos feesten op een beeldrijke en muzikale wijze tot leven brengen.   Stuk voor stuk pareltjes van verhalen van Toon Tellegen met een filosofische insteek en ongewone denkpistes en hersenkronkels, met zorg uitgezocht voor kinderen vanaf 5 jaar.
 
   Over Eekhoorn en Olifant die de komst van de lente willen versnellen door haar een brief te schrijven:

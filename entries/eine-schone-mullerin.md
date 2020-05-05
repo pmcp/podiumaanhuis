@@ -1,8 +1,17 @@
 ---
 title: 'Eine schöne Müllerin'
+id: '5e944c0daccbb901f6e40163
 descr: 'Spectra'
+age: 'undefined'
+videoUrl: 'https://www.youtube.com/watch?v=3DramEaoQK4&list=PLPFW7whyH3m5zvW5JORcCPt5QmcptcznX&index=3',
 videoLength: '71 min'
-text: '>-
+socialDescr: 'In this production SPECTRA takes Die Schöne Müllerin of Schubert/Müller as a musical-literary roadmap, asking composer Daan Janssens to be the guide towards a contemporary landscape. '
+socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e944a846d487336a35210cc_Spectra_Eine%20Scho%CC%88ne%20Mu%CC%88llerin.jpg'
+info: '<ul><li>concert</li><li>duur: 71 min</li><li>taal: Duits</li><li><a href="http://www.spectraensemble.com" target="_blank">Spectra</a></li></ul><p>‍</p>'
+recordedAt: 'undefined'
+company: 'Spectra'
+image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e944a846d487336a35210cc_Spectra_Eine%20Scho%CC%88ne%20Mu%CC%88llerin.jpg'
+text: '|-
   “In my arranging and rearranging of images I’m like a child \[…\]
 
   I’m like a lunatic adorning my hair with dried flowers that are still alive in my dreams.”

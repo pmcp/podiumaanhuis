@@ -1,8 +1,17 @@
 ---
 title: 'Sadko (Rimski-Korsakov)'
+id: '5e7db0911a702a3bbe6e8bc4
 descr: 'Opera Ballet Vlaanderen'
+age: 'undefined'
+videoUrl: 'https://youtu.be/FvLAQSZdHoQ',
 videoLength: '150 min'
-text: '>-
+socialDescr: 'Deze magische opera van Rimski-Korsakov vertelt het verhaal van de kunstenaar Sadko die met zijn kunst de anderen ervan wil overtuigen het isolement te doorbreken en nieuwe werelden te ontsluiten. Zijn droom wordt echter vijandig onthaald. Alleen Volkhova, de dochter van de zeekoning, betoverd door Sadko’s muziek, helpt hem zijn visionaire ideeën te realiseren.'
+socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7daf9a920e35233d2501c9_SADKO_productiebeeld_01_34A9748_(c)AnnemieAugustijns_web.jpg'
+info: '<ul><li>opera</li><li>duur: 150 min</li><li><a href="http://operaballet.be" target="_blank">Opera Ballet Vlaanderen</a>‍</li></ul>'
+recordedAt: 'Opname in Opera Gent'
+company: 'Opera Ballet Vlaanderen'
+image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7daf9a920e35233d2501c9_SADKO_productiebeeld_01_34A9748_(c)AnnemieAugustijns_web.jpg'
+text: '|-
   Deze magische opera van Rimski-Korsakov vertelt het verhaal van de kunstenaar Sadko die met zijn kunst de anderen ervan wil overtuigen het isolement te doorbreken en nieuwe werelden te ontsluiten. Zijn droom wordt echter vijandig onthaald. Alleen Volkhova, de dochter van de zeekoning, betoverd door Sadko’s muziek, helpt hem zijn visionaire ideeën te realiseren.
   
   Rimski-Korsakov baseerde zich voor Sadko op een middel­eeuwse ‘bylina’ of epos over de gelijknamige avonturier, handelaar en minnestreel, en verweefde die met diverse zeelegenden. Schipperend tussen mensen- en zeewereld en tussen mythe en werkelijkheid verschijnt Sadko als een Slavische variant van zowel Orfeus als Odysseus. Hij belichaamt de scheppende kracht van de fantasie die de strijd aanbindt met de realiteit.

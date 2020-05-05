@@ -1,8 +1,17 @@
 ---
 title: 'Like it here? Elsie de Brauw in de wereld van Alain Platel'
+id: '5e8ecfbe6325420e830eb2ca
 descr: 'Les ballets C de la B / Carine Bijlsma'
+age: 'undefined'
+videoUrl: 'https://vimeo.com/405010085',
 videoLength: '54 min'
-text: '>-
+socialDescr: 'Documentaire uit 2014 van Carine Bijlsma. Als enige actrice tussen vijf dansers, volgt Elsie de Brauw een moeilijke en eenzame weg tijdens het creatieproces van de dansvoorstelling ‘tauberbach’ van choreograaf Alain Platel. De documentaire volgt van nabij haar worsteling met de rol, het loslaten van tekst als houvast, het zoeken naar een nieuwe taal. '
+socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8ecf9e370a66bb7f8bfd71_Elsiedebrauw_Docu_Likeithere_web.png'
+info: '<ul><li>dans documentaire</li><li>duur: 54 min</li><li>taal: Nederlands / Engels</li><li><a href="https://www.carinebijlsma.com/">Carine Bijlsma</a></li><li><a href="https://www.lesballetscdela.be/" target="_blank">les ballets c de la b</a></li></ul>'
+recordedAt: 'undefined'
+company: 'Les ballets C de la B / Carine Bijlsma'
+image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8ecf9e370a66bb7f8bfd71_Elsiedebrauw_Docu_Likeithere_web.png'
+text: '|-
   Documentaire uit 2014 van Carine Bijlsma. Als enige actrice tussen vijf dansers, volgt Elsie de Brauw een moeilijke en eenzame weg tijdens het creatieproces van de dansvoorstelling ‘tauberbach’ van choreograaf Alain Platel. De documentaire volgt van nabij haar worsteling met de rol, het loslaten van tekst als houvast, het zoeken naar een nieuwe taal.
 
   “Wil jij met mij een voorstelling maken?” Deze vraag van actrice Elsie de Brauw aan regisseur/choreograaf Alain Platel (twee kunstenaars die elkaar bewonderen) is de aanzet tot de voorstelling tauberbach. Na een enthousiaste instemming volgt een zeer ingewikkeld repetitieproces. De documentaire Like it here? zit Elsie de Brauw dicht op de huid op weg naar de première, terwijl zij als enige actrice kwetsbaar en eenzaam haar zekerheden moet loslaten en een plek moet bevechten tussen de dansers. Nu zij alle grenzen binnen haar eigen vak heeft opgezocht, heeft Elsie de Brauw zichzelf voor een ultieme uitdaging gesteld. In deze voorstelling moet zij teksten, die doorgaans haar houvast zijn, volledig loslaten en zich overgeven aan haar lichaam. Dat blijkt zowel bevrijdend als beangstigend. In een openhartige briefwisseling en tijdens zoekende gesprekken met Alain Platel wordt duidelijk dat ze een compleet andere artistieke taal spreken. De voorstelling vraagt het uiterste van haar, mentaal en fysiek. Gehavend vindt ze tot haar grote opluchting vlak voor de première de sleutel.

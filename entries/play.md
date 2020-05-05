@@ -1,8 +1,18 @@
 ---
 title: 'Play!'
+id: '5e99d36db737d8b055a5a0d9
 descr: 'hetpaleis & Dschungel Wien/ Karolien Verlinden (Tuning People)'
+age: '8+'
+videoUrl: 'https://vimeo.com/296621156',
 videoLength: '68 min'
-text: '>-
+socialDescr: 'Zes dansers spelen een spel. Is het voetbal, tikkertje, touwtrekken? Rivaliteit, competitie en valsspelen loeren om de hoek. Ze nemen risico’s en breken spelregels, balanceren tussen plezier en ernst, tussen winnen en verliezen.
+Hoe lang blijft een spel een spel?'
+socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e99d1ec5209520a1ccb3342_Hetpaleis_Play!_RainerBerson.jpg'
+info: '<ul><li>dans</li><li>leeftijd: 8+</li><li>duur: 68 min</li><li>taal: Nederlands</li><li><a href="https://www.hetpaleis.be/" target="_blank">hetpaleis</a> &amp; <a href="https://www.dschungelwien.at/" target="_blank">Dschungel Wien</a>/ <a href="https://www.tuningpeople.be/" target="_blank">Karolien Verlinden (Tuning People)</a></li></ul>'
+recordedAt: 'Opname in hetpaleis, Antwerpen'
+company: 'hetpaleis & Dschungel Wien/ Karolien Verlinden (Tuning People)'
+image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e99d1ec5209520a1ccb3342_Hetpaleis_Play!_RainerBerson.jpg'
+text: '|-
   Zes dansers spelen een spel. Is het voetbal, tikkertje, touwtrekken? Rivaliteit, competitie en valsspelen loeren om de hoek. Ze nemen risico’s en breken spelregels, balanceren tussen plezier en ernst, tussen winnen en verliezen.Hoe lang blijft een spel een spel? Play! is een dansvoorstelling voor kinderen, geïnspireerd op Kinderspelen van Bruegel.In 1560 schilderde Bruegel zijn Kinderspelen: tachtig verschillende spelletjes op één doek. 459 jaar later spelen zes dansers in flitsende outfits er zoveel mogelijk in één uur!  
   
 

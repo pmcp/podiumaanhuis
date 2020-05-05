@@ -1,8 +1,17 @@
 ---
 title: 'SAPERLIPOPETTE'
+id: '5e9565e073f1c784a8ea0a06
 descr: 'Ultima Thule'
+age: '6+'
+videoUrl: 'https://vimeo.com/303131185',
 videoLength: '56 min'
-text: '>-
+socialDescr: 'Door de wonderlijke ontmoeting met een meisje wordt de eens zo grijze wereld van een oude man met een groot verdriet, beetje bij beetje terug gevuld met kleur. '
+socialImage:'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9565bd19faa74c5a511ea6_UltimaThule_SAPERLIPOPETTE_web.jpg'
+info: '<ul><li>figurentheater</li><li>leeftijd: 6+</li><li>duur: 56 min</li><li>taal: Nederlands</li><li><a href="http://www.ultima-thule.be" target="_blank">Ultima&nbsp;Thule</a>‍</li></ul>'
+recordedAt: 'Opname in Minardschouwburg, Gent'
+company: 'Ultima Thule'
+image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e9565bd19faa74c5a511ea6_UltimaThule_SAPERLIPOPETTE_web.jpg'
+text: '|-
   SAPERLIPOPETTE  6+
   of hoe verbeelding verlies verlicht
   in samenwerking met Une Tribu

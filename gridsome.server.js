@@ -243,9 +243,18 @@ module.exports = function (api) {
       
       const content = `---
 title: '${item.name}'
+id: '${item._id}
 descr: '${item.excerpt}'
+age: '${item.age}'
+videoUrl: '${item['link-to-video'].url}',
 videoLength: '${item['video-length']}'
-text: '>-
+socialDescr: '${item['social-share-description']}'
+socialImage:'${socialImage}'
+info: '${item['key-takeaways']}'
+recordedAt: '${item['recorded-at']}'
+company: '${item.excerpt}'
+image: '${item.thumbnail.url}'
+text: '|-
 ${turndowndedText}'
 ---
 `;

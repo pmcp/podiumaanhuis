@@ -1,8 +1,17 @@
 ---
 title: 'Jawoord'
+id: '5e8766bbbde3d7d9ef19883c
 descr: '’t Arsenaal en LAZARUS'
+age: 'undefined'
+videoUrl: 'https://vimeo.com/403651546',
 videoLength: '93 min'
-text: '>-
+socialDescr: 'undefined'
+socialImage:'null'
+info: '<ul><li>theater</li><li>duur: 93 min</li><li>taal: Nederlands</li><li><a href="http://www.arsenaallazarus.be" target="_blank">’t Arsenaal</a></li><li><a href="http://www.lazarusvzw.be" target="_blank">LAZARUS</a></li></ul>'
+recordedAt: 'Opname in ARSENAAL/LAZARUS Mechelen'
+company: '’t Arsenaal en LAZARUS'
+image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8764c3eeaffc3d8919a680_Jawoord_LAZARUS_t%2Carsenaal%20(c)%20GuyKokken%20kopie.jpg'
+text: '|-
   ‘Over de liefde?’  ‘Ja.’  ‘Een voorstelling over de liefde?’  ‘Ja.’  ‘Tussen man en vrouw?’  ‘Ja.’  ‘Klinkt moeilijk.’  ‘Ja.’  ‘Maar moeilijk gaat ook?’  (denkt na) ‘Ja.’  ‘Zal het desondanks een beetje grappig zijn?’ ‘Desondanks?’  ‘Omdat het zo serieus is…’  ‘Vind jij de liefde serieus?’  ‘Ik stel de vragen.’  ‘Ja.’  ‘Ook om te lachen dus?’  ‘Ja.’  ‘Zeg jij ook soms ‘nee’?’  ‘Ja.’
 
   Ingmar Bergman schreef Scènes uit een huwelijk. Pieter Genard en Lotte Heijtenis schrijven hetzelfde stuk opnieuw. Ze delen een liefde voor vragen. En ze zijn het eens over een heleboel dingen maar vooral over het feit dat elke keuze die je maakt ook wel eens de foute kan zijn. ‘Nee’ zeggen kunnen ze tamelijk goed, ‘ja’ zeggen is lastiger. Deze voorstelling, omdat ze daar iets aan wilden doen.In den beginne was het woord. En het woord was ja.
