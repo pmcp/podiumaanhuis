@@ -14,8 +14,7 @@
     </div>
     
     <div class="section cc-page__content">
-
-      
+      {{ $page.entry }}
       <div class="cc-container">
         <div class="grid-sidebar">
           <div>

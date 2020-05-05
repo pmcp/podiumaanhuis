@@ -21,7 +21,8 @@
           <p class="paragraph">Bekijk gratis opnames van straffe podiumvoorstellingen voor jong en oud. Elke dag komen er nieuwe bij. Via Podium Aan Huis bundelen gezelschappen, kunst- en cultuurhuizen virtueel de krachten om jou te blijven ontroeren en ontspannen. Door de coronacrisis is de magie van de live beleving even onbereikbaar. Geen nood, want als de zalen moeten sluiten, dan komt de voorstelling gewoon naar je toe. Veel kijkplezier!</p>
         </div>
       </div>
-    </div> -->
+    </div>
+
     <cc-videos></cc-videos>
     </div>
 

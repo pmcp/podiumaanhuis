@@ -2,6 +2,7 @@
   <div
     id="videos"
     class="section ccsection--videos"
+    
   >
     <div class="container">
       <h2 class="section-header-border">Video&#x27;s</h2>
@@ -10,7 +11,7 @@
         <div class="cc-video__vue">
           <div
             class="container"
-            id="scrollToPagination"
+            
           >
             <div
               class="filter__container"
@@ -326,10 +327,10 @@ export default {
         this.startItem = this.startItem - this.itemsPerPage;
       }
 
-      this.filterItems();
+      this.filterItems(this.items);
 
       setTimeout(() => {
-        let elmnt = document.getElementById("scrollToPagination");
+        let elmnt = document.getElementById("videos");
         elmnt.scrollIntoView({ behavior: "smooth" });
       }, 100);
     },
