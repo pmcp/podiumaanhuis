@@ -2,7 +2,7 @@
 title: 'Whiskey on stage'
 descr: 'HERMESensemble, I Solisti en Champdaction'
 videoLength: '79 min '
-text: '
+text: '>-
   Het oeuvre van de Vlaamse grootmeester Luc Brewaeys omvat meer dan honderd werken voor de meest uiteenlopende bezettingen van solowerken, over opera en muziektheater, tot ensemblewerken en composities voor groot symfonisch orkest, al dan niet met muzikale elektronica. Het is echter niet eenvoudig in dit geheel consistente lijnen of cycli te ontdekken – reeksen die thematisch of inhoudelijk met mekaar in verband staan. Een uitzondering hierop vormen acht werken die Brewaeys componeerde in de lange tijdspanne 1991 – 2009 die alleen expliciet refereren aan Schotse single malt whisky’s.
 
   Deze ‘single malt cyclus’ omvat acht composities voor uiteenlopende bezettingen. Ze worden gekenmerkt door een pure, oorspronkelijke hoge energie; voor de kenner een rijk gelaagde smaaksensatie van de meest uiteenlopend thema’s, tempi en spectra, voor de geïnteresseerde leek een aangenaam gevoel van rush waar je een klein beetje tipsy van wordt.

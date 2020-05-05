@@ -2,7 +2,7 @@
 title: 'Tagfish'
 descr: 'BERLIN'
 videoLength: '56 min '
-text: '
+text: '>-
   \[all great changes begin at the table\]
   
   Een verhaal over wachten. Zeven personages aan tafel, op zoek naar nieuwe bestemmingen voor de braakliggende terreinen in hun gebied. Een conferentie die in realiteit nooit plaatsvond.

@@ -2,7 +2,7 @@
 title: 'invisible '
 descr: 'kabinet k & hetpaleis'
 videoLength: '56 min'
-text: '
+text: '>-
   ####invisible, een warm dekentje van een dansvoorstelling over loutering, hoop en troost.
 
   Er is een mens die een vraag stelt. Ongedurig, vol verlangen.

@@ -2,7 +2,7 @@
 title: 'Tape voor kleuters'
 descr: 'Tuning People & fABULEUS'
 videoLength: '54 min'
-text: '
+text: '>-
   Een productie van Tuning People & fABULEUS
 
   Een verrassende bewegingsvoorstelling die blijft plakken voor iedereen vanaf 4 jaar.

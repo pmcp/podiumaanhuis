@@ -2,7 +2,7 @@
 title: 'OneTwoThreeOneTwo'
 descr: 'Albert Quesada'
 videoLength: '40 min'
-text: '
+text: '>-
   Dit is geen flamencovoorstelling.
   
   In OneTwoThreeOneTwo gebruikt een duo dansers hun lichaam en stem om vragen te stellen: wat is flamenco? Hoe creëert deze ongeschreven taal – tegelijkertijd muziek en dans – zo’n intense, directe communicatie?

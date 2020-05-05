@@ -2,7 +2,7 @@
 title: 'En morgen was het feest'
 descr: 'Anna's Steen'
 videoLength: '53 min'
-text: '
+text: '>-
   Een sprankelende theatervoorstelling waarin we de wereld van taart, beukennoten en eindeloos feesten op een beeldrijke en muzikale wijze tot leven brengen.   Stuk voor stuk pareltjes van verhalen van Toon Tellegen met een filosofische insteek en ongewone denkpistes en hersenkronkels, met zorg uitgezocht voor kinderen vanaf 5 jaar.
 
   Over Eekhoorn en Olifant die de komst van de lente willen versnellen door haar een brief te schrijven:

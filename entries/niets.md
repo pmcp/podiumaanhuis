@@ -2,7 +2,7 @@
 title: 'Niets'
 descr: 'De Nwe Tijd/HETPALEIS'
 videoLength: '90 min'
-text: '
+text: '>-
   Het begint allemaal met Pierre Anthon, een jongen uit klas 2B. Op een dag staat hij op, pakt zijn tas en zegt kalm: ‘Er bestaat niets van betekenis, dat had ik al lang door. En daarom heeft het geen zin om iets te doen, dat heb ik net begrepen.’ Hij stopt zijn boeken in zijn tas, loopt de klas uit en gaat in een pruimenboom zitten. Zijn klasgenoten pikken dit niet. Ze besluiten hem te laten zien dat hij het fout heeft. In een verlaten loods aan de rand van het dorp beginnen ze een Berg van Betekenis te bouwen. Om beurten moet iemand iets afstaan wat hem of haar dierbaar is. Elk offer heeft een nieuw en groter offer tot gevolg. Wat onschuldig begint, krijgt algauw een dramatische wending ...
   
   Toen ik het boek las wist ik meteen dat ik hier iets mee wou doen. Het is zo’n extreem boek en zo gruwelijk in zijn onverbiddelijkheid dat ik er door geprikkeld werd. Ik wou er iets tegenover zetten. Net als de klas wou ik direct bewijzen dat er wel zinvolle dingen bestaan. Dat niet alles waardeloos is. En zo begon ik samen met mijn dramaturge Rosa Vandervost en een fantastische cast mijn eigen Berg van Betekenis te maken.

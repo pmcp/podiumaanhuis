@@ -2,7 +2,7 @@
 title: 'Frankenstein!!'
 descr: 'Spectra '
 videoLength: '29 min'
-text: '
+text: '>-
   Heeft u een bijzonder gevoel voor humor? Houdt u van satire?
 
   Dan is Frankenstein!! van H.K. Gruber wat u zoekt.

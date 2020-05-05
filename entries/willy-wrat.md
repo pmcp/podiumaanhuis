@@ -2,7 +2,7 @@
 title: 'Willy Wrat'
 descr: 'Jaela Cole & Villanella'
 videoLength: '56 min'
-text: '
+text: '>-
   Een grappige voorstelling over vriendschap en durf voor iedereen vanaf 6 jaar.
 
   Viktor is acht jaar en woont bij zijn mama, omdat zijn papa het moeilijk heeft met zichzelf. Viktor wil niet zwemmen. In de zwemles van juf Esmeralda wordt Viktor besmet met Willy, de voetwrat.Mama verklaart de oorlog aan Willy. Willy verklaart de oorlog aan iedereen. Tot Viktor vriendschap sluit met Willy.

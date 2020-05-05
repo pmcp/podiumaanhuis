@@ -2,7 +2,7 @@
 title: 'Penelope'
 descr: 'Voetvolk / Lisbeth Gruwez & Maarten Van Cauwenberghe'
 videoLength: '17 min'
-text: '
+text: '>-
   “Penelope wacht, worstelt met tijd en verlangen. Haar beweging is die van de stilstand.”
   
   Als al het verbale geweld van de 24 mannen die de Odyssee vertellen eenmaal over de scène heeft geraasd, brengt Lisbeth Gruwez een woordeloos antwoord in de meest zuivere eenvoud: twintig minuten lang danst ze alle verzwegen vrouwen van de Odyssee bijeen, en dient dusdanig al die mannen van repliek.

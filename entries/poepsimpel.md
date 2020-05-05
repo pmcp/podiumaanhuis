@@ -2,7 +2,7 @@
 title: 'Poepsimpel'
 descr: 'Compagnie Cecilia'
 videoLength: '95 min'
-text: '
+text: '>-
   ‘Poepsimpel’ vertelt het verhaal van een familiereünie op het domein van ‘de baron’. Hij heeft zijn kasteel verkocht en nodigt voor een laatste keer de mensen uit die hem na aan het hart liggen. Van Arne Sierens met Titus De Voogdt, Robrecht Vanden Thoren en Tom Vermeir.
   
   Een creatie van Arne Sierens uit 2015 met 3 ondertussen heel bekende topspelers Titus De Voogdt (The Missing - BBC, WELP) , Robrecht Vanden Thoren (Tom & Harry, Hasta La Vista), Tom Vermeir (Belgica) en live-muziek van Franse muzikant Jean-Yves Evrard.

@@ -2,7 +2,7 @@
 title: 'Bloed & Rozen'
 descr: 'Toneelhuis'
 videoLength: '145 min'
-text: '
+text: '>-
   Jeanne d’Arc en Gilles de Rais: de Maagd en de Duivel!                
 
   Op het eerste gezicht zijn deze twee historische figuren elkaars absolute tegenpool. Het eenvoudige Franse boerenmeisje Jeanne d’Arc sterft na enkele spectaculaire overwinningen op Engeland als heks op de brandstapel. De rijke en adellijke Gilles de Rais, die aan haar zijde vocht, geeft zich na haar dood over aan magie, moord en seksuele excessen en sterft op de brandstapel als een boetvaardige zondaar.

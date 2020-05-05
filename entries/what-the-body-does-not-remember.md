@@ -2,7 +2,7 @@
 title: 'What the body does not remember'
 descr: 'Ultima Vez / Wim Vandekeybus & Ictus'
 videoLength: '96 min'
-text: '
+text: '>-
   Het debuut van Wim Vandekeybus en Ultima Vez uit 1987 sloeg de toenmalige danswereld met verstomming. Vandekeybus en componisten Thierry de Mey en Peter Vermeersch kregen in New York de gerenommeerde Bessie Award voor deze “brutale confrontatie van dans en muziek”.
   
   In 2013, 25 jaar later en met een nieuwe cast, ging de voorstelling opnieuw op tournee over de hele wereld. Vandekeybus’ eerste choreografie balanceert op de messcherpe grens van aantrekken en afstoten. Nu eens levert dat een confrontatie van twee dansers op, dan van twee groepen, van de dansers en de muziek, van de dansers en een dwingend lijnenspel.

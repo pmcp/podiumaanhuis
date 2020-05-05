@@ -2,7 +2,7 @@
 title: 'SUE ME MODDERFOKKER'
 descr: 'SKaGeN'
 videoLength: '120 min'
-text: '
+text: '>-
   Ik heb een heel goede buurman. Echt waar. Ik weet dat u de indruk zult krijgen dat àlles wat ik vandaag vertel waar is, maar dat is dus niet zo. Ik heb echt een zeer zeer goede buurman. Dat is heel belangrijk. Het is zeer belangrijk dat ik duidelijk maak dat dit allemaal niks met de realiteit te maken heeft. Dat heeft mijn advocaat ook gezegd.
 
   Dus om alle misverstanden te vermijden: mijn buurman heet meneer Mortelmans, maar mijn buurman vanàvond heet niet Mortelmans maar Mortélmans. Dat is iets helemaal anders, dat heeft mijn advocaat ook gezegd, hij heeft gezegd dat dat heel goed is, Mortélmans dat is duidelijk fictie, een krachtige metafoor, de “sterfelijke man”, Mortél-man-s, de verzinnebeelding van eenieder van ons want wij zijn allemaal sterfelijk. Voilà, dat wilde ik graag even op voorhand zeggen.

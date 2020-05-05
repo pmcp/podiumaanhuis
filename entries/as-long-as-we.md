@@ -2,7 +2,7 @@
 title: 'As Long As We'
 descr: 'THERE THERE Company'
 videoLength: '50 min'
-text: '
+text: '>-
   Hand-op-handacrobatie vereist balans en vertrouwen, kracht en breekbaarheid, steun en overgave. Als een beweging foutloos wordt uitgevoerd, zien we enkel perfectie. As long as we toont wat erachter ligt: het eindeloos herhalen, het onvermogen om samen te werken, de soms lachwekkende zinloosheid van het proberen. En af en toe wél het perfecte samenspel. Naast twee artiesten, honderd witte koffiekopjes op scène: net als de lijven, sterk en toch breekbaar.
 
   #####Credits

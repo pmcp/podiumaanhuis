@@ -2,7 +2,7 @@
 title: 'Tornar'
 descr: 'Ultima Vez / Seppe Baeyens'
 videoLength: '52 min'
-text: '
+text: '>-
   Tornar vertelt het verhaal van een groep achterblijvers die na de doortocht van een tornado opnieuw een gemeenschap tracht op te bouwen. Choreograaf / danser Seppe Baeyens (Ultima Vez) neemt de afbrokkelende solidariteit tussen generaties als uitgangspunt voor zijn eerste grootschalige dansvoorstelling.  
   
   De cast voor deze voorstelling bestaat uit een mix van niet-professionele en professionele dansers van verschillende leeftijden. Op scène staan vier kinderen, twee jongeren, drie dansers, een 91-jarige man en een muzikant.

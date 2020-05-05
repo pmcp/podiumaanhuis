@@ -2,7 +2,7 @@
 title: 'Gesprek met de regen / Conversation with the rain'
 descr: 'Het nieuwstedelijk'
 videoLength: '107 min'
-text: '
+text: '>-
   English version of 'Gesprek met de regen', see below
   
 

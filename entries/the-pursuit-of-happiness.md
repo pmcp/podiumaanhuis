@@ -2,7 +2,7 @@
 title: 'The Pursuit of Happiness'
 descr: 'Behoud de Begeerte'
 videoLength: '89 min'
-text: '
+text: '>-
   “We hold these truths to be self-evident that all men are created equal, that they are endowed by their creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.”
 
   De tweede paragraaf uit de Amerikaanse Onafhankelijkheidsverklaring schonk de naam aan een productie van Behoud de Begeerte: The Pursuit of Happiness. Tijdens deze tournee spitten drie tenoren van de hedendaagse literatuur dat thema verder uit. Drie tenoren, dat heette: Ilja Leonard Pfeijffer, Tommy Wieringa en Dimitri Verhulst.
