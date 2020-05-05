@@ -21,22 +21,16 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'pages/**/*.md',
-        typeName: 'MDPages',
-        templates: {
-          Page: '/:id'
-        }
+        typeName: 'MDPages'
       }
     },
-    // {
-    //   use: '@gridsome/source-filesystem',
-    //   options: {
-    //     path: 'entries/**/*.md',
-    //     typeName: 'entries',
-    //     templates: {
-    //       Page: '/voorstellingen/:slug'
-    //     }
-    //   }
-    // },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'entries/**/*.md',
+        typeName: 'entries',
+      }
+    },
     {
       use: `gridsome-plugin-netlify-cms`,
       options: {
@@ -44,8 +38,19 @@ module.exports = {
       }
     }
   ],
-    templates: {
-      Video: '/voorstellingen/:slug',
-    }
+  templates: {
+    Video: [
+      {
+        path: '/voorstellingen/:slug',
+        component: './src/templates/Entry.vue'
+      }
+    ],
+    MDPages: [
+      {
+        path: '/:path',
+        component: './src/templates/Page.vue'
+      }
+    ]
+  }
 
 }

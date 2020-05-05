@@ -10,7 +10,8 @@
 
         <div class="cc-video__vue">
           <div class="container">
-            <div style="padding-left:10px;padding-right:10px;">
+            <div style="padding-left:10px;padding-right:10px;"
+>
             <ClientOnly>
             
         <cc-search />

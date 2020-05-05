@@ -36,9 +36,9 @@
       <div class="columns w-row">
         <div class="column cc-form__column w-col w-col-6">
           <div class="div-block-2">
-            <h2 class="cc-form__title"><strong>Leun rustig achterover en geniet van de voorstelling!</strong></h2>
+            <h2 class="cc-form__title"><strong>{{ $page.home.formTitle }}</strong></h2>
             <p class="cc-form__text"></p>
-            <p class="cc-feedback__text">We horen graag jouw feedback! Laat gerust een berichtje achter. <br>‍<br>Deze informatie wordt gebruikt om na te gaan of je interesse hebt in een online platform om voorstellingen te bekijken. Via e-mail stellen we je eventueel later nog vragen voor verder onderzoek naar een goed digitaal cultuurplatform.<br><br></p>
+            <p class="cc-feedback__text" style="white-space: pre-line;" v-html="$page.home.formText"></p>
           </div>
         </div>
         <div class="column-2 cc-form__column w-col w-col-6">
@@ -72,7 +72,9 @@
       content,
       intro,
       heroImage,
-      heroCredit
+      heroCredit,
+      formTitle,
+      formText
     }
   }	
 </page-query>

@@ -18,17 +18,18 @@
       <nav
         role="navigation"
         class="nav-menu w-nav-menu"
-      ><a
-          href="index.html"
+      ><g-link
+          to="/"
           aria-current="page"
           class="nav-link w--current"
-        >Home</a><a
-          href="/#videos"
+        >Home</g-link>
+        <g-link
+          to="/#videos"
           class="nav-link"
-        >Video&#x27;s</a><a
-          href="http://www.podiumaanhuis.be/pages/over-dit-initiatief"
+        >Video&#x27;s</g-link><g-link
+          to="/pages-over-dit-initiatief"
           class="nav-link"
-        >Over</a></nav>
+        >Over</g-link></nav>
       <div class="menu-button w-nav-button">
         <div
           data-w-id="d960c8fd-b11b-8b8d-9c2d-522ba91f47ab"
@@ -56,7 +57,8 @@
       <div class="w-row">
         <div class="w-col w-col-6">
           <div class="w-richtext">
-            <p><a href="/pages/gebruiksvoorwaarden">Gebruiksvoorwaarden / Privacyverklaring</a></p>
+            <p>
+              <g-link to="/pages-gebruiksvoorwaarden">Gebruiksvoorwaarden / Privacyverklaring</g-link></p>
           </div>
         </div>
         <div class="w-col w-col-6">
@@ -76,6 +78,15 @@
 query {
   metadata {
     siteName
+  }
+  pages:allMdPages {
+    edges {
+      node {
+        id
+        title
+        path
+      }
+    }
   }
 }
 </static-query>

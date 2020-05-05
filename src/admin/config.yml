@@ -21,7 +21,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Excerpt", name: "excerpt", widget: "string"}
+      - {label: "Excerpt", name: "excerpt", widget: "string", required: false}
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "entries"
@@ -56,3 +56,5 @@ collections:
           - {label: Intro, name: intro, widget: markdown}
           - {label: Hoofdafbeelding, name: heroImage, widget: image}
           - {label: Hoofdafbeelding - Credit, name: heroCredit, widget: markdown}
+          - {label: Formulier - Titel, name: formTitle, widget: string}
+          - {label: Formulier - Tekst, name: formText, widget: markdown}
