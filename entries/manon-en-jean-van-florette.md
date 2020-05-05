@@ -3,8 +3,8 @@ title: 'Manon en Jean van Florette'
 descr: 'Comp.Marius'
 videoLength: '175 min'
 
-text: >-
-  '  
+text: '>-
+    
 Comp.Marius speelt de twee delen achter elkaar: de Provençaalse versie van 'Misdaad en Straf' in openlucht, met tijdens de pauze konijn met pruimen. Marcel Pagnol (1895-1974) beschrijft de Provence in Frankrijk in de jaren '60, moeiteloos te verplaatsen naar het heden.  
 De voorstelling wordt gespeeld in het Nederlands en het Frans. In openlucht, in een (laatste) stukje ongerept natuur.
 

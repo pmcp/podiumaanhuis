@@ -3,8 +3,8 @@ title: 'Berg'
 descr: 'Raumteid'
 videoLength: '87 min'
 
-text: >-
-  'Raumteid versmelt in Berg muziek van Richard Wagner met motieven uit 'De Toverberg' van Thomas Mann. Op scène zien we vier mensen die samen een berglandschap opbouwen. Als ze daarna elk apart een moment van verstilling opzoeken, lijkt de berg op steeds weer andere manieren terug te spreken.
+text: '>-
+  Raumteid versmelt in Berg muziek van Richard Wagner met motieven uit 'De Toverberg' van Thomas Mann. Op scène zien we vier mensen die samen een berglandschap opbouwen. Als ze daarna elk apart een moment van verstilling opzoeken, lijkt de berg op steeds weer andere manieren terug te spreken.
 
 Dramaturge Anna Luyten: ‘Ik vind ‘Berg’ een heel sensitieve voorstelling, die vraagt om al je zintuigen open te zetten. Je duikt niet onder in een bad van sensaties , maar je komt op een langzamere manier terecht in een meer vervullende zintuiglijkheid. Het is een onderzoek naar hoe je met zowel eigentijdse als nostalgische middelen thema’s als wandelen, nostalgie en verdwalen in elkaars gedachten op scène kan zetten.’
 

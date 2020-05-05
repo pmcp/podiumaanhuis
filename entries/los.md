@@ -3,8 +3,8 @@ title: 'Los'
 descr: 'Ultima Thule'
 videoLength: '65 min'
 
-text: >-
-  'Max is een jongen van acht zonder superkracht.  
+text: '>-
+  Max is een jongen van acht zonder superkracht.  
 Zijn ouders zijn net uit-één.  
 Weg van de plaats waar alles één is.  
 Nu woont hij twee keer in de stad.  

@@ -3,8 +3,8 @@ title: 'Sneeuwwitje en de 77 vergiften'
 descr: 'Hanneke Paauwe & Villanella'
 videoLength: '90 min'
 
-text: >-
-  'Voor iedereen vanaf 7 jaar
+text: '>-
+  Voor iedereen vanaf 7 jaar
 
 Je vader krijgt een nieuw lief. Zijn geliefde wordt jouw vijand. En niemand leefde er nog lang en gelukkig! Vergeet de gebroeders Grimm, wis Walt, delete Disney.  
 Sneeuwwitje en haar stiefmoeder nemen zelf het woord. En hoe! De twee schoonheden dagen elkaar uit, kruipen onder elkaars huid, snoeren de ander de mond en spelen wedstrijdjes in wreedheden. Hard tegen hard. Mooi en meedogenloos. Gif en tegengif?

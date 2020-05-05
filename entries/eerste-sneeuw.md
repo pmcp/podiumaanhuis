@@ -3,8 +3,8 @@ title: 'Eerste sneeuw'
 descr: 'KOPERGIETERY en Vélo Théâtre'
 videoLength: '60 min'
 
-text: >-
-  'Een productie van KOPERGIETERY en Vélo Théâtre.  
+text: '>-
+  Een productie van KOPERGIETERY en Vélo Théâtre.  
   
 Met Eerste Sneeuw/Première Neige creëerden de makers/spelers op scène een wondere wereld die je associeert met de kindertijd. Een open ruimte met daarin een aantal eenvoudige objecten die refereren naar oerelementen als aarde, water, lucht én naar de vier seizoenen.  
 Een soort tuin van Eden is het, een plek waar alles begint en waarin alles mogelijk is.  

@@ -3,8 +3,8 @@ title: 'Karandasj'
 descr: 'KOPERGIETERY'
 videoLength: '72 min'
 
-text: >-
-  'Een voorstelling van KOPERGIETERY  
+text: '>-
+  Een voorstelling van KOPERGIETERY  
   
 Karandasj dompelt je onder in het grootse,  
 broeierige Rusland.Heerlijk muzikaal en scherp beeldend gaan de makers, 100 jaar na het uitbreken van de Russische Revolutie, op zoek naar de Russische ziel en ieders zoektocht naar een identiteit.  

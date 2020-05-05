@@ -3,8 +3,8 @@ title: 'Nachtschade: Aubergine'
 descr: 'Muziektheater Transparant'
 videoLength: '89 min'
 
-text: >-
-  'Claron McFadden gaat op zoek naar de gemeenschappelijke wortels van onze diverse culturen aan de hand van de aubergine. Ondanks de enorme migratie die deze oeroude nachtschade-achtige doormaakte, wist de aubergine zich telkens aan te passen zonder haar eigenzinnige karakter te verliezen. McFadden legt deze route in omgekeerde richting af, terug naar de roots van de aubergine langs de Mediterranee.
+text: '>-
+  Claron McFadden gaat op zoek naar de gemeenschappelijke wortels van onze diverse culturen aan de hand van de aubergine. Ondanks de enorme migratie die deze oeroude nachtschade-achtige doormaakte, wist de aubergine zich telkens aan te passen zonder haar eigenzinnige karakter te verliezen. McFadden legt deze route in omgekeerde richting af, terug naar de roots van de aubergine langs de Mediterranee.
 
 Telkens is ze te gast bij mensen thuis, leert ze een plaatselijk auberginerecept en oefent ze een traditioneel lied. Haar verworvenheden neemt ze mee terug naar huis: ze vormen de basis voor een ontroerend culinair en theatraal concert over ons verlangen naar identiteit in deze nomadische, steeds veranderende wereld.
 

@@ -3,8 +3,8 @@ title: 'Bambole'
 descr: 'FroeFroe'
 videoLength: '45 min'
 
-text: >-
-  'Het Sprookje Van Koen en zijn Nieuwe Buurvrouw  
+text: '>-
+  Het Sprookje Van Koen en zijn Nieuwe Buurvrouw  
   
 Koen woont in nummer 9. Hij heeft een burnout. Hij heeft jaren naast de botsauto's gestaan met loeiharde muziek in zijn oren en is er ziek van geworden. Soms heeft hij nog een kleine woede aanval maar gelukkig is er een medicijn. Hij heeft nu een huis, een bloementuin, een appelboom, een perenboom en een eendje. Koen gaat elke ochtend door de tuin wandelen. Hij eet een appel en geeft eendje eten. Het komt goed met Koen.  
 Op een nacht, piep, piep, piep, piep, kaboengkschrrrrrdoef!  

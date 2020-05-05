@@ -3,8 +3,8 @@ title: 'Groezel of Grijsje, het levende Radijsje'
 descr: 'hetpaleis & Abattoir Fermé'
 videoLength: '88 min'
 
-text: >-
-  'Radijsjes worden snel oud, maar in zeven dagen kan veel gebeuren. Wat wil Groezel met haar korte leven doen? Wat vindt ze leuk? Het radijsje belandt van het ene avontuur in het andere. Ze ontmoet de meest bizarre figuren, lieve mensen maar ook griezels die haar tussen een sandwich willen leggen. Loopt alles in de soep of ontdekt ze haar eigen smaak?
+text: '>-
+  Radijsjes worden snel oud, maar in zeven dagen kan veel gebeuren. Wat wil Groezel met haar korte leven doen? Wat vindt ze leuk? Het radijsje belandt van het ene avontuur in het andere. Ze ontmoet de meest bizarre figuren, lieve mensen maar ook griezels die haar tussen een sandwich willen leggen. Loopt alles in de soep of ontdekt ze haar eigen smaak?
 
 Groezel of Grijsje, het levende Radijsje volgt een van de personages uit Bangerik (2018), de eerste samenwerking tussen Abattoir Fermé en hetpaleis. Met een topcast en live muzikanten neemt Stef Lernous je mee op avonturenreis.  
 ‍

@@ -3,8 +3,8 @@ title: 'Wachten en andere heldendaden'
 descr: 'Het Kwartier & Ballet Dommage'
 videoLength: '62 min'
 
-text: >-
-  'Vier bewakers staan voor een torenhoge muur. Ze blaken van trots. Ze wachten, en houden de wacht. Ze staan, en ze staan daar goed.
+text: '>-
+  Vier bewakers staan voor een torenhoge muur. Ze blaken van trots. Ze wachten, en houden de wacht. Ze staan, en ze staan daar goed.
 
 Als er hier iemand voorbij komt,
 

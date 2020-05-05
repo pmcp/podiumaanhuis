@@ -3,8 +3,8 @@ title: 'De passant'
 descr: 'Laika'
 videoLength: '50 min'
 
-text: >-
-  'Sommige mensen voelen zich overal thuis. Anderen zijn er hun hele leven naar op zoek, zwervend van hot naar her, vol verlangen naar een plek om te blijven en eindelijk thuis te komen. Maar wat is dat eigenlijk, thuis?  
+text: '>-
+  Sommige mensen voelen zich overal thuis. Anderen zijn er hun hele leven naar op zoek, zwervend van hot naar her, vol verlangen naar een plek om te blijven en eindelijk thuis te komen. Maar wat is dat eigenlijk, thuis?  
   
 De passant is visueel, dansant en energiek theater. Een voorstelling als een partituur, bestaande uit losse noten die zich gaandeweg op elkaar afstemmen en aan het eind muziek worden.  
   

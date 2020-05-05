@@ -3,8 +3,8 @@ title: 'Laat me stilstaan'
 descr: 'Compagnie COVAR'
 videoLength: '48 min'
 
-text: >-
-  'Wij zijn de laatste generatie.  
+text: '>-
+  Wij zijn de laatste generatie.  
 Wij zijn de laatste generatie die nog van betekenis kan zijn in deze fucked-up wereld.  
 Maar op dit ogenblik weten we het niet.  
 Terwijl we het over twee jaar wél moeten weten.  

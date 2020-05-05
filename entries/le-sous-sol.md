@@ -3,8 +3,8 @@ title: 'Le Sous Sol'
 descr: 'Peeping Tom'
 videoLength: '60 min'
 
-text: >-
-  'Le Sous Sol vormt het sluitstuk van de eerste trilogie van Peeping Tom, die in 2002 startte met Le Jardin, gevolgd door Le Salon in 2004. Le Sous Sol was opnieuw een collectieve creatie van de performers en ging op 28 maart 2007 in première in de Koninklijke Vlaamse Schouwburg (KVS) in Brussel (BE). Tussen 2007 en 2009 toerde het stuk doorheen Europa en Japan.  
+text: '>-
+  Le Sous Sol vormt het sluitstuk van de eerste trilogie van Peeping Tom, die in 2002 startte met Le Jardin, gevolgd door Le Salon in 2004. Le Sous Sol was opnieuw een collectieve creatie van de performers en ging op 28 maart 2007 in première in de Koninklijke Vlaamse Schouwburg (KVS) in Brussel (BE). Tussen 2007 en 2009 toerde het stuk doorheen Europa en Japan.  
   
 In Le Sous Sol zijn de familieleden nu dood en begraven, maar leven ze verder onder de grond. Er zijn geen regels en afspraken meer, de familiale pikorde wordt grondig op haar kop gezet. Inspiratie kwam onder meer van Dostojevski's Bobok. De overleden personages praten over hun dood, het waarom en hoe van het leven dat ze reeds achter de rug hebben. De situationele humor vormt een belangrijk contrapunt. In deze voorstelling spelen bejaarde personages een nog grotere rol dan tevoren. Bijzonder is de samenwerking met de 80-jarige butohdanseres Maria Otal.  
   

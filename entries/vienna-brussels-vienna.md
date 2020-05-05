@@ -3,8 +3,8 @@ title: 'VIENNA-BRUSSELS-VIENNA'
 descr: 'Terra Nova Collective'
 videoLength: '38 min'
 
-text: >-
-  'Vlad Weverbergh conductor and basset clarinet  
+text: '>-
+  Vlad Weverbergh conductor and basset clarinet  
 Coline Dutilleul mezzo-soprano          
   
 MOZART Concerto for clarinet in A KV622                  

@@ -3,8 +3,8 @@ title: 'België, een sprookje'
 descr: 'de Roovers / HETPALEIS'
 videoLength: '85 min'
 
-text: >-
-  'De kolonel: Meneer, hebt u enig idee waar Kareltje kan zijn?  
+text: '>-
+  De kolonel: Meneer, hebt u enig idee waar Kareltje kan zijn?  
 De melkboer: Als u hem in uw kelders nergens … onder een stuk plastic … over het hoofd hebt gezien?  
 De kolonel: Is er iemand die Kareltje goed kent?  
   

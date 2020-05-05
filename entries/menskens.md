@@ -3,8 +3,8 @@ title: 'Menskens'
 descr: '4Hoog'
 videoLength: '40 min'
 
-text: >-
-  'Een oude man in een zetel.  
+text: '>-
+  Een oude man in een zetel.  
 Zijn vrouw is weg.  
   
 “Ik moet het stof nog afdoen.  

@@ -3,8 +3,8 @@ title: 'Gesprek met de regen / Conversation with the rain'
 descr: 'Het nieuwstedelijk'
 videoLength: '107 min'
 
-text: >-
-  'English version of 'Gesprek met de regen', see below  
+text: '>-
+  English version of 'Gesprek met de regen', see below  
 
 Een man en een vrouw verliezen hun dochter. Daags nadien krijgt de vrouw een aanbieding om in Singapore aan de slag te gaan als onderzoekster in de nanotechnologie. Ze besluiten voor het leven te kiezen. Ze laten alles achter en verhuizen naar Azië. Tijdens wandelingen door de moessonregens meent de man zijn dochter op te merken. Met haar te kunnen spreken. Hij ziet haar woorden in de regendruppels. Het geeft hem kracht. Hij neemt zijn vrouw mee uit het labo de moesson in.Na bejubelde politieke stukken zoals _Hitler is Dood_, de trilogie _Hebzucht_, _Angst_, _Hoop_ en recent _Groupe Diane_ gaat Stijn Devillé voor de eerste keer een erg persoonlijk verhaal te lijf. Gebaseerd op de emoties en gedachten na een bijna-dood ervaring met zijn kind.**‍**
 

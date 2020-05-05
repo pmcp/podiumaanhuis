@@ -3,8 +3,8 @@ title: 'Expo 58'
 descr: 'Along Comes Mary'
 videoLength: '97 min'
 
-text: >-
-  '58 – Back to the future
+text: '>-
+  58 – Back to the future
 
 De Belgische regering besloot in 1958 een wereldtentoonstelling te organiseren in de Heizel. Deze tentoonstelling stond volledig in het teken van het geloof in vrijheid en vooruitgang, dat zo kenmerkend was voor de jaren vijfig en zestig. Meer dan 42 miljoen mensen bezochten de wereldtentoonstelling, die door koning Boudewijn werd geopend met een oproep tot vrede en sociale en economische vooruitgang.
 

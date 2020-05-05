@@ -3,8 +3,8 @@ title: 'Wa Wilder Man'
 descr: 'compagnie barbarie '
 videoLength: '50 min'
 
-text: >-
-  'Met ‘Wa Wilder Man’ maakt compagnie barbarie een voorstelling die zich richt op de allerkleinsten uit onze samenleving.  
+text: '>-
+  Met ‘Wa Wilder Man’ maakt compagnie barbarie een voorstelling die zich richt op de allerkleinsten uit onze samenleving.  
 In ‘Wa Wilder Man’ hebben we het over de vrees voor ‘de ander’.  
 De figuren op de scene kijken het publiek met grote en bange ogen aan.  
 Wie zijn ‘zij’ die daar in de zaal zitten?  
