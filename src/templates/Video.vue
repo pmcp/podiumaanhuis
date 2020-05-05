@@ -1,6 +1,6 @@
 <template>
   <Layout> 
-    
+<!--     
 
     <div class="section">
       <div class="cc-container">
@@ -50,29 +50,9 @@
     </div>
 
 
-    <cc-videos></cc-videos>
+    <cc-videos></cc-videos> -->
   </Layout>
 </template>
-
-<page-query>
-query ($id: ID!) {
-  entry: entries(id: $id) {
-    id
-    title,
-    descr,
-    age
-    videoUrl,
-    videoLength,
-    socialDescr,
-    socialImage,
-    info,
-    recordedAt,
-    image,
-    text,
-    company,
-  }
-}
-</page-query>
 
 
 

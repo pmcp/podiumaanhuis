@@ -29,6 +29,11 @@
           href="http://www.podiumaanhuis.be/pages/over-dit-initiatief"
           class="nav-link"
         >Over</a></nav>
+
+        <ClientOnly>
+          
+          <cc-search />
+        </ClientOnly>
       <div class="menu-button w-nav-button">
         <div
           data-w-id="d960c8fd-b11b-8b8d-9c2d-522ba91f47ab"
@@ -43,6 +48,7 @@
           data-duration="0"
           class="menu-icon"
         ></div>
+        
       </div>
     </div>
     </div>
@@ -61,4 +67,13 @@ query {
 </static-query>
 
 
+<script>
+const ccSearch = () => import(/* webpackChunkName: "search" */ "@/components/cc-search").catch(error => console.warn(error));
+export default {
+  components: {
+    ccSearch
+  }
+  
+};
+</script>
 
