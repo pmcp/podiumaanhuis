@@ -1,25 +1,63 @@
 <template>
   <Layout>
-    
+
     <!-- {{ c }} -->
     <!-- {{ $page.home }} -->
-      <div class="section">
+    <div class="section">
       <div class="container w-container">
-        <div class="rounded"><g-image :src="heroImage" width="1500"/></div>
+        <div class="rounded">
+          <g-image
+            :src="heroImage"
+            width="1500"
+          />
+        </div>
         <div class="div-block-7">
           <div class="credit__container">
-            <div class="credit__text" style="white-space: pre;" v-html="$page.home.heroCredit"></div>
+            <div
+              class="credit__text"
+              style="white-space: pre;"
+              v-html="$page.home.heroCredit"
+            ></div>
           </div>
         </div>
       </div>
       <div class="container hero-container">
         <div class="section-hero">
           <h2 class="cc-heading--left">{{ $page.home.title }}</h2>
-          <p class="paragraph" >{{ $page.home.intro }}</p>
+          <p class="paragraph">{{ $page.home.intro }}</p>
         </div>
       </div>
     </div>
-    <cc-videos></cc-videos>
+
+<cc-videos></cc-videos>
+
+
+    <div class="section">
+      <div class="columns w-row">
+        <div class="column cc-form__column w-col w-col-6">
+          <div class="div-block-2">
+            <h2 class="cc-form__title"><strong>Leun rustig achterover en geniet van de voorstelling!</strong></h2>
+            <p class="cc-form__text"></p>
+            <p class="cc-feedback__text">We horen graag jouw feedback! Laat gerust een berichtje achter. <br>‍<br>Deze informatie wordt gebruikt om na te gaan of je interesse hebt in een online platform om voorstellingen te bekijken. Via e-mail stellen we je eventueel later nog vragen voor verder onderzoek naar een goed digitaal cultuurplatform.<br><br></p>
+          </div>
+        </div>
+        <div class="column-2 cc-form__column w-col w-col-6">
+          <div class="container">
+            <div class="form w-form">
+              <cc-form></cc-form>
+            
+              <!-- <div class="empty-state-2 w-form-done">
+                <div>Bedankt voor je feedback!<br></div>
+              </div>
+              <div class="error-message-2 w-form-fail">
+                <div>Oeps, er ging iets fout bij het versturen van je bericht.</div>
+              </div> -->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     
 
   </Layout>
@@ -44,9 +82,11 @@
 
 <script>
 import ccVideos from "~/components/cc-videos.vue";
+import ccForm from "~/components/cc-form.vue";
 export default {
   components: {
-    ccVideos
+    ccVideos,
+    ccForm
   },
   metaInfo: {
     title: "Podium Aan Huis - Home"
@@ -57,9 +97,9 @@ export default {
     };
   },
   computed: {
-    heroImage () {
-      return require('~/assets' + this.$page.home.heroImage)
+    heroImage() {
+      return require("~/assets" + this.$page.home.heroImage);
     }
   }
-}
+};
 </script>
