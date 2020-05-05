@@ -3,10 +3,9 @@
     <form
       v-if="!formSend"
       class="grid-form"
-      name="contact"
+      name="feedback"
       method="post"
       v-on:submit.prevent="handleSubmit"
-      action="/success/"
       data-netlify="true"
       data-netlify-honeypot="bot-field"
     >
@@ -76,6 +75,7 @@ export default {
         .join("&");
     },
     handleSubmit(e) {
+      console.log(e)
       fetch("/", {
         method: "POST",
         headers: { "Content-Type": "application/x-www-form-urlencoded" },
