@@ -1,10 +1,10 @@
 ---
-title: "Tape voor kleuters"
-descr: Tuning People & fABULEUS
-videoLength: 54 min
+title: 'Tape voor kleuters'
+descr: 'Tuning People & fABULEUS'
+videoLength: '54 min'
 
 text: >-
-  Een productie van Tuning People & fABULEUS
+  'Een productie van Tuning People & fABULEUS
 
 Een verrassende bewegingsvoorstelling die blijft plakken voor iedereen vanaf 4 jaar.
 
@@ -48,5 +48,5 @@ Met steun van de Vlaamse Gemeenschap
 
 ‍
 
-Opname video door Clara Heremans
+Opname video door Clara Heremans'
 ---

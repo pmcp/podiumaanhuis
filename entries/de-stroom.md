@@ -1,10 +1,10 @@
 ---
-title: "De stroom"
-descr: Ultima Thule
-videoLength: 60 min
+title: 'De stroom'
+descr: 'Ultima Thule'
+videoLength: '60 min'
 
 text: >-
-  DE STROOM 10+  
+  'DE STROOM 10+  
 Of een waterkans om te worden wie ik altijd al was  
   
   
@@ -37,5 +37,5 @@ Poppen/ Evelyne Meersschaut
 Objecten en kostuums/ Griet Herssens  
 Scenografie & techniek/ Rupert Defossez
 
-Opname door Beeldstorm olv Jan Bosteels
+Opname door Beeldstorm olv Jan Bosteels'
 ---

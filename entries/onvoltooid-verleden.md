@@ -1,10 +1,10 @@
 ---
-title: "Onvoltooid verleden"
-descr: Olympiqe Dramatique / Toneelhuis
-videoLength: 126 min
+title: 'Onvoltooid verleden'
+descr: 'Olympiqe Dramatique / Toneelhuis'
+videoLength: '126 min'
 
 text: >-
-  “Ik ben de hond die als hij eenmaal mensenvlees heeft gegeten, afgemaakt moet worden.”                
+  '“Ik ben de hond die als hij eenmaal mensenvlees heeft gegeten, afgemaakt moet worden.”                
 
 In 2007 maakte Olympique Dramatique samen met Guy Cassiers een theaterbewerking van _De geruchten,_ de succesroman van Hugo Claus uit 1996. In 1998 kwam Claus met het vervolg _Onvoltooid verleden_, dat op zijn beurt in 2012 door Olympique Dramatique onder handen genomen wordt. We zijn een paar decennia verder, ver weg van het dorp Alegem en in de grootstad. Draaide in _De geruchten_ alles nog rond René Catrijsse, dan staat nu zijn broer Noël centraal. Noël Catrijsse, die na een val tijdens zijn jeugd nooit meer de oude geworden is, wordt op eigen verzoek ondervraagd door ex-commissaris Blaute. Wat volgt, is het rauwe relaas van een gehavende en vermaledijde ziel.
 
@@ -44,5 +44,5 @@ toneelHUIS WORDT HUISTONEEL
 Een theater kan niet zonder zijn publiek. Ook niet als de zalen noodgedwongen leeg staan. Daarom zoeken de Toneelhuismakers u op vanuit hun schuiloorden. Ze spinnen vanuit hun huizen lange, onzichtbare draden tot bij u, met verhalen, gedichten, gedachten en beelden. Zo wordt Toneelhuis voor even Huistoneel. Geniet ervan!  
 [huistoneel.be](http://huistoneel.be/)
 
-‍
+‍'
 ---

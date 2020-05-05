@@ -1,10 +1,10 @@
 ---
-title: "Klein Jowanneke gaat dood"
-descr: MartHa!tentatief 
-videoLength: 118 min
+title: 'Klein Jowanneke gaat dood'
+descr: 'MartHa!tentatief '
+videoLength: '118 min'
 
 text: >-
-  op nen dag wordt ge wakker
+  'op nen dag wordt ge wakker
 
 en ineens zijt ge zo oud geworden
 
@@ -34,5 +34,5 @@ productie: Ilke Festjens, Anja Benker en Els Kortleven
 
 ‍
 
-Opname door pretpraters voor canvas gefilmd door videohouse
+Opname door pretpraters voor canvas gefilmd door videohouse'
 ---

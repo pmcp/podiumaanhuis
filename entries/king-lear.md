@@ -1,10 +1,10 @@
 ---
-title: "King Lear"
-descr: Het Zuidelijk Toneel & hetpaleis
-videoLength: 128 min
+title: 'King Lear'
+descr: 'Het Zuidelijk Toneel & hetpaleis'
+videoLength: '128 min'
 
 text: >-
-  King Lear stichtte samen met zijn kompanen Gloucester en Kent het Rijk, over de oude grenzen heen. Maar de geest is uit de fles. Het zijn verwarrende tijden. Het Rijk kreunt onder het beleid van een oude mannen-generatie die hardnekkig de eenheid wil bewaren. Een jonge generatie stelt de idealen van het Rijk in vraag: het is buigen of barsten.Wanneer zelfs zijn drie dochters zich tegen de idealen van het Rijk keren, kan de zieke Lear dit ultieme verraad alleen maar persoonlijk nemen. Hij barst. En met hem het Rijk.
+  'King Lear stichtte samen met zijn kompanen Gloucester en Kent het Rijk, over de oude grenzen heen. Maar de geest is uit de fles. Het zijn verwarrende tijden. Het Rijk kreunt onder het beleid van een oude mannen-generatie die hardnekkig de eenheid wil bewaren. Een jonge generatie stelt de idealen van het Rijk in vraag: het is buigen of barsten.Wanneer zelfs zijn drie dochters zich tegen de idealen van het Rijk keren, kan de zieke Lear dit ultieme verraad alleen maar persoonlijk nemen. Hij barst. En met hem het Rijk.
 
 Na zijn succesvolle bewerking van Romeo en Julia onderzoekt Simon De Vos de huidige malaise van de Europese Unie aan de hand van King Lear. Hij maakt er een hedendaags, politiek steekspel van over ijdele machthebbers, grote idealen, persoonlijk belang, trouw en verraad.
 
@@ -36,5 +36,5 @@ productie en technische realisatie: Het Zuidelijk Toneel - Tilburg
 
 Opname video door [Beeldstorm](http://www.beeldstorm.be) o.l.v. Jan Bosteels  
 
-‍
+‍'
 ---

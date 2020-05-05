@@ -1,10 +1,10 @@
 ---
-title: "Laat me stilstaan"
-descr: Compagnie COVAR
-videoLength: 48 min
+title: 'Laat me stilstaan'
+descr: 'Compagnie COVAR'
+videoLength: '48 min'
 
 text: >-
-  Wij zijn de laatste generatie.  
+  'Wij zijn de laatste generatie.  
 Wij zijn de laatste generatie die nog van betekenis kan zijn in deze fucked-up wereld.  
 Maar op dit ogenblik weten we het niet.  
 Terwijl we het over twee jaar wél moeten weten.  
@@ -36,5 +36,5 @@ graffity artwork: Gart Smits (Art & Music)
 scene foto’s: Moon Saris  
 met dank aan:  alle betrokken ouders en de Vrijeschool Parkstad
 
-Opname door Beeldstorm olv Jan Bosteels
+Opname door Beeldstorm olv Jan Bosteels'
 ---

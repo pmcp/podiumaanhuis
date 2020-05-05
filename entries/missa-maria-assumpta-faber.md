@@ -1,10 +1,10 @@
 ---
-title: "Missa Maria Assumpta, Faber"
-descr: Terra Nova Collective
-videoLength: 47 min
+title: 'Missa Maria Assumpta, Faber'
+descr: 'Terra Nova Collective'
+videoLength: '47 min'
 
 text: >-
-  Joannes Adamus Faber  
+  'Joannes Adamus Faber  
 Missa Maria Assumpta
 
 De omstandigheden rond de Missa Maria Assumpta van Joannes Adamus Josephus Faber (ca.1692-1759) gecomponeerd voor de Antwerpse Onze-Lieve-Vrouwekathedraal in 1720, vormen een van de merkwaardigheden in de evolutie van het klarinetrepertoire. Het manuscript van deze mis maakt deel uit van de tentoonstelling van het museum Vleeshuis en is eigendom van de Bibliotheek Koninklijk Conservatorium Antwerpen (B-Ac ms.59708) en bevat een van de allervroegst gekende klarinetpartijen.
@@ -32,5 +32,5 @@ Benoit Laurent, hobo
 Met dank aan Wilfried Van den Brande!
 
   
-Beeld, geluidsopname en montage: Stoffel de Laat, [Studio C](http://www.studioc.be)
+Beeld, geluidsopname en montage: Stoffel de Laat, [Studio C](http://www.studioc.be)'
 ---

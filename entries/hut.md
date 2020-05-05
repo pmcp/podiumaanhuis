@@ -1,10 +1,10 @@
 ---
-title: "HUT"
-descr: 4Hoog
-videoLength: 45 min
+title: 'HUT'
+descr: '4Hoog'
+videoLength: '45 min'
 
 text: >-
-  Kleine Zus neemt je mee naar grote broer.  
+  'Kleine Zus neemt je mee naar grote broer.  
 Grote Broer kan alles.  
 Wonen in een hut.  
 Praten met konijnen.  
@@ -33,5 +33,5 @@ Spel: Ilse de Koe & Nikolas Lestaeghe
 Decor: Nikolas Lestaeghe, Sarah Geirnaert en Lucas Verbrugge  
 Foto's: Jeroen Vanneste  
 ‍  
-Opname door [Beeldstorm](http://www.beeldstorm.be) olv Jan Bosteels
+Opname door [Beeldstorm](http://www.beeldstorm.be) olv Jan Bosteels'
 ---

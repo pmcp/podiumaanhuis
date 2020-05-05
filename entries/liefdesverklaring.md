@@ -1,10 +1,10 @@
 ---
-title: "Liefdesverklaring"
-descr: fABULEUS en Nicole Beutler Projects
-videoLength: 65 min
+title: 'Liefdesverklaring'
+descr: 'fABULEUS en Nicole Beutler Projects'
+videoLength: '65 min'
 
 text: >-
-  **_Liefdesverklaring_ werd geselecteerd voor Het Vlaamse Theaterfestival 2015. Bovendien wordt de voorstelling ook getoond op het Nederlandse Theaterfestival.**
+  '**_Liefdesverklaring_ werd geselecteerd voor Het Vlaamse Theaterfestival 2015. Bovendien wordt de voorstelling ook getoond op het Nederlandse Theaterfestival.**
 
 Uit het juryrapport van [Het Theaterfestival](http://www.theaterfestival.be/2015/jury):
 
@@ -28,5 +28,5 @@ Opname video door Clara & Hugo Hermans
 
 ‍
 
-‍
+‍'
 ---

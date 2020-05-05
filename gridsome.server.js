@@ -206,12 +206,12 @@ module.exports = function (api) {
       const turndowndedText = turndownService.turndown(item['video-notes'])
       
       const content = `---
-title: "${item.name}"
-descr: ${item.excerpt}
-videoLength: ${item['video-length']}
+title: '${item.name}'
+descr: '${item.excerpt}'
+videoLength: '${item['video-length']}'
 
 text: >-
-  ${turndowndedText}
+  '${turndowndedText}'
 ---
 `;
     const filename = path.join(

@@ -1,10 +1,10 @@
 ---
-title: "Revelations"
-descr: HERMESensemble
-videoLength: 66 min
+title: 'Revelations'
+descr: 'HERMESensemble'
+videoLength: '66 min'
 
 text: >-
-  Revelations is een multimediaproject dat de indrukwekkende visioenen van de 13e-eeuwse dichteres en mystica Hadewijch van Antwerpen (s.d.-1248) als uitgangspunt neemt. Haar getuigenissen behoren tot de verbazingwekkendste teksten uit onze literatuurgeschiedenis. In de traditie van de middeleeuwse christelijke mystiek beschrijft Hadewijch in haar Visioenen een extatische liefdesrelatie met de goddelijke Ander; passie is hierbij het sleutelwoord.  
+  'Revelations is een multimediaproject dat de indrukwekkende visioenen van de 13e-eeuwse dichteres en mystica Hadewijch van Antwerpen (s.d.-1248) als uitgangspunt neemt. Haar getuigenissen behoren tot de verbazingwekkendste teksten uit onze literatuurgeschiedenis. In de traditie van de middeleeuwse christelijke mystiek beschrijft Hadewijch in haar Visioenen een extatische liefdesrelatie met de goddelijke Ander; passie is hierbij het sleutelwoord.  
   
 In een setting waarin een individu tegenover een koor geplaatst wordt, zoekt Revelations naar de kracht van visionaire ervaringen en extase in onze hedendaagse context.  
   
@@ -29,5 +29,5 @@ Jorrit Tamminga (electronics)
   
 Een productie van Muziektheater Transparant in coproductie met deSingel, Operadagen Rotterdam, HERMESensemble en Cappella Amsterdam
 
-Opname door Muziektheater Transparant
+Opname door Muziektheater Transparant'
 ---

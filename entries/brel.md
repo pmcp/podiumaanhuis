@@ -1,10 +1,10 @@
 ---
-title: "BREL"
-descr: David Linx & Brussels Jazz Orchestra
-videoLength: 93 min
+title: 'BREL'
+descr: 'David Linx & Brussels Jazz Orchestra'
+videoLength: '93 min'
 
 text: >-
-  Brel en Brussels Jazz Orchestra, het is een combinatie die tot de verbeelding spreekt. Voeg daar de internationaal gerenommeerde vocalist David Linx aan toe en je hebt een muzikaal project met vijfsterrenkwaliteit.
+  'Brel en Brussels Jazz Orchestra, het is een combinatie die tot de verbeelding spreekt. Voeg daar de internationaal gerenommeerde vocalist David Linx aan toe en je hebt een muzikaal project met vijfsterrenkwaliteit.
 
 Brusselser wordt het ook niet: Brussels based BJO en born in Brussels David Linx brengen de muziek van Brusselaar Jacques Brel. BJO musici Frank Vaganée, Dieter Limbourg, Lode Mertens, Gyuri Spies, Nathalie Loriers en Pierre Drevet arrangeerden chansons van Jacques Brel voor groot jazzorkest en David Linx. La chanson des vieux amants, Bruxelles, Le plat pays, La valse à mille temps en andere klassiekers van Brel alsof het pure jazz standards zijn: du jamais vu!
 
@@ -29,5 +29,5 @@ Frank Vaganée: La ville s’endormait, Bruxelles
 Nathalie Loriers: Ne me quitte pas
 
 Opname video door [Beeldstorm](http://www.beeldstorm.be) o.l.v. Jan Bosteels, in Flagey (Brussel) tijdens Brussels Jazz Festival (2016)  
-‍
+‍'
 ---

@@ -1,10 +1,10 @@
 ---
-title: "Kwak"
-descr: FroeFroe
-videoLength: 57 min
+title: 'Kwak'
+descr: 'FroeFroe'
+videoLength: '57 min'
 
 text: >-
-  In een eigen theater installatie wordt de kleine wereld van de kikkerprins een fijn bubbelend bellen en waterparadijs.
+  'In een eigen theater installatie wordt de kleine wereld van de kikkerprins een fijn bubbelend bellen en waterparadijs.
 
 Een voorstelling in en rond nat en groen, vol vormelijk absurde en surrealistische elementen.  De inzet is alom bekend. Vooringenomenheid is de boodschap. Een spetterende groenige versie van DE KIKKERKONING.
 
@@ -26,5 +26,5 @@ Wil je nog meer FroeFroe? Bekijk alle [voorstellingen van FroeFroe](https://vime
 
 _Opname video door_ [_Beeldstorm_](http://www.beeldstorm.be) _o.l.v. Jan Bosteels_  
 
-‍
+‍'
 ---

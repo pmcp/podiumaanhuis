@@ -1,10 +1,10 @@
 ---
-title: "VIENNA-BRUSSELS-VIENNA"
-descr: Terra Nova Collective
-videoLength: 38 min
+title: 'VIENNA-BRUSSELS-VIENNA'
+descr: 'Terra Nova Collective'
+videoLength: '38 min'
 
 text: >-
-  Vlad Weverbergh conductor and basset clarinet  
+  'Vlad Weverbergh conductor and basset clarinet  
 Coline Dutilleul mezzo-soprano          
   
 MOZART Concerto for clarinet in A KV622                  
@@ -30,5 +30,5 @@ Coline Dutilleul, mezzo-soprano
 
 Beeld en geluidsopname: Stoffel de Laat, [Studio C](http://www.studioc.be)  
 Beeldmontage: Cédric Murrath  
-Artistieke supervisie: Dirk Decaluwe r.i.p.
+Artistieke supervisie: Dirk Decaluwe r.i.p.'
 ---

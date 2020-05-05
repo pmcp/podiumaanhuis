@@ -1,10 +1,10 @@
 ---
-title: "Het wijde land"
-descr: Tg STAN
-videoLength: 119 min
+title: 'Het wijde land'
+descr: 'Tg STAN'
+videoLength: '119 min'
 
 text: >-
-  Obstakels bij het hebben van een relatie met een getrouwde vrouw:Het is toegestaan de vrouw van een ander te verleiden wanneer men het gevaar loopt te sterven van liefde voor haar.
+  'Obstakels bij het hebben van een relatie met een getrouwde vrouw:Het is toegestaan de vrouw van een ander te verleiden wanneer men het gevaar loopt te sterven van liefde voor haar.
 
 De intensiteit van deze liefde kent tien gradaties, gekenmerkt door volgende tekens:1/ liefde door de ogen -  2/ geestesverwantschap - 3/ obsessie - 4/ slapeloosheid - 5/ vermageren - 6/ afkeer van plezier - 7/ verlies van fatsoen - 8/ waanzin - 9/ vervaging en verzwakking - 10/ uiteindelijk, de dood.(uit de Kamasutra)
 
@@ -46,5 +46,5 @@ première 24 oktober 2013, Toneelhuis Antwerpen
 
 ‍
 
-Opname video door [Beeldstorm](http://www.beeldstorm.be) o.l.v. Jan Bosteels
+Opname video door [Beeldstorm](http://www.beeldstorm.be) o.l.v. Jan Bosteels'
 ---

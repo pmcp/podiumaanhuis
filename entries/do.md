@@ -1,10 +1,10 @@
 ---
-title: "DO"
-descr: Speelman
-videoLength: 50 min
+title: 'DO'
+descr: 'Speelman'
+videoLength: '50 min'
 
 text: >-
-  Rien is jarig.En dus geeft ze een feestje. Iedereen is er. Alle vriendjes en vriendinnetjes.
+  'Rien is jarig.En dus geeft ze een feestje. Iedereen is er. Alle vriendjes en vriendinnetjes.
 
 Dan gaat plots de bel. Er staat een kado voor de deur! Op twee lange benen!
 
@@ -40,5 +40,5 @@ Tourneeplanning en promotie: Katleen Machiels
 
 ‍
 
-Opname door Bert Warson - Fabelfilm
+Opname door Bert Warson - Fabelfilm'
 ---
