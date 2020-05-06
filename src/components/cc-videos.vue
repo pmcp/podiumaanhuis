@@ -49,7 +49,7 @@
                   :class="{'cc-button--inActive': setGenreInactive(genre.active, genre.total)  }"
                   style="margin-right:10px;margin-bottom:10px;font-weight:400"
                 >
-                  {{ genre.name }} ({{ genre.total }}) - {{ setGenreInactive(genre.active, genre.total) }}
+                  {{ genre.name }} ({{ genre.total }})
                 </button>
               </div>
               <button
