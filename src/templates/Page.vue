@@ -23,3 +23,14 @@ query ($id: ID!) {
   }
 }
 </page-query>
+
+
+<script>
+export default {
+  metaInfo() {
+    return {
+      title: this.$page.page.title
+    };
+  },
+};
+</script>

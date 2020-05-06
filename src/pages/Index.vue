@@ -90,8 +90,33 @@ export default {
     ccVideos,
     ccForm
   },
-  metaInfo: {
-    title: "Podium Aan Huis - Home"
+  metaInfo() {
+    return {
+      title: 'Podium Aan Huis',
+      meta: [
+        { name: "description", content: this.$page.home.intro },
+        { name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:description", content: this.$page.home.intro},
+        { name: "twitter:title", content: 'Podium Aan Huis' },
+        // TODO: make a computed of this: if no social image, get thumbnail?
+        { name: "twitter:image", content: this.heroImage },
+        { property: "og:type", content: "article" },
+        { property: "og:title", content: 'Podium Aan Huis' },
+        { property: "og:description", content: this.$page.home.intro },
+        {
+          property: "og:url",
+          content: `${this.getBaseUrl}`
+        },
+        // {
+        //   property: "article:published_time",
+        //   content: moment(this.$page.post.date).format("MM-DD-YYYY")
+        // },
+        // { property: "og:updated_time", content: this.$page.post.date },
+        { property: "og:image", content: this.heroImage },
+        { property: "og:image:secure_url", content: this.heroImage }
+      ]
+      // script: [{ src: "https://platform.twitter.com/widgets.js" }]
+    };
   },
   computed: {
     heroImage() {
@@ -100,3 +125,4 @@ export default {
   }
 };
 </script>
+
