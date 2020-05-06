@@ -49,7 +49,11 @@
     </div>
     </div>
     <div class="cc-pagewrapper">
-      <slot/>
+      <transition name="fade" appear>
+        <main> 
+          <slot/>
+        </main>
+      </transition>
     </div>
 
       <div class="section-3">
@@ -91,3 +95,13 @@ query {
 }
 </static-query>
 
+<style>
+.fade-enter-active {
+  transition: opacity .5s;
+}
+
+.fade-enter {
+  opacity: 0;
+}
+
+</style>
