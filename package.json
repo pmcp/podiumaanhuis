@@ -13,10 +13,11 @@
     "fs": "0.0.1-security",
     "fuse.js": "^5.2.3",
     "gridsome": "^0.7.0",
+    "gridsome-plugin-gtag": "git+https://github.com/marcvangend/gridsome-plugin-gtag.git",
     "gridsome-plugin-netlify-cms": "^1.0.9",
     "netlify-cms": "^2.10.47",
     "path": "^0.12.7",
     "turndown": "^6.0.0",
-    "vue-gtag": "^1.6.2"
+    "vue-gtm": "^2.2.0"
   }
 }

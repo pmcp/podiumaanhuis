@@ -98,6 +98,9 @@ export default {
   // },
   mounted() {
     // console.log(this.$page.videos.edges);
+    console.log('test')
+    // this.$gtm.trackView('MyScreenName', 'currentpath');
+     
   }
 };
 </script>
