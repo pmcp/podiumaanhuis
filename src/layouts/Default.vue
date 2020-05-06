@@ -80,9 +80,6 @@
 
 <static-query>
 query {
-  metadata {
-    siteName
-  }
   pages:allMdPages {
     edges {
       node {

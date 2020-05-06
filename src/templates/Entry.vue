@@ -13,7 +13,7 @@
     </div>
     
     <div class="section cc-page__content">
-      <!-- {{ $page.entry }} -->
+      {{ $page.entry.title }}
       
       <div class="cc-container">
         <div class="grid-sidebar">
@@ -88,20 +88,34 @@ export default {
   components: {
     ccVideos
   },
-  // metaInfo: {
-  //   title: "Hello, world!"
-  // },
-  // data() {
-  //   return {
-  //     otherPage: null
-  //   };
-  // },
-  mounted() {
-    // console.log(this.$page.videos.edges);
-    console.log('test')
-    // this.$gtm.trackView('MyScreenName', 'currentpath');
-     
-  }
+  metaInfo() {
+    return {
+      title: this.$page.entry.title,
+      meta: [
+        { name: "description", content: this.$page.entry.social.descr },
+        { name: "twitter:card", content: "summary_large_image" },
+        { name: "twitter:description", content: this.$page.entry.social.desrc },
+        { name: "twitter:title", content: this.$page.entry.title },
+        // TODO: make a computed of this: if no social image, get thumbnail?
+        { name: "twitter:image", content: this.$page.entry.social.image },
+        { property: "og:type", content: "article" },
+        { property: "og:title", content: this.$page.entry.title },
+        { property: "og:description", content: this.$page.entry.social.descr },
+        {
+          property: "og:url",
+          content: `${this.getBaseUrl}${this.$page.entry.path}`
+        },
+        // {
+        //   property: "article:published_time",
+        //   content: moment(this.$page.post.date).format("MM-DD-YYYY")
+        // },
+        // { property: "og:updated_time", content: this.$page.post.date },
+        { property: "og:image", content: this.$page.entry.social.image },
+        { property: "og:image:secure_url", content: this.$page.entry.social.image }
+      ]
+      // script: [{ src: "https://platform.twitter.com/widgets.js" }]
+    };
+  },
 };
 </script>
 
