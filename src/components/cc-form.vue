@@ -24,7 +24,7 @@
         <textarea
           class="cc-form__input w-input"
           name="formInitiative"
-          v-model="formData.initiative"
+          v-model="formData.formInitiative"
         ></textarea>
       </div>
       <div class="form-group">
@@ -32,7 +32,7 @@
         <textarea
           class="cc-form__input w-input"
           name="formContent"
-          v-model="formData.content"
+          v-model="formData.formContent"
         ></textarea>
       </div>
       <div class="form-group">
