@@ -86,13 +86,13 @@
 import ccVideos from "~/components/cc-videos.vue";
 import ccForm from "~/components/cc-form.vue";
 export default {
-  // components: {
-  //   ccVideos,
-  //   ccForm
-  // },
-  // metaInfo: {
-  //   title: "Podium Aan Huis - Home"
-  // },
+  components: {
+    ccVideos,
+    ccForm
+  },
+  metaInfo: {
+    title: "Podium Aan Huis - Home"
+  },
   computed: {
     heroImage() {
       return require("~/assets" + this.$page.home.heroImage);
