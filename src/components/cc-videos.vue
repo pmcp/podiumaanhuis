@@ -59,30 +59,6 @@
                 style="margin-bottom:24px;background: none;text-decoration: underline;"
               >Filters wissen</button>
             </div>
-
-            <!-- 
-
-                    <div class="cc-vue-video__filtercontainer">
-                      <div class="cc-classforfilter">Volwassenen</div>
-                      <div class="cc-classforgenre">Muziektheater</div>
-                    </div><a href="/video/berg" class="video-card w-inline-block">
-                      <div style="background-image:url(&quot;https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7de5f8d3db3a22c3f71797_JonasDeVisscher.25_online.jpg&quot;)" class="video-card-image-wrapper">
-                        <div class="video-card-image-inner">
-                          <div class="tagline">muziektheater</div>
-                          <div class="cc-videocard__age">16+</div>
-                        </div>
-                      </div>
-                      <div class="video-card-content">
-                        <div class="cc-videocard__genre">muziektheater</div>
-                        <h3 class="heading-4">Berg</h3>
-                        <div class="cc-videocard__company">Raumteid</div>
-                        <div class="cc-videocard__company">Opname in Minardschouwburg, Gent</div>
-                        <div class="cc-videocard__spacer"></div>
-                        <div class="cc-videocard__duration">87 min</div>
-                        <div class="card-play-button-small"><img src="https://uploads-ssl.webflow.com/5e74d1a991dea41c1dcdc1e7/5e74d1a9ef2235655fc7d652_play-icon.svg" alt="" class="icon-small" /></div>
-                      </div>
-                    </a> -->
-
             <div
               class="cc-vue"
               style="margin-top:24px;"
@@ -242,6 +218,7 @@ export default {
 
       this.untouchedAudience = true;
       this.untouchedGenres = true;
+      console.log(this.audience,this.genres)
       this.filterItems();
     },
     toggleStatus: function(type, key, originalArray, allActive) {
@@ -323,6 +300,7 @@ export default {
       }
     },
     setGenreInactive: function(status, total) {
+      console.log(status, total)
       if (this.untouchedGenres) {
         return true;
       }
@@ -337,7 +315,7 @@ export default {
         this.startItem = this.startItem - this.itemsPerPage;
       }
 
-      this.filterItems(this.items);
+      this.filterItems();
 
       setTimeout(() => {
         let elmnt = document.getElementById("videos");
@@ -348,14 +326,11 @@ export default {
       /* Items getting filtered*/
       /* 1) if the audience is active, return the item */
 
-      const items = this.items;
       let filteredItemsAudience = [];
       if (this.totalAudienceActive === 0) {
-        filteredItemsAudience = items;
+        filteredItemsAudience = this.items;
       } else {
-      
-        filteredItemsAudience = items.filter(item => {
-        
+        filteredItemsAudience = this.items.filter(item => {
           const audience = this.audience.find(
             element => element.name.toLowerCase() === item.audience.toLowerCase()
           );
@@ -369,8 +344,6 @@ export default {
       let filteredItemsGenre = [];
 
       const genresArray = this.genres;
-
-
       if (this.totalGenresActive === 0) {
         filteredItemsGenre = this.items;
       } else {
@@ -403,11 +376,13 @@ export default {
         ...this.genresDefaultObject,
         ...recountedGenres
       };
+
       const recountedGenresArray = Object.keys(combinedGenres).map(key => {
         return { ...combinedGenres[key], name: key };
       });
 
       const genresArrayCombined = recountedGenresArray.map((item, key) => {
+        if(this.genres[key] === undefined) return { ...item, active: false };
         return { ...item, active: this.genres[key].active };
       });
 
