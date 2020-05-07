@@ -13,7 +13,7 @@ socialDescr: |-
   Soldiers of love, vuur liefde af!
   Maar wat is liefde?
   En komt uw liefde aan?
-  Is alles liefde of is liefde alles?
+  Is alles liefde o f is liefde alles?
   Veerle gaat samen met de toeschouwers op zoek naar liefde.
   Een zoektocht die ons leidt van de diepste zee tot de uier van een koe, van de kraamafdeling tot het bejaardenhuis. Gewapend met haar vers moederhart, heeft deze soldier (èn mother) of love, misschien wel de oplossing voor ùw wereldvrede.
   Ze gaat de confrontatie aan met de toeschouwers en zichzelf.

@@ -82,15 +82,6 @@ query ($id: ID!) {
 
 /**
  * Get the id of the youtube vid
- * Supports:
- * http://www.youtube.com/watch?v=0zM3nApSvMg&feature=feedrec_grec_index
- * http://www.youtube.com/user/IngridMichaelsonVEVO#p/a/u/1/QdK8U-VIH_o
- * http://www.youtube.com/v/0zM3nApSvMg?fs=1&amp;hl=en_US&amp;rel=0
- * http://www.youtube.com/watch?v=0zM3nApSvMg#t=0m10s
- * http://www.youtube.com/embed/0zM3nApSvMg?rel=0
- * http://www.youtube.com/watch?v=0zM3nApSvMg
- * http://youtu.be/0zM3nApSvMg
- * 
  */
 function youtubeParser(url) {
   var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
@@ -114,8 +105,6 @@ function vimeoParser(url) {
 }
 
 
-
-
 import ccVideos from "~/components/cc-videos.vue";
 export default {
   components: {
@@ -128,10 +117,23 @@ export default {
       const getVimeoId = vimeoParser(this.$page.entry.videoUrl)
       if(getVimeoId) return `https://player.vimeo.com/video/${getVimeoId}`
     }
-    
   },
   mounted () {
     const converter = new showdown.Converter();
+    converter.addExtension(function () {
+      return [{
+          type: 'output',
+          regex: /<a\shref[^>]+>/g,
+          replace : function (text) {
+              var url = text.match(/"(.*?)"/)[1]
+              if(url.includes(window.location.hostname) || url[0] == '/' || url[0] == '.' || url[0] == '#'){
+                  return text
+              }
+              return '<a href="' + url + '" target="_blank">'
+          }
+      }]
+    }, 'externalLink')
+
     this.$page.entry.text = converter.makeHtml(this.$page.entry.text);
     this.$page.entry.descr = converter.makeHtml(this.$page.entry.descr);
   },
