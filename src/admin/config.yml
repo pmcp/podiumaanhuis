@@ -47,7 +47,7 @@ collections:
       - {label: "Video Link", name: "videoUrl", widget: "string", required: false}
       - {label: "Video Lengte", name: "videoLength", widget: "string", required: false}
       - {label: "Social tekstje", name: "socialDescr", widget: "string", required: false}
-      - {label: "Social Afbeelding", name: "socialImage", widget: "image", required: false} 
+      - {label: "Social Afbeelding", name: "socialImage", widget: "image", required: false}
   - name: "homepages"
     label: "Homepage"
     editor:
