@@ -20,11 +20,8 @@
     "netlify-cms": "^2.10.47",
     "path": "^0.12.7",
     "remark-frontmatter": "^2.0.0",
-    "showdown": "^1.9.1",
     "turndown": "^6.0.0",
     "vue-gtm": "^2.2.0"
   },
-  "devDependencies": {
-    "vue-directive-markdown": "^1.2.1"
-  }
+  "devDependencies": {}
 }

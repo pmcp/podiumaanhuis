@@ -5,12 +5,12 @@ backend:
 
 # when using the default proxy server port
 # To run local backend git: npx netlify-cms-proxy-server
-local_backend: true
+local_backend: false
 
 media_folder: "src/assets/uploads"
 public_folder: "/uploads"
 
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 
 collections:
