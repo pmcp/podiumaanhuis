@@ -1,15 +1,6 @@
 ---
 title: |-
   De tuin van de walvis
-id: 5e7a69751a33367321fe13cf
-company: |-
-  Beeldsmederij DE MAAN
-age: 5+
-videoUrl: https://vimeo.com/314490896
-videoLength: 47 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a676c48cd339f38046bfe_Deman_De%20tuin%20van%20de%20walvis_DiegoFranssens.jpg
-socialDescr: |-
-  undefined
 descr: |-
   * Multidisciplinair
   * leeftijd: 5+
@@ -18,9 +9,13 @@ descr: |-
   * [Beeldsmederij DE MAAN](http://www.demaan.be)
 
   ‍
+videoUrl: https://vimeo.com/314490896
+videoLength: 47 min
+socialDescr: |-
+  undefined
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a676c48cd339f38046bfe_Deman_De%20tuin%20van%20de%20walvis_DiegoFranssens.jpg
 recordedAt: |-
   Opname in beeldsmederij DE MAAN, Mechelen
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a676c48cd339f38046bfe_Deman_De%20tuin%20van%20de%20walvis_DiegoFranssens.jpg
 text: |-
   Gebaseerd op de prachtvertelling van meesterpointillist Toon Tellegen, bekroond met de Zilveren Griffel 2016. Over een walvis die een tuin op zijn rug wil. Tot het zover is.
 
@@ -59,4 +54,11 @@ text: |-
   
 
   ‍
+genre: multidisciplinair
+audience: familie
+id: 5e7a69751a33367321fe13cf
+age: 5+
+company: |-
+  Beeldsmederij DE MAAN
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a676c48cd339f38046bfe_Deman_De%20tuin%20van%20de%20walvis_DiegoFranssens.jpg
 ---

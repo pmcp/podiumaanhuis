@@ -1,22 +1,17 @@
 ---
 title: |-
   Sadko (Rimski-Korsakov)
-id: 5e7db0911a702a3bbe6e8bc4
-company: |-
-  Opera Ballet Vlaanderen
-age: undefined
-videoUrl: https://youtu.be/FvLAQSZdHoQ
-videoLength: 150 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7daf9a920e35233d2501c9_SADKO_productiebeeld_01_34A9748_(c)AnnemieAugustijns_web.jpg
-socialDescr: |-
-  Deze magische opera van Rimski-Korsakov vertelt het verhaal van de kunstenaar Sadko die met zijn kunst de anderen ervan wil overtuigen het isolement te doorbreken en nieuwe werelden te ontsluiten. Zijn droom wordt echter vijandig onthaald. Alleen Volkhova, de dochter van de zeekoning, betoverd door Sadko’s muziek, helpt hem zijn visionaire ideeën te realiseren.
 descr: |-
   * opera
   * duur: 150 min
   * [Opera Ballet Vlaanderen](http://operaballet.be)‍
+videoUrl: https://youtu.be/FvLAQSZdHoQ
+videoLength: 150 min
+socialDescr: |-
+  Deze magische opera van Rimski-Korsakov vertelt het verhaal van de kunstenaar Sadko die met zijn kunst de anderen ervan wil overtuigen het isolement te doorbreken en nieuwe werelden te ontsluiten. Zijn droom wordt echter vijandig onthaald. Alleen Volkhova, de dochter van de zeekoning, betoverd door Sadko’s muziek, helpt hem zijn visionaire ideeën te realiseren.
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7daf9a920e35233d2501c9_SADKO_productiebeeld_01_34A9748_(c)AnnemieAugustijns_web.jpg
 recordedAt: |-
   Opname in Opera Gent
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7daf9a920e35233d2501c9_SADKO_productiebeeld_01_34A9748_(c)AnnemieAugustijns_web.jpg
 text: |-
   Deze magische opera van Rimski-Korsakov vertelt het verhaal van de kunstenaar Sadko die met zijn kunst de anderen ervan wil overtuigen het isolement te doorbreken en nieuwe werelden te ontsluiten. Zijn droom wordt echter vijandig onthaald. Alleen Volkhova, de dochter van de zeekoning, betoverd door Sadko’s muziek, helpt hem zijn visionaire ideeën te realiseren.
   
@@ -55,4 +50,11 @@ text: |-
   Koor: Koor Opera Ballet Vlaanderen
 
   Opname door [Beeldstorm](http://www.beeldstorm.be) olv Jan Bosteels
+genre: opera
+audience: volwassenen
+id: 5e7db0911a702a3bbe6e8bc4
+age: undefined
+company: |-
+  Opera Ballet Vlaanderen
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7daf9a920e35233d2501c9_SADKO_productiebeeld_01_34A9748_(c)AnnemieAugustijns_web.jpg
 ---

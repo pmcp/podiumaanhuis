@@ -1,15 +1,6 @@
 ---
 title: |-
   Bambole
-id: 5e7a166139acd86fb3deac3e
-company: |-
-  FroeFroe
-age: 4+
-videoUrl: https://vimeo.com/183460835
-videoLength: 45 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a1ef29798a80fbb40e1c3_FroeFroe_Bambole.jpg
-socialDescr: |-
-  Het Sprookje Van Koen en zijn Nieuwe BuurvrouwKoen woont in nummer 9. Hij heeft een burnout. Hij heeft jaren naast de botsauto's gestaan met loeiharde muziek in zijn oren en is er ziek van geworden. Soms heeft hij nog een kleine woede aanval maar gelukkig is er een medicijn. Hij heeft nu een huis, een bloementuin, een appelboom, een perenboom en een eendje. Koen gaat elke ochtend door de tuin wandelen. Hij eet een appel en geeft eendje eten. Het komt goed met Koen.
 descr: |-
   * Figurentheater
   * leeftijd: 4+
@@ -18,9 +9,13 @@ descr: |-
   * [FroeFroe](http://www.froefroe.be)
 
   ‍
+videoUrl: https://vimeo.com/183460835
+videoLength: 45 min
+socialDescr: |-
+  Het Sprookje Van Koen en zijn Nieuwe BuurvrouwKoen woont in nummer 9. Hij heeft een burnout. Hij heeft jaren naast de botsauto's gestaan met loeiharde muziek in zijn oren en is er ziek van geworden. Soms heeft hij nog een kleine woede aanval maar gelukkig is er een medicijn. Hij heeft nu een huis, een bloementuin, een appelboom, een perenboom en een eendje. Koen gaat elke ochtend door de tuin wandelen. Hij eet een appel en geeft eendje eten. Het komt goed met Koen.
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a1ef29798a80fbb40e1c3_FroeFroe_Bambole.jpg
 recordedAt: |-
   undefined
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a1ef29798a80fbb40e1c3_FroeFroe_Bambole.jpg
 text: |-
   Het Sprookje Van Koen en zijn Nieuwe Buurvrouw
   
@@ -47,4 +42,11 @@ text: |-
   Opname door  Beeldstorm olv Jan Bosteels
   
   Wil je nog meer FroeFroe? Bekijk alle [voorstellingen van FroeFroe.](https://vimeopro.com/janbosteels/theater-froe-froe)
+genre: figurentheater
+audience: familie
+id: 5e7a166139acd86fb3deac3e
+age: 4+
+company: |-
+  FroeFroe
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a1ef29798a80fbb40e1c3_FroeFroe_Bambole.jpg
 ---

@@ -1,15 +1,6 @@
 ---
 title: |-
   Lampionaio
-id: 5e819d81d3e430515a1818d6
-company: |-
-  Sprookjes enzo
-age: 3+
-videoUrl: https://vimeo.com/333952957
-videoLength: 50 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e82fd3e4fe2ac0687f33a09_Sproojesenzo_Lampionaio%20(5).jpg
-socialDescr: |-
-  Lampionaio is een lichtvoetige en magische voorstelling, spannend en kleurrijk met verrassende circusnummers, bewegende objecten en poppen. 
 descr: |-
   * Familie
   * leeftijd: 3+
@@ -17,9 +8,13 @@ descr: |-
   * [Sprookjes enzo](https://www.sprookjes.be/)
 
   ‍
+videoUrl: https://vimeo.com/333952957
+videoLength: 50 min
+socialDescr: |-
+  Lampionaio is een lichtvoetige en magische voorstelling, spannend en kleurrijk met verrassende circusnummers, bewegende objecten en poppen. 
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e82fd3e4fe2ac0687f33a09_Sproojesenzo_Lampionaio%20(5).jpg
 recordedAt: |-
   undefined
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e81ab86d4a408c7d617585b_Sproojesenzo_Lampionaio%20(4).jpg
 text: |-
   Een interactieve circustheatervoorstelling met weinig woorden, maar des te meer beelden.
   
@@ -47,4 +42,11 @@ text: |-
   
   In samenwerking met Accademia Perduta Romagna Teatri en CC Asse
   Met steun van de stad Antwerpen
+genre: circus
+audience: familie
+id: 5e819d81d3e430515a1818d6
+age: 3+
+company: |-
+  Sprookjes enzo
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e81ab86d4a408c7d617585b_Sproojesenzo_Lampionaio%20(4).jpg
 ---

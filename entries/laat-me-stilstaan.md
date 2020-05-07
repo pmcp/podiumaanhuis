@@ -1,15 +1,6 @@
 ---
 title: |-
   Laat me stilstaan
-id: 5e7a4c486881ddea9a6a4ffd
-company: |-
-  Compagnie COVAR
-age: 12+
-videoUrl: https://vimeo.com/357907703
-videoLength: 48 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a4b7e579bb7172af9c9a6_COVAR-LaatMeStilstaan-fotoMoonSaris.jpg
-socialDescr: |-
-  In de voorstelling LAAT ME STILSTAAN nodigen 10 bevlogen tieners, 5 uit Tongeren/BE en 5 uit Heerlen/NL, het publiek uit stil te staan. Om samen te observeren. Te kijken naar wat is. Hoe de wereld zich aan hen openbaart. En waar ze naar toe willen. Waar ze met de wereld en de mensen erin naar toe willen.Een muziektheatervoorstelling gemaakt en gespeeld door en voor jongeren. In regie van Els Roobroeck, geflankeerd door de muzikale compositie van Kwinten Mordijck.
 descr: |-
   * Theater
   * leeftijd: 12+
@@ -18,9 +9,13 @@ descr: |-
   * [Compagnie COVAR](https://compagniecovar.nl/)
 
   ‍
+videoUrl: https://vimeo.com/357907703
+videoLength: 48 min
+socialDescr: |-
+  In de voorstelling LAAT ME STILSTAAN nodigen 10 bevlogen tieners, 5 uit Tongeren/BE en 5 uit Heerlen/NL, het publiek uit stil te staan. Om samen te observeren. Te kijken naar wat is. Hoe de wereld zich aan hen openbaart. En waar ze naar toe willen. Waar ze met de wereld en de mensen erin naar toe willen.Een muziektheatervoorstelling gemaakt en gespeeld door en voor jongeren. In regie van Els Roobroeck, geflankeerd door de muzikale compositie van Kwinten Mordijck.
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a4b7e579bb7172af9c9a6_COVAR-LaatMeStilstaan-fotoMoonSaris.jpg
 recordedAt: |-
   undefined
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a4b7e579bb7172af9c9a6_COVAR-LaatMeStilstaan-fotoMoonSaris.jpg
 text: |-
   Wij zijn de laatste generatie.
   Wij zijn de laatste generatie die nog van betekenis kan zijn in deze fucked-up wereld.
@@ -55,4 +50,11 @@ text: |-
   met dank aan:  alle betrokken ouders en de Vrijeschool Parkstad
 
   Opname door Beeldstorm olv Jan Bosteels
+genre: theater
+audience: volwassenen
+id: 5e7a4c486881ddea9a6a4ffd
+age: 12+
+company: |-
+  Compagnie COVAR
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a4b7e579bb7172af9c9a6_COVAR-LaatMeStilstaan-fotoMoonSaris.jpg
 ---

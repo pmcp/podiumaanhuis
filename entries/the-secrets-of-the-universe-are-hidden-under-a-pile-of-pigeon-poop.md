@@ -1,13 +1,15 @@
 ---
 title: |-
   The secrets of the universe are hidden under a pile of pigeon poop
-id: 5e84a04643fd28616359b1e0
-company: |-
-  Larf!
-age: undefined
+descr: |-
+  * theater
+  * duur: 73 min
+  * taal: Nederlands
+  * [Larf!](http://www.larf.be)
+
+  ‍
 videoUrl: https://www.youtube.com/watch?v=A461Z3PSuYw&feature=youtu.be&t=1
 videoLength: 73 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg
 socialDescr: |-
   we kijken in de spiegel, naar onze contouren
   om te zien waar de één eindigt en de andere begint
@@ -26,16 +28,9 @@ socialDescr: |-
   ja
   waar moeten we nu dan naartoe?
   verder
-descr: |-
-  * theater
-  * duur: 73 min
-  * taal: Nederlands
-  * [Larf!](http://www.larf.be)
-
-  ‍
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg
 recordedAt: |-
   Opname in De Kazematten, Gent
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg
 text: |-
   we kijken in de spiegel, naar onze contouren
 
@@ -82,4 +77,11 @@ text: |-
   Affichebeeld: Jan-Sebastiaan Degeyter
 
   Opname door Achiel Van den Abeele
+genre: theater
+audience: volwassenen
+id: 5e84a04643fd28616359b1e0
+age: undefined
+company: |-
+  Larf!
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg
 ---

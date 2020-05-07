@@ -1,15 +1,6 @@
 ---
 title: |-
   Kriep
-id: 5e7dbe34f2abde1f8f232964
-company: |-
-  4Hoog
-age: 8+
-videoUrl: https://vimeo.com/111308992
-videoLength: 47 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7dbec46e9ec066716e01d9_2990_kriep_c_els_deventer_klein_4.jpg
-socialDescr: |-
-  4Hoog maakt een naakte thriller waarin twee actrices en een acteur 20 rollen op zich nemen. Waar was wie, wanneer en waarom? Vreemde geluiden, akelige plaatsen, nare figuren.Kriep, gevaarlijk grappig op het puntje van je stoel
 descr: |-
   * Familie
   * leeftijd: 8+
@@ -17,9 +8,13 @@ descr: |-
   * taal: Nederlands
   * [4Hoog](https://www.4hoog.be/)
   * [lesmap](https://planning.4hoog.be/files/lesmap-defff.pdf) (pdf)
+videoUrl: https://vimeo.com/111308992
+videoLength: 47 min
+socialDescr: |-
+  4Hoog maakt een naakte thriller waarin twee actrices en een acteur 20 rollen op zich nemen. Waar was wie, wanneer en waarom? Vreemde geluiden, akelige plaatsen, nare figuren.Kriep, gevaarlijk grappig op het puntje van je stoel
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7dbec46e9ec066716e01d9_2990_kriep_c_els_deventer_klein_4.jpg
 recordedAt: |-
   undefined
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7dbec46e9ec066716e01d9_2990_kriep_c_els_deventer_klein_4.jpg
 text: |-
   _Wat als een thriller ontleed wordt?_
   _Volledig binnenstebuiten gedraaid?
@@ -59,4 +54,11 @@ text: |-
   
 
   ‍
+genre: theater
+audience: familie
+id: 5e7dbe34f2abde1f8f232964
+age: 8+
+company: |-
+  4Hoog
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7dbec46e9ec066716e01d9_2990_kriep_c_els_deventer_klein_4.jpg
 ---

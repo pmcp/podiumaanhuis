@@ -1,15 +1,6 @@
 ---
 title: |-
   Raphaël
-id: 5e85cf8c06229b0eea0b1d52
-company: |-
-  Alexander Vantournhout / not standing
-age: 14+
-videoUrl: https://vimeo.com/307219257
-videoLength: 42 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e85ceba17664b211792a488_Raphael%20-%20Bart%20Grietens-web.jpg
-socialDescr: |-
-  ‘Raphaël’ toont twee mannelijke performers. De ene is actief en handelt (hij), de ander is schijnbaar levenloos en inert (hem). Hij tracht hem te manipuleren tot ideale dans- of sparringpartner, maar wordt in die poging tegelijk zelf tot ding gemaakt. Samen dansen ze een geforceerd duet. Beide lichamen meten de grenzen op tussen intimiteit en perversie, tussen subject en object. Vervolgens doen ze die grenzen vervagen in wederzijdse medeplichtigheid."Je ziet het niet zo vaak: spectaculair anti-spektakel, met zoveel diepere lagen onder een lichamelijke confrontatie die extreem tastbaar en erg toegankelijk is. Het duidt op grote kunst van een artiest met een grote toekomst." (****, De Standaard)
 descr: |-
   * dans
   * leeftijd: 14+
@@ -17,9 +8,13 @@ descr: |-
   * [Alexander Vantournhout / not standing](https://notstanding.com/)
 
   ‍
+videoUrl: https://vimeo.com/307219257
+videoLength: 42 min
+socialDescr: |-
+  ‘Raphaël’ toont twee mannelijke performers. De ene is actief en handelt (hij), de ander is schijnbaar levenloos en inert (hem). Hij tracht hem te manipuleren tot ideale dans- of sparringpartner, maar wordt in die poging tegelijk zelf tot ding gemaakt. Samen dansen ze een geforceerd duet. Beide lichamen meten de grenzen op tussen intimiteit en perversie, tussen subject en object. Vervolgens doen ze die grenzen vervagen in wederzijdse medeplichtigheid."Je ziet het niet zo vaak: spectaculair anti-spektakel, met zoveel diepere lagen onder een lichamelijke confrontatie die extreem tastbaar en erg toegankelijk is. Het duidt op grote kunst van een artiest met een grote toekomst." (****, De Standaard)
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e85ceba17664b211792a488_Raphael%20-%20Bart%20Grietens-web.jpg
 recordedAt: |-
   undefined
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e85ceba17664b211792a488_Raphael%20-%20Bart%20Grietens-web.jpg
 text: |-
   ‘Raphaël’ toont twee mannelijke performers. De ene is actief en handelt (hij), de ander is schijnbaar levenloos en inert (hem). Hij tracht hem te manipuleren tot ideale dans- of sparringpartner, maar wordt in die poging tegelijk zelf tot ding gemaakt. Samen dansen ze een geforceerd duet. Beide lichamen meten de grenzen op tussen intimiteit en perversie, tussen subject en object. Vervolgens doen ze die grenzen vervagen in wederzijdse medeplichtigheid.
   
@@ -44,4 +39,11 @@ text: |-
   In 2018, creëerde Alexander ‘La rose en céramique’ met Scali Delpeyrat, in het kader van Sujet à Vif, Festival d’Avignon (FR). Daarnaast tourt hij in 2018 doorheen Europa met zijn nieuwe creatie ‘Red Haired Man’ (in première in oktober 2018 in Vooruit). Vantournhout geeft regelmatig les aan ESAC and ACAPA (Academy for Circus and Performance Art, Tilburg NL). Hij was ook al gastdocent aan DOCH-Stockholm (SE), Codarts (NE) Verigo (IT), Deltebre Dansa (ES), Concorde university (CA) en P.A.R.T.S
   
   Alexander Vantournhout is cultureel ambassadeur van de stad Roeselare (BE), huisartiest van PRPLX (BE) en Vooruit-resident tot 2021.
+genre: dans
+audience: volwassenen
+id: 5e85cf8c06229b0eea0b1d52
+age: 14+
+company: |-
+  Alexander Vantournhout / not standing
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e85ceba17664b211792a488_Raphael%20-%20Bart%20Grietens-web.jpg
 ---

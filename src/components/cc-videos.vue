@@ -162,35 +162,7 @@
 </template>
 
 <static-query>
-query {
-  video: allVideo {
-    edges {
-      node {
-        slug,
-        id
-        title,
-        descr,
-        age
-        video {
-          url,
-          provider,
-          length
-        },
-        social {
-          descr,
-          image
-        },
-        info,
-        recordedAt,
-        thumbnail,
-        text,
-        genre,
-        audience,
-        company,
-      }
-    }
-  }
-}
+
 </static-query>
 
 <script>

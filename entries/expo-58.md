@@ -1,15 +1,6 @@
 ---
 title: |-
   Expo 58
-id: 5e7a0724aad35a7cc4665269
-company: |-
-  Along Comes Mary
-age: undefined
-videoUrl: https://vimeo.com/363491580
-videoLength: 97 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a05d69177bf74e35e536b_Along%20comes%20Mary%20-%201958%20Exposed.jpg
-socialDescr: |-
-   58 – Back to the future De Belgische regering besloot in 1958 een wereldtentoonstelling te organiseren in de Heizel. Deze tentoonstelling stond volledig in het teken van het geloof in vrijheid en vooruitgang, dat zo kenmerkend was voor de jaren vijfig en zestig. Meer dan 42 miljoen mensen bezochten de wereldtentoonstelling, die door koning Boudewijn werd geopend met een oproep tot vrede en sociale en economische vooruitgang. 
 descr: |-
   * concert
   * duur: 97 min
@@ -17,9 +8,13 @@ descr: |-
   * [Along Comes Mary](https://www.alongcomesmary.com/)
 
   ‍
+videoUrl: https://vimeo.com/363491580
+videoLength: 97 min
+socialDescr: |-
+   58 – Back to the future De Belgische regering besloot in 1958 een wereldtentoonstelling te organiseren in de Heizel. Deze tentoonstelling stond volledig in het teken van het geloof in vrijheid en vooruitgang, dat zo kenmerkend was voor de jaren vijfig en zestig. Meer dan 42 miljoen mensen bezochten de wereldtentoonstelling, die door koning Boudewijn werd geopend met een oproep tot vrede en sociale en economische vooruitgang. 
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a05d69177bf74e35e536b_Along%20comes%20Mary%20-%201958%20Exposed.jpg
 recordedAt: |-
   Opname in CC Jan Tervaert, Hamme
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a05d69177bf74e35e536b_Along%20comes%20Mary%20-%201958%20Exposed.jpg
 text: |-
   58 – Back to the future
 
@@ -54,4 +49,11 @@ text: |-
   ‍
 
   Opname als livestream op 26 september 2019 door Moose-Stache en [Beeldstorm](http://www.beeldstorm.be) (Jan Bosteels)
+genre: concert
+audience: volwassenen
+id: 5e7a0724aad35a7cc4665269
+age: undefined
+company: |-
+  Along Comes Mary
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a05d69177bf74e35e536b_Along%20comes%20Mary%20-%201958%20Exposed.jpg
 ---

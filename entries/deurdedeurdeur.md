@@ -1,15 +1,6 @@
 ---
 title: |-
   Deurdedeurdeur
-id: 5e791b64fb2776b00464770b
-company: |-
-  SKaGeN
-age: undefined
-videoUrl: https://vimeo.com/124392435
-videoLength: 154 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e79197278618a116b185669_SkaGeN_deurdeurdeur-01%20(c)%20Luc%20VLeugels.jpg
-socialDescr: |-
-  Deurdedeurdeur is een hilarische deurenkomedie over het wel en wee van een theatergezelschap tijdens de repetities en tijdens hun toernee. U ziet de voor- en achterzijde van de mensen en het toneel: het decor, maar ook de acteurs en de regisseur die in de coulissen te kampen hebben met verliefdheden, gebrek aan professionalisme, jaloezie en drank. 
 descr: |-
   * theater
   * duur: 61 min
@@ -19,9 +10,13 @@ descr: |-
   ‍
 
   ‍
+videoUrl: https://vimeo.com/124392435
+videoLength: 154 min
+socialDescr: |-
+  Deurdedeurdeur is een hilarische deurenkomedie over het wel en wee van een theatergezelschap tijdens de repetities en tijdens hun toernee. U ziet de voor- en achterzijde van de mensen en het toneel: het decor, maar ook de acteurs en de regisseur die in de coulissen te kampen hebben met verliefdheden, gebrek aan professionalisme, jaloezie en drank. 
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e79197278618a116b185669_SkaGeN_deurdeurdeur-01%20(c)%20Luc%20VLeugels.jpg
 recordedAt: |-
   Opname in CC de bogaard, Sint-Truiden
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e79197278618a116b185669_SkaGeN_deurdeurdeur-01%20(c)%20Luc%20VLeugels.jpg
 text: |-
   SKaGeN zet de lachband aan… Een meesterwerkje in drie bedrijven… En elk bedrijf wordt ‘Deurdedeurdeur’ grappiger. Technisch is het perfect: de timing zit goed, de vergissingen worden perfect uitgevoerd. (De Standaard)
 
@@ -42,4 +37,11 @@ text: |-
   _Opname video door_ [_Beeldstorm_](http://www.beeldstorm.be) _o.l.v. Jan Bosteels_  
 
   ‍
+genre: theater
+audience: volwassenen
+id: 5e791b64fb2776b00464770b
+age: undefined
+company: |-
+  SKaGeN
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e79197278618a116b185669_SkaGeN_deurdeurdeur-01%20(c)%20Luc%20VLeugels.jpg
 ---

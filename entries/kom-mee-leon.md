@@ -1,15 +1,6 @@
 ---
 title: |-
   kom mee, Leon!
-id: 5e7ca636417f1f7db0eee440
-company: |-
-  tout petit
-age: 3+
-videoUrl: https://vimeo.com/76478112
-videoLength: 30 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7ca555afc24a31fbd55c5c_KommeeLeon_web.jpg
-socialDescr: |-
-  Kom mee, Leon! is een voorstelling op en rond een Italiaanse driewieler voor iedereen vanaf 3 jaar.Ciska en Lies trekken de wijde wereld in. Op weg naar het grote avontuur zijn ze van de baan gesukkeld. Hun eigenwijze wagentje Leon opent zijn deuren. Iedereen mag binnengluren, ontdekken en dromen. Meegenomen in de wereld van twee vrouwen die elkaar niet kunnen missen.
 descr: |-
   * dans
   * leeftijd: 3+
@@ -18,9 +9,13 @@ descr: |-
   * [lesmap](https://www.despil.be/mediastorage/FSDocument/884/Kom_mee__Leon__tout_petit__lesmateriaal.pdf) (pdf)
 
   ‍
+videoUrl: https://vimeo.com/76478112
+videoLength: 30 min
+socialDescr: |-
+  Kom mee, Leon! is een voorstelling op en rond een Italiaanse driewieler voor iedereen vanaf 3 jaar.Ciska en Lies trekken de wijde wereld in. Op weg naar het grote avontuur zijn ze van de baan gesukkeld. Hun eigenwijze wagentje Leon opent zijn deuren. Iedereen mag binnengluren, ontdekken en dromen. Meegenomen in de wereld van twee vrouwen die elkaar niet kunnen missen.
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7ca555afc24a31fbd55c5c_KommeeLeon_web.jpg
 recordedAt: |-
   Opname in cultuurcentrum Hasselt
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7ca555afc24a31fbd55c5c_KommeeLeon_web.jpg
 text: |-
   Kom mee, Leon! is een voorstelling op en rond een Italiaanse driewieler voor iedereen vanaf 3 jaar.
   
@@ -45,4 +40,11 @@ text: |-
   Coproductie: P2 - cultuurcentrum Hasselt & Theater a/h Vrijthof Maastricht i.k.v. interlimburgse subsidies Met steun van STROOM – ontwikkelingsbeurs, TAKT Dommelhof, Euregionaal Dansplatform Via2018 en LAPLAN/GC De Markten
 
   Opname door Beeldstorm olv Jan Bosteels
+genre: dans
+audience: familie
+id: 5e7ca636417f1f7db0eee440
+age: 3+
+company: |-
+  tout petit
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7ca555afc24a31fbd55c5c_KommeeLeon_web.jpg
 ---

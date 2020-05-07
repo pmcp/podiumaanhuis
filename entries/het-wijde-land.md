@@ -1,23 +1,21 @@
 ---
 title: |-
   Het wijde land
-id: 5e7a1b6c61c30d71aa408ba4
-company: |-
-  Tg STAN
-age: ""
-videoUrl: https://vimeo.com/78870573
-videoLength: 119 min
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a1998abf2d41f56cf2d2a_Het%20wijde%20land_web_10%20%C2%A9%20Bart%20Grietens.jpg
-socialDescr: |-
-  Obstakels bij het hebben van een relatie met een getrouwde vrouw: Het is toegestaan de vrouw van een ander te verleiden wanneer men het gevaar loopt te sterven van liefde voor haar.De intensiteit van deze liefde kent tien gradaties, gekenmerkt door volgende tekens:
-  1/ liefde door de ogen - 2/ geestesverwantschap - 3/ obsessie - 4/ slapeloosheid - 5/ vermageren - 6/ afkeer van plezier - 7/ verlies van fatsoen - 8/ waanzin - 9/ vervaging en verzwakking - 10/ uiteindelijk, de dood.(uit de Kamasutra)
 descr: |-
   * Theater
   * duur: 119 min
   * taal: Nederlands
   * [Tg STAN](http://www.stan.be/nl/page/over-stan)
-recordedAt: ""
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a1998abf2d41f56cf2d2a_Het%20wijde%20land_web_10%20%C2%A9%20Bart%20Grietens.jpg
+
+  ‍
+videoUrl: https://vimeo.com/78870573
+videoLength: 119 min
+socialDescr: |-
+  Obstakels bij het hebben van een relatie met een getrouwde vrouw: Het is toegestaan de vrouw van een ander te verleiden wanneer men het gevaar loopt te sterven van liefde voor haar.De intensiteit van deze liefde kent tien gradaties, gekenmerkt door volgende tekens:
+  1/ liefde door de ogen - 2/ geestesverwantschap - 3/ obsessie - 4/ slapeloosheid - 5/ vermageren - 6/ afkeer van plezier - 7/ verlies van fatsoen - 8/ waanzin - 9/ vervaging en verzwakking - 10/ uiteindelijk, de dood.(uit de Kamasutra)
+socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a1998abf2d41f56cf2d2a_Het%20wijde%20land_web_10%20%C2%A9%20Bart%20Grietens.jpg
+recordedAt: |-
+  undefined
 text: |-
   Obstakels bij het hebben van een relatie met een getrouwde vrouw:Het is toegestaan de vrouw van een ander te verleiden wanneer men het gevaar loopt te sterven van liefde voor haar.
 
@@ -40,9 +38,11 @@ text: |-
   Een stuk voor geile middelbare levers met één jonge knaap (die hopelijk sterft op het eind, de eikel).
 
   ‍
+
   _"Ik denk dat ik u gemeden heb uit een soort dubbelgangers-schuwheid... Uw determinisme zo goed als uw scepsis - wat de mensen pessimisme noemen -, uw gegrepen zijn door de waarheden van het onbewuste, door het driftleven van de mensen, uw ondermijning van de cultureel-conventionele zekerheden, het persisteren van uw gedachten bij de polariteit van liefhebben en sterven, dat alles trof me met een beangstigende vertrouwdheid ( - ).  Zo heb ik de indruk gekregen, dat u door intuïtie - maar eigenlijk als gevolg van precieze zelfwaarneming - alles weet, wat ik door moeizame arbeid bij andere mensen heb blootgelegd."_(Fragment uit een brief van Sigmund Freud aan Arthur Schnitzler uit 1922)
 
   ‍
+
   #####Credits
 
   tekst Arthur Schnitzler
@@ -57,5 +57,14 @@ text: |-
   
   première 24 oktober 2013, Toneelhuis Antwerpen
 
+  ‍
+
   Opname video door [Beeldstorm](http://www.beeldstorm.be) o.l.v. Jan Bosteels
+genre: theater
+audience: volwassenen
+id: 5e7a1b6c61c30d71aa408ba4
+age: undefined
+company: |-
+  Tg STAN
+image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7a1998abf2d41f56cf2d2a_Het%20wijde%20land_web_10%20%C2%A9%20Bart%20Grietens.jpg
 ---

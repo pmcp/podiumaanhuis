@@ -5,7 +5,7 @@ backend:
 
 # when using the default proxy server port
 # To run local backend git: npx netlify-cms-proxy-server
-# local_backend: true
+local_backend: true
 
 media_folder: "src/assets/uploads"
 public_folder: "/uploads"
@@ -42,6 +42,8 @@ collections:
       - {label: "Company", name: "company", widget: "string", required: false}
       - {label: "Afbeelding", name: "image", widget: "image", required: false}
       - {label: "text", name: "text", widget: "markdown", required: false}
+      - {label: "Genre", name: "genre", widget: "relation", collection: "genres", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - {label: "Publiek", name: "audience", widget: "relation", collection: "audiences", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
       # TODO:
         # related fields: genre & company 
         # list field for info
@@ -58,3 +60,17 @@ collections:
           - {label: Hoofdafbeelding - Credit, name: heroCredit, widget: markdown}
           - {label: Formulier - Titel, name: formTitle, widget: string}
           - {label: Formulier - Tekst, name: formText, widget: markdown}
+  - name: "genres"
+    label: "Genres"
+    folder: "genres"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Naam", name: "title", widget: "string"}
+  - name: "audiences"
+    label: "Publiek"
+    folder: "audiences"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Naam", name: "title", widget: "string"}
