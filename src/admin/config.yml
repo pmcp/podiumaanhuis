@@ -4,16 +4,17 @@ backend:
 
 # when using the default proxy server port
 # To run local backend git: npx netlify-cms-proxy-server
-# local_backend: true
+local_backend: true
 
 media_folder: "src/assets/uploads"
-public_folder: "/uploads"
+public_folder: "/assets/img"
 publish_mode: editorial_workflow
 
 
 collections:
   - name: "pages"
-    label: "Pages"
+    label: "paginas"
+    label_singular: "pagina"
     folder: "pages"
     create: true
     slug: "{{slug}}"
@@ -23,20 +24,21 @@ collections:
       - {label: "Publish Date", name: "date", widget: "date"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "entries"
-    label: "Voorstellingen"
+    label: "voorstellingen"
     folder: "entries"
+    label_singular: "voorstelling"
     preview_path: voorstellingen/{{title}}
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string", required: false}
       - {label: "text", name: "text", widget: "markdown", required: false}      
-      - {label: "text", name: "text", widget: "markdown", required: false}
+      - {label: "Afbeelding", name: "image", widget: "image", required: false} 
       - {label: "Opgenomen", name: "recordedAt", widget: "string", required: false}
       - {label: "Company", name: "company", widget: "string", required: false}
       - {label: "Omschrijving", name: "descr", widget: "markdown", required: false}
-      - {label: "Genre", name: "genre", widget: "relation", collection: "genres", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
-      - {label: "Publiek", name: "audience", widget: "relation", collection: "audiences", searchFields: ["title"], valueField: "title", displayFields: ["title"]}
+      - {label: "Genre", name: "genre", widget: "relation", collection: "genres", searchFields: ["title"], valueField: "title", displayFields: ["title"], required: false}
+      - {label: "Publiek", name: "audience", widget: "relation", collection: "audiences", searchFields: ["title"], valueField: "title", displayFields: ["title"], required: false}
       - {label: "Leeftijd", name: "age", widget: "string", required: false}
       - {label: "Video Link", name: "videoUrl", widget: "string", required: false}
       - {label: "Video Lengte", name: "videoLength", widget: "string", required: false}
@@ -56,14 +58,16 @@ collections:
           - {label: Formulier - Titel, name: formTitle, widget: string}
           - {label: Formulier - Tekst, name: formText, widget: markdown}
   - name: "genres"
-    label: "Genres"
+    label: "genres"
+    label_singular: "genre"
     folder: "genres"
     create: true
     slug: "{{slug}}"
     fields:
       - {label: "Naam", name: "title", widget: "string"}
   - name: "audiences"
-    label: "Publiek"
+    label: "publiek"
+    label_singular: "publiek"
     folder: "audiences"
     create: true
     slug: "{{slug}}"

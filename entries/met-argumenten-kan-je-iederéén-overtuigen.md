@@ -1,24 +1,5 @@
 ---
 title: Met argumenten kan je iederéén overtuigen
-descr: |-
-  
-
-  * theater
-  * duur: 127 min
-  * taal: Nederlands
-  * [LAZARUS](https://www.lazarusvzw.be/nl)
-videoUrl: https://vimeo.com/411315048
-videoLength: 127 min
-socialDescr: "Zo niet snijden we je hoofd eraf, sorry   Koen De Graeve en
-  Günther Lesage (Emmy Award winners 2015 beste comedy) halen het onderste uit
-  de kan om elkaar, het publiek en eventuele huisdieren, een antwoord te geven
-  op de Grote Vragen: 'Waarom is er iets en niet niets?' en 'Als er een God is
-  die alles heeft geschapen, wie heeft God dan geschapen?'   Dit en nog veel
-  meer in een voorstelling waar niemand minder dan Richard Dawkins graag was
-  naar komen kijken, 'als er een Engelstalige ondertiteling was voorzien.*'"
-socialImage: /uploads/lazarus_metargumenten.jpg
-company: LAZARUS
-image: /uploads/lazarus_metargumenten.jpg
 text: >-
   Zo niet snijden we je hoofd eraf, sorry 
 
@@ -46,6 +27,25 @@ text: >-
 
 
   Opname video door[ Beeldstorm](www.beeldstorm.be) o.l.v. Jan Bosteels
+image: /assets/img/localhost_8080_voorstellingen_berg-all-panes-2020-05-06-08-22-17.png
+company: LAZARUS
+descr: |-
+  
+
+  * theater
+  * duur: 127 min
+  * taal: Nederlands
+  * [LAZARUS](https://www.lazarusvzw.be/nl)
 genre: theater
 audience: volwassenen
+videoUrl: https://vimeo.com/411315048
+videoLength: 127 min
+socialDescr: "Zo niet snijden we je hoofd eraf, sorry   Koen De Graeve en
+  Günther Lesage (Emmy Award winners 2015 beste comedy) halen het onderste uit
+  de kan om elkaar, het publiek en eventuele huisdieren, een antwoord te geven
+  op de Grote Vragen: 'Waarom is er iets en niet niets?' en 'Als er een God is
+  die alles heeft geschapen, wie heeft God dan geschapen?'   Dit en nog veel
+  meer in een voorstelling waar niemand minder dan Richard Dawkins graag was
+  naar komen kijken, 'als er een Engelstalige ondertiteling was voorzien.*'"
+socialImage: /uploads/lazarus_metargumenten.jpg
 ---

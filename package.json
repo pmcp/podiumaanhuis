@@ -16,6 +16,7 @@
     "gridsome": "^0.7.0",
     "gridsome-plugin-gtag": "git+https://github.com/marcvangend/gridsome-plugin-gtag.git",
     "gridsome-plugin-netlify-cms": "^1.0.9",
+    "gridsome-plugin-netlify-cms-paths": "^0.3.1",
     "gridsome-transformer-netlify": "^1.0.3",
     "netlify-cms": "^2.10.47",
     "path": "^0.12.7",

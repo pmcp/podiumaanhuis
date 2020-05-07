@@ -30,7 +30,6 @@
                 </div>
               </div>
             </div>
-            
             <div class="w-richtext" v-html="$page.entry.text"></div>
           </div>
           <div>
