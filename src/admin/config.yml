@@ -14,6 +14,7 @@ publish_mode: editorial_workflow
 collections:
   - name: "pages"
     label: "paginas"
+    preview: false
     label_singular: "pagina"
     folder: "pages"
     create: true
@@ -26,6 +27,7 @@ collections:
   - name: "entries"
     label: "voorstellingen"
     folder: "entries"
+    preview: false
     label_singular: "voorstelling"
     preview_path: voorstellingen/{{title}}
     create: true
@@ -59,6 +61,7 @@ collections:
           - {label: Formulier - Tekst, name: formText, widget: markdown}
   - name: "genres"
     label: "genres"
+    preview: false
     label_singular: "genre"
     folder: "genres"
     create: true
@@ -67,6 +70,7 @@ collections:
       - {label: "Naam", name: "title", widget: "string"}
   - name: "audiences"
     label: "publiek"
+    preview: false
     label_singular: "publiek"
     folder: "audiences"
     create: true
