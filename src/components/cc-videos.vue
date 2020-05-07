@@ -94,7 +94,7 @@
                   :key="id"
                 >
                   <g-link
-                    :to="`voorstellingen/${ item.slug }`"
+                    :to="item.path"
                     class="video-card w-inline-block"
                   >
                     <!-- <a
@@ -103,11 +103,11 @@
                   > -->
                     <div
                       class="video-card-image-wrapper"
-                      :style="{ backgroundImage: `url('${item.thumbnail}')`}"
+                      :style="{ backgroundImage: `url('${item.image}')`}"
                     >
                       <div class="video-card-image-inner">
                         <div class="tagline">{{ item.genre }}</div>
-                        <div class="cc-videocard__age">{{ item.age }}</div>
+                        <div class="cc-videocard__age" v-if="item.age !== 'undefined'">{{ item.age }}</div>
                       </div>
                     </div>
                     <div class="video-card-content">
@@ -116,7 +116,7 @@
                       <div class="cc-videocard__company">{{ item.company }}</div>
                       <div class="cc-videocard__company">{{ item.recordedAt }}</div>
                       <div class="cc-videocard__spacer"></div>
-                      <div class="cc-videocard__duration">{{ item.video.length }}</div>
+                      <div class="cc-videocard__duration">{{ item.videoLength }}</div>
                       <div class="card-play-button-small">
                         <img
                           src="@/assets/images/play.svg"
@@ -162,7 +162,30 @@
 </template>
 
 <static-query>
-
+query {
+  video: allEntries {
+    edges {
+      node {
+        path,
+        id,
+        title,
+        descr,
+        age,
+        videoUrl,
+        videoLength
+        socialImage,
+        socialDescr
+        descr,
+        recordedAt,
+        image,
+        text,
+        genre,
+        audience,
+        company,
+      }
+    }
+  }
+}
 </static-query>
 
 <script>
@@ -171,18 +194,20 @@ const ccSearch = () =>
     /* webpackChunkName: "search" */ "@/components/cc-search"
   ).catch(error => console.warn(error));
 
+
 export default {
   components: {
     ccSearch
   },
   mounted() {
     const items = this.$static.video.edges.map(val => {
+
       return val.node;
     });
 
     const genres = items.reduce(this.setGenres, {});
     /* Convert object to array */
-
+    
     const genresArray = Object.keys(genres).map(function(key) {
       return { name: key, active: true, total: genres[key].total };
     });
@@ -191,8 +216,7 @@ export default {
     this.genres = [...genresArray];
 
     this.items = items;
-
-    this.filterItems(items);
+    this.filterItems();
   },
   methods: {
     setGenres: function(acc, item) {
@@ -218,7 +242,7 @@ export default {
 
       this.untouchedAudience = true;
       this.untouchedGenres = true;
-      this.filterItems(this.items);
+      this.filterItems();
     },
     toggleStatus: function(type, key, originalArray, allActive) {
       /* Back to first page */
@@ -286,7 +310,7 @@ export default {
       //         event_label: "Filter"
       //       });
 
-      this.filterItems(this.items);
+      this.filterItems();
     },
     setAudienceInactive: function(status) {
       if (this.untouchedAudience) {
@@ -320,17 +344,20 @@ export default {
         elmnt.scrollIntoView({ behavior: "smooth" });
       }, 100);
     },
-    filterItems: function(items) {
+    filterItems: function() {
       /* Items getting filtered*/
       /* 1) if the audience is active, return the item */
 
+      const items = this.items;
       let filteredItemsAudience = [];
       if (this.totalAudienceActive === 0) {
         filteredItemsAudience = items;
       } else {
+      
         filteredItemsAudience = items.filter(item => {
+        
           const audience = this.audience.find(
-            element => element.name === item.audience
+            element => element.name.toLowerCase() === item.audience.toLowerCase()
           );
           if (audience) {
             if (audience.active) return item;
@@ -338,16 +365,20 @@ export default {
         });
       }
 
+
       let filteredItemsGenre = [];
 
       const genresArray = this.genres;
 
+
       if (this.totalGenresActive === 0) {
         filteredItemsGenre = this.items;
       } else {
+        
         filteredItemsGenre = filteredItemsAudience.filter(item => {
+          
           const genre = genresArray.find(
-            element => element.name === item.genre
+            element => element.name.toLowerCase() === item.genre.toLowerCase()
           );
           if (genre) {
             if (genre.active) return item;
@@ -355,7 +386,10 @@ export default {
         });
       }
 
+      
+
       const recountedGenres = filteredItemsAudience.reduce(this.setGenres, {});
+
 
       // Not functional
       const genresToZero = this.genresDefaultObject;
@@ -385,6 +419,7 @@ export default {
       );
 
       this.filteredItems = filteredItems;
+      
     }
   },
 

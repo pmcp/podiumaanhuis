@@ -12,7 +12,7 @@ module.exports = {
       externalLinksRel: ['nofollow', 'noopener', 'noreferrer'],
       anchorClassName: 'icon icon-link',
       plugins: [
-        // ...global plugins
+        // 'remark-frontmatter'
       ]
     }
   },
@@ -21,7 +21,10 @@ module.exports = {
       use: '@gridsome/source-filesystem',
       options: {
         path: 'pages/**/*.md',
-        typeName: 'MDPages'
+        typeName: 'MDPages',
+        remark: {
+          // remark options
+        }
       }
     },
     {
@@ -29,6 +32,11 @@ module.exports = {
       options: {
         path: 'entries/**/*.md',
         typeName: 'entries',
+        remark: {
+          plugins: [
+            // 'remark-frontmatter'
+          ]
+        }
       }
     },
     {
@@ -39,9 +47,9 @@ module.exports = {
     }
   ],
   templates: {
-    Video: [
+    entries: [
       {
-        path: '/voorstellingen/:slug',
+        path: '/voorstellingen/:title',
         component: './src/templates/Entry.vue'
       }
     ],
@@ -52,5 +60,4 @@ module.exports = {
       }
     ]
   }
-
 }

@@ -35,12 +35,12 @@
           @mouseenter="focusIndex = index"
         >
           <g-link
-            :to="`voorstellingen/${ result.item.slug }`"
+            :to="result.item.path"
             class="video-card-horizontal w-inline-block"
           >
 
             <div
-              :style="{ backgroundImage: `url('${result.item.thumbnail}')`}"
+              :style="{ backgroundImage: `url('${result.item.image}')`}"
               class="card-horizontal-image"
             >
               <div class="card-horizontal-image-inner">
@@ -73,17 +73,21 @@
 
 <static-query>
 query Search{
-  video: allVideo {
+  video: allEntries {
     edges {
       node {
-        slug,
-        id
+        path,
+        id,
         title,
         descr,
-        age
-        info,
+        age,
+        videoUrl,
+        videoLength
+        socialImage,
+        socialDescr
+        descr,
         recordedAt,
-        thumbnail,
+        image,
         text,
         genre,
         audience,

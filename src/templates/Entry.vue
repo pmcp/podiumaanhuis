@@ -6,12 +6,11 @@
         <div class="video-wrapper-large">
           <div class='embed-container'>
             
-            <iframe scrolling="no" title="Video embed" frameborder="0" allow="autoplay; fullscreen"  :src="$page.entry.video.embedUrl" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+            <iframe scrolling="no" title="Video embed" frameborder="0" allow="autoplay; fullscreen"  :src="embedUrl" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
           </div>
         </div>
       </div>
     </div>
-    
     <div class="section cc-page__content">
       <div class="cc-container">
         <div class="grid-sidebar">
@@ -31,13 +30,15 @@
                 </div>
               </div>
             </div>
+            
             <div class="w-richtext" v-html="$page.entry.text"></div>
           </div>
           <div>
             <div class="sticky">
               <div class="card-wrapper margin-bottom-large">
                 <div class="key-takeaways w-richtext">
-                  <div v-html="$page.entry.info"></div>
+
+                  <div v-html="$page.entry.descr"></div>
                 </div>
               </div>
             </div>
@@ -53,25 +54,19 @@
 
 <page-query>
 query ($id: ID!) {
-  entry: video(id: $id) {
-    slug,
-    id
+  entry: entries(id: $id) {
+    path,
+    id,
     title,
     descr,
-    age
-    video {
-      url,
-      provider,
-      length,
-      embedUrl
-    },
-    social {
-      descr,
-      image
-    },
-    info,
+    age,
+    videoUrl,
+    videoLength
+    socialImage,
+    socialDescr
+    descr,
     recordedAt,
-    thumbnail,
+    image,
     text,
     genre,
     audience,
@@ -81,24 +76,78 @@ query ($id: ID!) {
 </page-query>
 
 <script>
+
+
+
+
+/**
+ * Get the id of the youtube vid
+ * Supports:
+ * http://www.youtube.com/watch?v=0zM3nApSvMg&feature=feedrec_grec_index
+ * http://www.youtube.com/user/IngridMichaelsonVEVO#p/a/u/1/QdK8U-VIH_o
+ * http://www.youtube.com/v/0zM3nApSvMg?fs=1&amp;hl=en_US&amp;rel=0
+ * http://www.youtube.com/watch?v=0zM3nApSvMg#t=0m10s
+ * http://www.youtube.com/embed/0zM3nApSvMg?rel=0
+ * http://www.youtube.com/watch?v=0zM3nApSvMg
+ * http://youtu.be/0zM3nApSvMg
+ * 
+ */
+function youtubeParser(url) {
+  var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+  var match = url.match(regExp);
+  return (match && match[7].length == 11) ? match[7] : false;
+}
+
+ 
+/**
+ * Get the id of the Vimeo 
+ */
+function vimeoParser(url) {
+
+  var regExp = /https:\/\/(www\.)?vimeo.com\/(\d+)($|\/)/;
+  var match = url.match(regExp);
+
+  if (match) {
+    return match[2];
+
+  }
+}
+
+
+
+
 import ccVideos from "~/components/cc-videos.vue";
 export default {
   components: {
     ccVideos
   },
+  computed: {
+    embedUrl() {
+      const getIdYoutube = youtubeParser(this.$page.entry.videoUrl)
+      if(getIdYoutube) return `https://www.youtube.com/embed/${getIdYoutube}`
+      const getVimeoId = vimeoParser(this.$page.entry.videoUrl)
+      if(getVimeoId) return `https://player.vimeo.com/video/${getVimeoId}`
+    }
+    
+  },
+  mounted () {
+    const converter = new showdown.Converter();
+    this.$page.entry.text = converter.makeHtml(this.$page.entry.text);
+    this.$page.entry.descr = converter.makeHtml(this.$page.entry.descr);
+  },
   metaInfo() {
     return {
       title: this.$page.entry.title,
       meta: [
-        { name: "description", content: this.$page.entry.social.descr },
+        { name: "description", content: this.$page.entry.socialDescr },
         { name: "twitter:card", content: "summary_large_image" },
-        { name: "twitter:description", content: this.$page.entry.social.desrc },
+        { name: "twitter:description", content: this.$page.entry.socialDesrc },
         { name: "twitter:title", content: this.$page.entry.title },
         // TODO: make a computed of this: if no social image, get thumbnail?
-        { name: "twitter:image", content: this.$page.entry.social.image },
+        { name: "twitter:image", content: this.$page.entry.socialImage },
         { property: "og:type", content: "article" },
         { property: "og:title", content: this.$page.entry.title },
-        { property: "og:description", content: this.$page.entry.social.descr },
+        { property: "og:description", content: this.$page.entry.socialDescr },
         {
           property: "og:url",
           content: `${this.getBaseUrl}${this.$page.entry.path}`
@@ -108,8 +157,8 @@ export default {
         //   content: moment(this.$page.post.date).format("MM-DD-YYYY")
         // },
         // { property: "og:updated_time", content: this.$page.post.date },
-        { property: "og:image", content: this.$page.entry.social.image },
-        { property: "og:image:secure_url", content: this.$page.entry.social.image }
+        { property: "og:image", content: this.$page.entry.socialImage },
+        { property: "og:image:secure_url", content: this.$page.entry.socialImage }
       ]
       // script: [{ src: "https://platform.twitter.com/widgets.js" }]
     };

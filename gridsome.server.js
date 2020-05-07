@@ -1,6 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 const TurndownService = require('turndown')
+
+
 // Server API makes it possible to hook into various parts of Gridsome
 // on server-side and add custom data to the GraphQL data layer.
 // Learn more: https://gridsome.org/docs/server-api/
@@ -78,6 +80,31 @@ async function getItems(url, token, items = [], offset = 0) {
 
 module.exports = function (api) {
 
+
+  // api.onCreateNode(options => {
+    
+  //   if (options.internal.typeName === 'entries' && !options.published) {
+  //     // console.log(options.internal.content)
+
+  //     converter = new showdown.Converter(),
+  //     text      = '# hello, markdown!',
+  //     html      = converter.makeJson(options.internal.content);
+  //     console.log(html)
+
+  //     // let test = ``
+  //     // const md = markdownJson(options.internal.content)
+  //     // console.log(md)
+      
+  //   }
+  //   // modify the options directly
+  //   // options.slug = slugify(options.title)
+  //   // or return new options
+  //   // return { ...options, slug: '...' }
+    
+  // })
+  
+
+
   api.loadSource(async actions => {
 
     const token = '8e947815f384fcb9147fa6e4657a4b45cd8345368b9249d3707da8c63c08ced0';
@@ -97,17 +124,17 @@ title: ${genreTitle}
 ---
 `;
 
-const filename = path.join(
-  __dirname,
-  `/genres/${genreTitle}.md`
-  );
+// const filename = path.join(
+//   __dirname,
+//   `/genres/${genreTitle}.md`
+//   );
 
-fs.writeFile(filename, content, function (err) {
-  if (err) {
-    return console.log(err);
-  }
-  console.log("The file was saved!", filename);
-});
+// fs.writeFile(filename, content, function (err) {
+//   if (err) {
+//     return console.log(err);
+//   }
+//   console.log("The file was saved!", filename);
+// });
 
 
 
@@ -235,17 +262,17 @@ image: ${item.thumbnail.url}
 
 
 
-    const filename = path.join(
-      __dirname,
-      `/entries/${item.slug}.md`
-      );
+    // const filename = path.join(
+    //   __dirname,
+    //   `/entries/${item.slug}.md`
+    //   );
 
-    fs.writeFile(filename, content, function (err) {
-      if (err) {
-        return console.log(err);
-      }
-      console.log("The file was saved!", filename);
-    });
+    // fs.writeFile(filename, content, function (err) {
+    //   if (err) {
+    //     return console.log(err);
+    //   }
+    //   console.log("The file was saved!", filename);
+    // });
     
 
 
@@ -255,30 +282,30 @@ image: ${item.thumbnail.url}
        * TODO:
        * Add default values
        */
-      videoCollection.addNode({
-        slug: item.slug,
-        id: item._id,
-        title: item.name,
-        descr: item.excerpt,
-        video: {
-          url: item['link-to-video'].url,
-          provider: item['link-to-video'].metadata.provider_name,
-          length: item['video-length'],
-          embedUrl: embedUrl
-        },
-        social: {
-          descr: item['social-share-description'],
-          image: socialImage
-        },
-        age: item.age,
-        info: item['key-takeaways'],
-        recordedAt: item['recorded-at'],
-        thumbnail: item.thumbnail.url,
-        text: item['video-notes'],
-        genre: genre[0].name,
-        audience: audience[0].name,
-        company: item.excerpt,
-      })
+      // videoCollection.addNode({
+      //   slug: item.slug,
+      //   id: item._id,
+      //   title: item.name,
+      //   descr: item.excerpt,
+      //   video: {
+      //     url: item['link-to-video'].url,
+      //     provider: item['link-to-video'].metadata.provider_name,
+      //     length: item['video-length'],
+      //     embedUrl: embedUrl
+      //   },
+      //   social: {
+      //     descr: item['social-share-description'],
+      //     image: socialImage
+      //   },
+      //   age: item.age,
+      //   info: item['key-takeaways'],
+      //   recordedAt: item['recorded-at'],
+      //   thumbnail: item.thumbnail.url,
+      //   text: item['video-notes'],
+      //   genre: genre[0].name,
+      //   audience: audience[0].name,
+      //   company: item.excerpt,
+      // })
     }
 
   })

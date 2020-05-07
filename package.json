@@ -9,15 +9,22 @@
   "dependencies": {
     "@gridsome/source-filesystem": "^0.6.2",
     "@gridsome/transformer-remark": "^0.5.0",
+    "@gridsome/vue-remark": "^0.2.0",
     "axios": "^0.19.2",
     "fs": "0.0.1-security",
     "fuse.js": "^5.2.3",
     "gridsome": "^0.7.0",
     "gridsome-plugin-gtag": "git+https://github.com/marcvangend/gridsome-plugin-gtag.git",
     "gridsome-plugin-netlify-cms": "^1.0.9",
+    "gridsome-transformer-netlify": "^1.0.3",
     "netlify-cms": "^2.10.47",
     "path": "^0.12.7",
+    "remark-frontmatter": "^2.0.0",
+    "showdown": "^1.9.1",
     "turndown": "^6.0.0",
     "vue-gtm": "^2.2.0"
+  },
+  "devDependencies": {
+    "vue-directive-markdown": "^1.2.1"
   }
 }
