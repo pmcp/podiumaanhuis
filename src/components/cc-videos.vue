@@ -83,7 +83,7 @@
                     >
                       <div class="video-card-image-inner">
                         <div class="tagline">{{ item.genre }}</div>
-                        <div class="cc-videocard__age" v-if="item.age !== 'undefined'">{{ item.age }}</div>
+                        <div class="cc-videocard__age" v-if="item.age !== 'undefined' && item.age !== ''">{{ item.age }}</div>
                       </div>
                     </div>
                     <div class="video-card-content">
