@@ -2,7 +2,6 @@
   <div
     @keydown.down="increment"
     @keydown.up="decrement"
-    class="container-width-large"
   >
     <!-- TODO: zoeken wissen -->
     <label class="relative block">Zoek</label>
@@ -38,7 +37,6 @@
             :to="result.item.path"
             class="video-card-horizontal w-inline-block"
           >
-
             <div
               :style="{ backgroundImage: `url('${result.item.image}')`}"
               class="card-horizontal-image"
@@ -58,8 +56,8 @@
               style="padding-top:10px;padding-bottom:10px"
             >
               <h3 style="margin-bottom: 10px;"> {{ result.item.title}}</h3>
-              <p style="margin-bottom: 0;"> {{ result.item.company}}</p>
-              <p style="margin-bottom: 0;"> {{ result.item.recordedAt}}</p>
+              <p style="margin-bottom: 0;" v-if="result.item.company !== 'undefined' && result.item.company !== ''"> {{ result.item.company}}</p>
+              <p style="margin-bottom: 0;" v-if="result.item.recordedAt !== 'undefined' && result.item.recordedAt !== ''"> {{ result.item.recordedAt}}</p>
               <!-- <div class="video-card-length">{{ result.item.video.length }}</div> -->
             </div>
           </g-link>

@@ -6,22 +6,15 @@
 
     <div class="container">
       <h2 class="section-header-border">Video&#x27;s</h2>
-      <div >
+      <div>
 
         <div class="cc-video__vue">
           <div class="container">
-            <div style="padding-left:10px;padding-right:10px;"
->
             <ClientOnly>
-            
-        <cc-search />
-      </ClientOnly>
-</div>
-            <div
-              class="filter__container"
-              style="padding-left:10px;padding-right:10px;"
-            >
+              <cc-search class="section-hero" style="text-align:left;"/>
+            </ClientOnly>
 
+            <div class="section-hero" style="text-align:left;">
               <h6>Doelgroep</h6>
               <div style="display:flex;flex-direction:row;justify-content:start;width:100%">
                 <button
@@ -83,16 +76,28 @@
                     >
                       <div class="video-card-image-inner">
                         <div class="tagline">{{ item.genre }}</div>
-                        <div class="cc-videocard__age" v-if="item.age !== 'undefined' && item.age !== ''">{{ item.age }}</div>
+                        <div
+                          class="cc-videocard__age"
+                          v-if="item.age !== 'undefined' && item.age !== ''"
+                        >{{ item.age }}</div>
                       </div>
                     </div>
                     <div class="video-card-content">
                       <div class="cc-videocard__genre">{{ item.genre }}</div>
                       <h3 class="heading-4">{{ item.title }}</h3>
-                      <div class="cc-videocard__company">{{ item.company }}</div>
-                      <div class="cc-videocard__company">{{ item.recordedAt }}</div>
+                      <div
+                        class="cc-videocard__company"
+                        v-if="item.company !== 'undefined' && item.age !== ''"
+                      >{{ item.company }}</div>
+                      <div
+                        class="cc-videocard__company"
+                        v-if="item.recordedAt !== 'undefined' && item.age !== ''"
+                      >{{ item.recordedAt }}</div>
                       <div class="cc-videocard__spacer"></div>
-                      <div class="cc-videocard__duration">{{ item.videoLength }}</div>
+                      <div
+                        class="cc-videocard__duration"
+                        v-if="item.videoLength !== 'undefined' && item.age !== ''"
+                      >{{ item.videoLength }}</div>
                       <div class="card-play-button-small">
                         <img
                           src="@/assets/images/play.svg"
@@ -170,20 +175,18 @@ const ccSearch = () =>
     /* webpackChunkName: "search" */ "@/components/cc-search"
   ).catch(error => console.warn(error));
 
-
 export default {
   components: {
     ccSearch
   },
   mounted() {
     const items = this.$static.video.edges.map(val => {
-
       return val.node;
     });
 
     const genres = items.reduce(this.setGenres, {});
     /* Convert object to array */
-    
+
     const genresArray = Object.keys(genres).map(function(key) {
       return { name: key, active: true, total: genres[key].total };
     });
@@ -218,7 +221,7 @@ export default {
 
       this.untouchedAudience = true;
       this.untouchedGenres = true;
-      console.log(this.audience,this.genres)
+      console.log(this.audience, this.genres);
       this.filterItems();
     },
     toggleStatus: function(type, key, originalArray, allActive) {
@@ -300,7 +303,7 @@ export default {
       }
     },
     setGenreInactive: function(status, total) {
-      console.log(status, total)
+      console.log(status, total);
       if (this.untouchedGenres) {
         return true;
       }
@@ -332,7 +335,8 @@ export default {
       } else {
         filteredItemsAudience = this.items.filter(item => {
           const audience = this.audience.find(
-            element => element.name.toLowerCase() === item.audience.toLowerCase()
+            element =>
+              element.name.toLowerCase() === item.audience.toLowerCase()
           );
           if (audience) {
             if (audience.active) return item;
@@ -340,16 +344,13 @@ export default {
         });
       }
 
-
       let filteredItemsGenre = [];
 
       const genresArray = this.genres;
       if (this.totalGenresActive === 0) {
         filteredItemsGenre = this.items;
       } else {
-        
         filteredItemsGenre = filteredItemsAudience.filter(item => {
-          
           const genre = genresArray.find(
             element => element.name.toLowerCase() === item.genre.toLowerCase()
           );
@@ -359,10 +360,7 @@ export default {
         });
       }
 
-      
-
       const recountedGenres = filteredItemsAudience.reduce(this.setGenres, {});
-
 
       // Not functional
       const genresToZero = this.genresDefaultObject;
@@ -382,7 +380,7 @@ export default {
       });
 
       const genresArrayCombined = recountedGenresArray.map((item, key) => {
-        if(this.genres[key] === undefined) return { ...item, active: false };
+        if (this.genres[key] === undefined) return { ...item, active: false };
         return { ...item, active: this.genres[key].active };
       });
 
@@ -394,7 +392,6 @@ export default {
       );
 
       this.filteredItems = filteredItems;
-      
     }
   },
 
