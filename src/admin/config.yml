@@ -1,7 +1,6 @@
 backend:
   name: git-gateway
   repo: pmcp/podiumaanhuis
-  branch: master
 
 # when using the default proxy server port
 # To run local backend git: npx netlify-cms-proxy-server
@@ -10,7 +9,7 @@ backend:
 media_folder: "src/assets/uploads"
 public_folder: "/uploads"
 publish_mode: editorial_workflow
-show_preview_links: true
+
 
 collections:
   - name: "pages"
