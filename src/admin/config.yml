@@ -31,13 +31,12 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string", required: false}
-      - {label: "Omschrijving", name: "descr", widget: "string", required: false}
+      - {label: "Omschrijving", name: "descr", widget: "markdown", required: false}
       - {label: "Leeftijd", name: "age", widget: "string", required: false}
       - {label: "Video Link", name: "videoUrl", widget: "string", required: false}
       - {label: "Video Lengte", name: "videoLength", widget: "string", required: false}
       - {label: "Social tekstje", name: "socialDescr", widget: "string", required: false}
       - {label: "Social Afbeelding", name: "socialImage", widget: "image", required: false}
-      - {label: "Info", name: "info", widget: "markdown", required: false}
       - {label: "Opgenomen", name: "recordedAt", widget: "string", required: false}
       - {label: "Company", name: "company", widget: "string", required: false}
       - {label: "Afbeelding", name: "image", widget: "image", required: false}
