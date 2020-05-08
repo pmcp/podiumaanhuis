@@ -6,8 +6,12 @@ backend:
 # To run local backend git: npx netlify-cms-proxy-server
 # local_backend: true
 
-media_folder: "src/assets/uploads"
-public_folder: "/assets/img"
+media_folder: "static/uploads"
+public_folder: "/uploads"
+# media_library:
+#   name: uploadcare
+#   config:
+    # publicKey: 338fd3c82780b606487f
 publish_mode: editorial_workflow
 
 
