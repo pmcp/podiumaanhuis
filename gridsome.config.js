@@ -32,7 +32,7 @@ module.exports = {
       options: {
         path: 'entries/**/*.md',
         typeName: 'entries',
-        // coverField: 'socialImage', // What frontmatter fields to check for image paths fixings
+        coverField: 'image', // What frontmatter fields to check for image paths fixings
         remark: {
           plugins: [
             // 'remark-frontmatter'
@@ -46,12 +46,12 @@ module.exports = {
         publicPath: `/admin`
       }
     },
-    // {
-    //   use: 'gridsome-plugin-netlify-cms-paths',
-    //   options: {
-    //     contentTypes: ['entries', 'MDPages']
-    //   }
-    // }
+    {
+      use: 'gridsome-plugin-netlify-cms-paths',
+      options: {
+        contentTypes: ['entries', 'MDPages']
+      }
+    }
   ],
   templates: {
     entries: [
