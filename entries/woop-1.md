@@ -1,5 +1,5 @@
 ---
 title: woop
 text: asdf
-image: /assets/img/98bf44f0-680d-44a5-abb5-f17c4111886d.jpeg
+image: /uploads/9c7a5be5-c752-4c6e-9919-d47166b12ed7.jpeg
 ---
