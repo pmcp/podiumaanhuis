@@ -1,7 +1,7 @@
 ---
 title: testmaarten
 text: met txt
-image: /assets/img/9c7a5be5-c752-4c6e-9919-d47166b12ed7.jpeg
+image: /assets/img/984c3128-adcb-4ec4-97ad-133077e85360_4_5005_c.jpeg
 recordedAt: sdf
 company: sdgf
 descr: sdfg
@@ -11,5 +11,5 @@ age: sdfg
 videoUrl: https://www.youtube.com/watch?v=WNnTOqgSHQ0
 videoLength: sadf
 socialDescr: asf
-socialImage: /assets/img/9c7a5be5-c752-4c6e-9919-d47166b12ed7.jpeg
+socialImage: /assets/img/4f48bbd1-66ac-479e-8728-7358284d21fb.jpeg
 ---
