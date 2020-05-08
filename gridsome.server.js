@@ -184,8 +184,6 @@ module.exports = function (api) {
        * Get youtube & Vimeo embed urls
        */ 
       if(node.videoUrl != undefined) {
-
-        console.log(node.videoUrl)
         const getIdYoutube = youtubeParser(node.videoUrl)
         if(getIdYoutube) node.videoUrl = `https://www.youtube.com/embed/${getIdYoutube}`
         const getVimeoId = vimeoParser(node.videoUrl)
