@@ -1,3 +1,47 @@
+const showdown  = require('showdown');
+/**
+ * Get the id of the youtube vid
+ */
+function youtubeParser(url) {
+  var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
+  var match = url.match(regExp);
+  return (match && match[7].length == 11) ? match[7] : false;
+}
+
+ 
+/**
+ * Get the id of the Vimeo 
+ */
+function vimeoParser(url) {
+
+  var regExp = /https:\/\/(www\.)?vimeo.com\/(\d+)($|\/)/;
+  var match = url.match(regExp);
+
+  if (match) {
+    return match[2];
+
+  }
+}
+
+/**
+ * Markdown Converter with extra option: external links open in new tab
+ */
+const converter = new showdown.Converter();
+      converter.addExtension(function () {
+        return [{
+            type: 'output',
+            regex: /<a\shref[^>]+>/g,
+            replace : function (text) {
+                var url = text.match(/"(.*?)"/)[1]
+                if(url.includes('podiumaanhuis') || url[0] == '/' || url[0] == '.' || url[0] == '#'){
+                    return text
+                }
+                return '<a href="' + url + '" target="_blank">'
+            }
+        }]
+      }, 'externalLink')
+
+
 module.exports = function (api) {
 
 // {
@@ -119,8 +163,34 @@ module.exports = function (api) {
 
   api.onCreateNode(node => {
     
+    /**
+     * Don't proceed if entry is in draft mode
+     */
     if (node.internal.typeName === 'entries' && node.draft === true) {
       return null
+    }
+
+    /**
+     * Clean some stuff up if this is a video entry
+     */
+    if (node.internal.typeName === 'entries') {
+      /**
+       * Convert all frontmatter  markdown
+       */
+      node.text = converter.makeHtml(node.text);
+      node.descr = converter.makeHtml(node.descr);
+
+      /**
+       * Get youtube & Vimeo embed urls
+       */ 
+      if(node.videoUrl != undefined) {
+
+        console.log(node.videoUrl)
+        const getIdYoutube = youtubeParser(node.videoUrl)
+        if(getIdYoutube) node.videoUrl = `https://www.youtube.com/embed/${getIdYoutube}`
+        const getVimeoId = vimeoParser(node.videoUrl)
+        if(getVimeoId) node.videoUrl = `https://player.vimeo.com/video/${getVimeoId}`
+      }
     }
   })
 }

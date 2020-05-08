@@ -5,7 +5,7 @@
         <div class="video-wrapper-large">
           <div class='embed-container'>
             
-            <iframe scrolling="no" title="Video embed" frameborder="0" allow="autoplay; fullscreen"  :src="embedUrl" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+            <iframe scrolling="no" title="Video embed" frameborder="0" allow="autoplay; fullscreen"  :src="$page.entry.videoUrl" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
           </div>
         </div>
       </div>
@@ -71,62 +71,7 @@ query ($id: ID!) {
 </page-query>
 
 <script>
-
-
-
-
-/**
- * Get the id of the youtube vid
- */
-function youtubeParser(url) {
-  var regExp = /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/;
-  var match = url.match(regExp);
-  return (match && match[7].length == 11) ? match[7] : false;
-}
-
- 
-/**
- * Get the id of the Vimeo 
- */
-function vimeoParser(url) {
-
-  var regExp = /https:\/\/(www\.)?vimeo.com\/(\d+)($|\/)/;
-  var match = url.match(regExp);
-
-  if (match) {
-    return match[2];
-
-  }
-}
-
 export default {
-  computed: {
-    embedUrl() {
-      const getIdYoutube = youtubeParser(this.$page.entry.videoUrl)
-      if(getIdYoutube) return `https://www.youtube.com/embed/${getIdYoutube}`
-      const getVimeoId = vimeoParser(this.$page.entry.videoUrl)
-      if(getVimeoId) return `https://player.vimeo.com/video/${getVimeoId}`
-    }
-  },
-  mounted () {
-    const converter = new showdown.Converter();
-    converter.addExtension(function () {
-      return [{
-          type: 'output',
-          regex: /<a\shref[^>]+>/g,
-          replace : function (text) {
-              var url = text.match(/"(.*?)"/)[1]
-              if(url.includes(window.location.hostname) || url[0] == '/' || url[0] == '.' || url[0] == '#'){
-                  return text
-              }
-              return '<a href="' + url + '" target="_blank">'
-          }
-      }]
-    }, 'externalLink')
-
-    this.$page.entry.text = converter.makeHtml(this.$page.entry.text);
-    this.$page.entry.descr = converter.makeHtml(this.$page.entry.descr);
-  },
   metaInfo() {
     return {
       title: this.$page.entry.title,
