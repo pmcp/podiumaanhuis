@@ -8,19 +8,19 @@
     class="header w-nav"
   >
     <div class="header-container">
-      <a
-        href="/"
-        aria-current="page"
+      <g-link
+        to="/"
+        aria-current="home"
         class="link-block w-inline-block w--current"
       >
         <div class="nav-link cc-homelink">Podium Aan Huis</div>
-      </a>
+      </g-link>
       <nav
         role="navigation"
         class="nav-menu w-nav-menu"
       ><g-link
           to="/"
-          aria-current="page"
+          aria-current="home"
           class="nav-link w--current"
         >Home</g-link>
         <g-link
@@ -55,6 +55,8 @@
         </main>
       </transition>
     </div>
+
+<!-- <cc-videos></cc-videos> -->
 
       <div class="section-3">
     <div class="container">
@@ -92,6 +94,14 @@ query {
 }
 </static-query>
 
+<script>
+// import ccVideos from "~/components/cc-videos.vue";
+export default {
+  components: {
+    // ccVideos,
+  },
+}
+</script>
 <style>
 .fade-enter-active {
   transition: opacity .5s;

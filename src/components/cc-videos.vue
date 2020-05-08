@@ -228,7 +228,6 @@ export default {
 
       this.untouchedAudience = true;
       this.untouchedGenres = true;
-      console.log(this.audience, this.genres);
       this.filterItems();
     },
     toggleStatus: function(type, key, originalArray, allActive) {
@@ -310,7 +309,7 @@ export default {
       }
     },
     setGenreInactive: function(status, total) {
-      console.log(status, total);
+
       if (this.untouchedGenres) {
         return true;
       }

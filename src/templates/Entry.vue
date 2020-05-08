@@ -1,5 +1,5 @@
 <template>
-  <Layout> 
+  <div>
     <div class="section">
       <div class="cc-container">
         <div class="video-wrapper-large">
@@ -44,10 +44,7 @@
         </div>
       </div>
     </div>
-
-
-    <cc-videos></cc-videos>
-  </Layout>
+  </div>
 </template>
 
 <page-query>
@@ -102,12 +99,7 @@ function vimeoParser(url) {
   }
 }
 
-
-import ccVideos from "~/components/cc-videos.vue";
 export default {
-  components: {
-    ccVideos
-  },
   computed: {
     embedUrl() {
       const getIdYoutube = youtubeParser(this.$page.entry.videoUrl)
