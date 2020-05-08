@@ -40,6 +40,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Titel", name: "title", widget: "string", required: false}
+      - {label: "Draft", name: "draft", widget: "boolean", default: true}
       - {label: "text", name: "text", widget: "markdown", required: false}      
       - {label: "Afbeelding", name: "image", widget: "image", required: false} 
       - {label: "Opgenomen", name: "recordedAt", widget: "string", required: false}
