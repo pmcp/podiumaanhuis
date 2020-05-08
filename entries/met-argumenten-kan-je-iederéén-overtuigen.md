@@ -27,7 +27,7 @@ text: >-
 
 
   Opname video door[ Beeldstorm](www.beeldstorm.be) o.l.v. Jan Bosteels
-image: /assets/img/localhost_8080_voorstellingen_berg-all-panes-2020-05-06-08-22-17.png
+image: /assets/img/lazarus_metargumenten.jpg
 company: LAZARUS
 descr: |-
   
@@ -47,5 +47,5 @@ socialDescr: "Zo niet snijden we je hoofd eraf, sorry   Koen De Graeve en
   die alles heeft geschapen, wie heeft God dan geschapen?'   Dit en nog veel
   meer in een voorstelling waar niemand minder dan Richard Dawkins graag was
   naar komen kijken, 'als er een Engelstalige ondertiteling was voorzien.*'"
-socialImage: /uploads/lazarus_metargumenten.jpg
+socialImage: /uploads/localhost_8080_voorstellingen_berg-all-panes-2020-05-06-08-22-17.png
 ---
