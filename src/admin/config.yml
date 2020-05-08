@@ -12,7 +12,7 @@ public_folder: "/uploads"
 #   name: uploadcare
 #   config:
     # publicKey: 338fd3c82780b606487f
-publish_mode: editorial_workflow
+# publish_mode: editorial_workflow
 
 
 collections:
