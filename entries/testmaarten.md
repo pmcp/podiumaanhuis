@@ -1,7 +1,7 @@
 ---
 title: testmaarten
 text: met txt
-image: /assets/img/984c3128-adcb-4ec4-97ad-133077e85360_4_5005_c.jpeg
+image: https://ucarecdn.com/32e0a5f7-439b-4b27-ab56-eabab567732b/-/crop/3024x2174/0,923/-/preview/
 recordedAt: sdf
 company: sdgf
 descr: sdfg
