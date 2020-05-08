@@ -72,15 +72,21 @@
                   > -->
                     <div
                       class="video-card-image-wrapper"
-                      :style="{ backgroundImage: `url('${item.image}')`}"
+                      style="position:relative"
                     >
-                      <div class="video-card-image-inner">
+                    
+                    <g-image v-if="item.imageDownloaded" :src="item.imageDownloaded" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
+                    <g-image v-else :src="item.image" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
+
+                      <div class="video-card-image-inner" style="position:relative">
                         <div class="tagline">{{ item.genre }}</div>
                         <div
                           class="cc-videocard__age"
                           v-if="item.age !== 'undefined' && item.age !== ''"
                         >{{ item.age }}</div>
                       </div>
+
+                      
                     </div>
                     <div class="video-card-content">
                       <div class="cc-videocard__genre">{{ item.genre }}</div>
@@ -159,6 +165,7 @@ query {
         descr,
         recordedAt,
         image,
+        imageDownloaded,
         text,
         genre,
         audience,

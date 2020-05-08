@@ -51,7 +51,16 @@ module.exports = {
       options: {
         contentTypes: ['entries', 'MDPages']
       }
-    }
+    },
+    {
+      use: '@noxify/gridsome-plugin-remote-image',
+      options: {
+        'typeName' : 'entries',
+        'sourceField': 'image',
+        'targetField': 'imageDownloaded',
+        'targetPath': './src/assets/remoteImages'
+      }
+    },
   ],
   templates: {
     entries: [

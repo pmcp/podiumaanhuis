@@ -38,10 +38,11 @@
             class="video-card-horizontal w-inline-block"
           >
             <div
-              :style="{ backgroundImage: `url('${result.item.image}')`}"
               class="card-horizontal-image"
+              style="position:relative"
             >
-              <div class="card-horizontal-image-inner">
+              <g-image :src="result.item.image" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;" />
+              <div class="card-horizontal-image-inner" style="position:relative">
                 <!-- <div class="play-button small"><img
                     src="@/assets/images/play.svg"
                     alt=""
