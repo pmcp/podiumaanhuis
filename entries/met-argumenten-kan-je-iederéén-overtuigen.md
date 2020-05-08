@@ -27,7 +27,7 @@ text: >-
 
 
   Opname video door[ Beeldstorm](www.beeldstorm.be) o.l.v. Jan Bosteels
-image: /assets/img/localhost_8080_voorstellingen_berg-all-panes-2020-05-06-08-22-17.png
+image: /assets/img/lazarus_metargumenten.jpg
 company: LAZARUS
 descr: |-
   
