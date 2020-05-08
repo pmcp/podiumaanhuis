@@ -1,6 +1,9 @@
 <template>
   <Layout> 
-
+    <g-image
+      :src="$page.entry.image"
+      width="1500"
+    /> 
     <div class="section">
       <div class="cc-container">
         <div class="video-wrapper-large">
