@@ -4,7 +4,7 @@
     class="section ccsection--videos"
   >
 
-      <div v-if="filteredItems.length === 0">
+        <div v-if="filteredItems.length === 0">
         Voorstellingen ophalen...
       </div>
     <div v-else class="container">
@@ -79,7 +79,9 @@
                     >
                     
                     <g-image v-if="item.imageDownloaded" :src="item.imageDownloaded" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
-                    <g-image v-else :src="item.image" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
+                    <g-image v-if="item.image" :src="item.image" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
+                    <!-- TODO: add placeholder image -->
+                    
 
                       <div class="video-card-image-inner" style="position:relative">
                         <div class="tagline">{{ item.genre }}</div>
