@@ -164,11 +164,11 @@ module.exports = function (api) {
   api.onCreateNode(node => {
     
     /**
-     * Don't proceed if entry is in draft mode
+     * Don't proceed if entry is in draft mode -> Not used in staging.
      */
-    if (node.internal.typeName === 'entries' && node.draft === true) {
-      return null
-    }
+    // if (node.internal.typeName === 'entries' && node.draft === true) {
+    //   return null
+    // }
 
     /**
      * Clean some stuff up if this is a video entry
