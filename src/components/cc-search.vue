@@ -117,24 +117,9 @@ export default {
       return fuse.search(this.query).slice(0, 15);
     },
     headings() {
-      let result = [];
-
+      let result = []
       const allPages = this.$static.video.edges.map(edge => edge.node);
-
       return allPages;
-      // Create the array of all headings of all pages.
-      // allPages.forEach(page => {
-      //   result = [...result, {
-      //     title: page.title,
-      //     slug: page.slug }]
-      //   // page.headings.forEach(heading => {
-      //   //   result.push({
-      //   //     ...heading,
-      //   //     path: page.path,
-      //   //     title: page.title
-      //   //   });
-      //   // });
-      // });
       return result;
     },
     showResult() {
