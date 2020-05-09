@@ -1,5 +1,7 @@
 ---
 title: Met argumenten kan je iederéén overtuigen
+draft: false
+publishDate: 2020-05-09T11:45:51.145Z
 text: >-
   Zo niet snijden we je hoofd eraf, sorry 
 
@@ -47,5 +49,5 @@ socialDescr: "Zo niet snijden we je hoofd eraf, sorry   Koen De Graeve en
   die alles heeft geschapen, wie heeft God dan geschapen?'   Dit en nog veel
   meer in een voorstelling waar niemand minder dan Richard Dawkins graag was
   naar komen kijken, 'als er een Engelstalige ondertiteling was voorzien.*'"
-socialImage: /assets/img/lazarus_metargumenten.jpg
+socialImage: uploads/lazarus_metargumenten.jpg
 ---
