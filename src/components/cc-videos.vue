@@ -155,10 +155,11 @@
 
 <static-query>
 query {
-  video: allEntries {
+  video: allEntries(sortBy:"publishDate") {
     edges {
       node {
         path,
+        publishDate,
         id,
         title,
         descr,

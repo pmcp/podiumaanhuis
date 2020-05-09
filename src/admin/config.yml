@@ -4,7 +4,7 @@ backend:
 
 # when using the default proxy server port
 # To run local backend git: npx netlify-cms-proxy-server
-# local_backend: true
+local_backend: true
 
 media_folder: "static/uploads"
 public_folder: "uploads"
@@ -41,6 +41,9 @@ collections:
     fields:
       - {label: "Titel", name: "title", widget: "string", required: false}
       - {label: "Draft", name: "draft", widget: "boolean", default: true}
+      - label: 'Publish Date'
+        name: 'publishDate'
+        widget: 'datetime'
       - {label: "text", name: "text", widget: "markdown", required: false}      
       - {label: "Afbeelding", name: "image", widget: "image", required: false} 
       - {label: "Opgenomen", name: "recordedAt", widget: "string", required: false}
