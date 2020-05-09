@@ -41,14 +41,14 @@
               class="card-horizontal-image"
               style="position:relative"
             >
-              <g-image :src="result.item.image" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;" />
+              
+            <g-image v-if="result.item.imageDownloaded" :src="result.item.imageDownloaded" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
+            <g-image v-else-if="result.item.image" :src="result.item.image" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
+            <!-- TODO: add placeholder image -->
+            <div v-else style="position:absolute;height: 100%;width: 100%;object-fit: cover;"></div>
+                    
               <div class="card-horizontal-image-inner" style="position:relative">
-                <!-- <div class="play-button small"><img
-                    src="@/assets/images/play.svg"
-                    alt=""
-                    class="icon-small"
-                  >
-                </div> -->
+ 
               </div>
             </div>
 
