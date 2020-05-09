@@ -4,7 +4,10 @@
     class="section ccsection--videos"
   >
 
-    <div class="container">
+      <div v-if="filteredItems.length === 0">
+        Voorstellingen ophalen...
+      </div>
+    <div v-else class="container">
       <h2 class="section-header-border">Video&#x27;s</h2>
       <div>
 
