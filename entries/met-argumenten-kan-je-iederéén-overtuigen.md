@@ -29,7 +29,7 @@ text: >-
 
 
   Opname video door[ Beeldstorm](www.beeldstorm.be) o.l.v. Jan Bosteels
-image: uploads/lazarus_metargumenten1.jpg
+image: /uploads/9f5bfce7-99ea-4a11-9dcc-a8b3a00386ca.jpeg
 company: LAZARUS
 descr: |-
   
