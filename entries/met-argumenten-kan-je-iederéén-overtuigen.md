@@ -15,8 +15,6 @@ text: >-
   \*quote van Richard Dawkins, Brits evolutiebioloog en auteur van o.a. ‘The God Delusion’, tijdens de ontmoeting die we met hem hadden, na het debat ‘science and reason’ op 26/01/2015, waar we trouwens ook Lawrence Krauss hebben ontmoet, Amerikaans fysicus en kosmoloog, en auteur van ‘Universum uit het niets’, waarbij we toch duidelijk willen maken, dat het niet is omdat beide inspiratiebronnen atheïst zijn, dat onze voorstelling niet geschikt zou zijn voor mensen die wel geloven, komaan, waar beticht je ons van zeg, dat we te pamflettair zijn, je hebt nog niet eens de voorstelling gezien, je bent alleen nog maar de aankondigingstekst aan het lezen, ben je ook zo bevooroordeeld tegenover je eigen kinderen, als die euh... een verhaal vertellen van wat ze hebben meegemaakt, denk je dan ook op voorhand, we zullen dat maar met een korreltje zout nemen, is dat hoe je denkt over opvoeden, want blijkbaar ken je het antwoord al nog voor de vraag is gesteld, wat bovendien het grootste probleem is van elke religie, dus eigenlijk trap je in de zelfde val, en dat ondanks het feit dat je diep van binnen weet, geef gewoon toe, dat wij allemaal, zonder uitzondering, een toevallig product zijn van een chemisch proces, dat twee miljard jaar geleden begon, op een kleine planeet, in een zonnestelsel dat deel uitmaakt van een sterrenstelsel waar er meer dan 400 miljard van zijn in een universum waar er wellicht ook miljarden van zijn, godverdomme.
 
 
-
-
   ##### Credits
 
    tekst en spel: Koen De Graeve en Günther Lesage 
@@ -31,7 +29,7 @@ text: >-
 
 
   Opname video door[ Beeldstorm](www.beeldstorm.be) o.l.v. Jan Bosteels
-image: /uploads/9f5bfce7-99ea-4a11-9dcc-a8b3a00386ca.jpeg
+image: /uploads/95f8d292-2e95-4143-a0f8-ad7331c210d0.jpeg
 company: LAZARUS
 descr: |-
   
