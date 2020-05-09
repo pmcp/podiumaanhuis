@@ -32,7 +32,7 @@ module.exports = {
       options: {
         path: 'entries/**/*.md',
         typeName: 'entries',
-        coverField: 'image', // What frontmatter fields to check for image paths fixings
+        // coverField: 'image', // What frontmatter fields to check for image paths fixings
         remark: {
           plugins: [
             // 'remark-frontmatter'
