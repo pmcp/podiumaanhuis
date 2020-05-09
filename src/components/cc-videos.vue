@@ -4,7 +4,7 @@
     class="section ccsection--videos"
   >
 
-        <div v-if="filteredItems.length === 0">
+        <div v-if="filteredItems.length === 0"  style="text-align:center;">
         Voorstellingen ophalen...
       </div>
     <div v-else class="container">
