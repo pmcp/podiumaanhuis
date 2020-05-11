@@ -6,6 +6,8 @@ intro: Bekijk gratis opnames van straffe podiumvoorstellingen voor jong en oud.
   ontspannen. Door de coronacrisis is de magie van de live beleving even
   onbereikbaar. Geen nood, want als de zalen moeten sluiten, dan komt de
   voorstelling gewoon naar je toe. Veel kijkplezier!
+notificationActive: true
+notificationText: Tekst voor notificatie en  de [link](https://forms.gle/nFeJM4smD1UrfzSG6)
 heroImage: /uploads/5ea155fec9fa38ac66d1a5b9_zonzo_slumberland-c-dries-segers_banner.jpg
 heroCredit: |-
   Beeld uit Slumberland, Zonzo Compagnie\
