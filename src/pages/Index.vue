@@ -25,8 +25,12 @@
         <div class="section-hero">
           <h2 class="cc-heading--left">{{ $page.home.title }}</h2>
           <p class="paragraph">{{ $page.home.intro }}</p>
+          <!-- {{ $page.home.notificationText }} -->
+          <cc-notification v-if="$page.home.notificationActive" :inner="$page.home.notificationText" />
         </div>
+        
       </div>
+      
     </div>
   </div>
 </template>
@@ -42,7 +46,9 @@
       heroImage,
       heroCredit,
       formTitle,
-      formText
+      formText,
+      notificationActive,
+      notificationText
     }
   }	
 </page-query>
@@ -51,7 +57,11 @@
 
 
 <script>
+import ccNotification from '@/components/cc-notification.vue';
 export default {
+  components: {
+    ccNotification,
+  },
   metaInfo() {
     return {
       title: 'Podium Aan Huis',

@@ -163,6 +163,12 @@ module.exports = function (api) {
 
   api.onCreateNode(node => {
     
+    if(node.id === '7e4b4855d8becbeb699c887ba0c2fc82') {
+      node.notificationText = converter.makeHtml(node.notificationText);
+    }
+    // if (node.internal.typeName === 'entries') {
+
+    // }
     /**
      * Don't proceed if entry is in draft mode -> Not used in staging.
      */
