@@ -56,7 +56,7 @@
                   :class="{'cc-button--inActive': setGenreInactive(genre.active, genre.total)  }"
                   style="margin-right:10px;margin-bottom:10px;font-weight:400"
                 >
-                  {{ genre.name }} ({{ genre.total }}
+                  {{ genre.name }} ({{ genre.total }})
                 </button>
               </div>
               <button
@@ -221,9 +221,13 @@ export default {
     ccLoader
   },
   mounted() {
-    this.allItems = this.$static.video.edges.map(val => {
-      return val.node;
+    const allItemsSimplified = this.$static.video.edges.map(val => {
+        return val.node;
     });
+
+    // Filter out undefined genres
+    this.allItems = allItemsSimplified.filter(val => val.genre !== "")
+
 
     const genres = this.allItems.reduce(this.setGenres, {});
     /* Convert object to array */
@@ -239,6 +243,7 @@ export default {
   },
   methods: {
     setGenres: function(acc, item) {
+      console.log(acc, item)
       const genre = item.genre;
       let total = 0;
       if (acc[genre]) {
