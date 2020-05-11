@@ -9,10 +9,11 @@ intro: Bekijk gratis opnames van straffe podiumvoorstellingen voor jong en oud.
 notificationActive: true
 notificationText: Ellens Tekst voor notificatie en  de
   [link](https://forms.gle/nFeJM4smD1UrfzSG6)
-heroImage: /uploads/5ea155fec9fa38ac66d1a5b9_zonzo_slumberland-c-dries-segers_banner.jpg
+heroImage: /uploads/4hoog_banner.jpg
 heroCredit: |-
-  Beeld uit Slumberland, Zonzo Compagnie\
-  © Dries Segers
+  Beeld uit Keik, 4 Hoog
+
+  © Driess Segers
 formTitle: Leun rustig achterover en geniet van de voorstelling!
 formText: >-
   We horen graag jouw feedback! Laat gerust een berichtje achter.
