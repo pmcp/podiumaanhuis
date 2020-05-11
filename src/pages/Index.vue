@@ -21,7 +21,7 @@
           </div>
         </div>
       </div>
-      <div class="container hero-container">
+      <div class="container hero-container" style="margin-bottom:0;">
         <div class="section-hero">
           <h2 class="cc-heading--left">{{ $page.home.title }}</h2>
           <p class="paragraph">{{ $page.home.intro }}</p>
