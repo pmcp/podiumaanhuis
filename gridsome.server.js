@@ -163,7 +163,7 @@ module.exports = function (api) {
 
   api.onCreateNode(node => {
     
-    if(node.id === '7e4b4855d8becbeb699c887ba0c2fc82') {
+    if(node.id === 'eae09f9aaa3a0e32f072f0955457f7e2') {
       node.notificationText = converter.makeHtml(node.notificationText);
     }
     // if (node.internal.typeName === 'entries') {

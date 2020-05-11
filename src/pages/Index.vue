@@ -7,7 +7,7 @@
       <div class="container w-container">
         <div class="rounded">
           <g-image
-            :src="heroImage"
+            :src="$page.home.heroImage.src"
             width="1500"
           />
         </div>
@@ -27,9 +27,7 @@
           <p class="paragraph">{{ $page.home.intro }}</p>
           <cc-notification v-if="$page.home.notificationActive" :inner="$page.home.notificationText" />
         </div>
-        
       </div>
-      
     </div>
   </div>
 </template>
@@ -37,7 +35,7 @@
 
 <page-query>
   query {
-    home: mdPages(id: "7e4b4855d8becbeb699c887ba0c2fc82") {
+    home: homepages(id: "eae09f9aaa3a0e32f072f0955457f7e2") {
       title
       id,
       content,
@@ -45,9 +43,7 @@
       heroImage,
       heroCredit,
       formTitle,
-      formText,
-      notificationActive,
-      notificationText
+      formText
     }
   }	
 </page-query>
@@ -70,7 +66,7 @@ export default {
         { name: "twitter:description", content: this.$page.home.intro},
         { name: "twitter:title", content: 'Podium Aan Huis' },
         // TODO: make a computed of this: if no social image, get thumbnail?
-        { name: "twitter:image", content: this.heroImage },
+        { name: "twitter:image", content: $page.home.heroImage.src },
         { property: "og:type", content: "article" },
         { property: "og:title", content: 'Podium Aan Huis' },
         { property: "og:description", content: this.$page.home.intro },
@@ -83,16 +79,16 @@ export default {
         //   content: moment(this.$page.post.date).format("MM-DD-YYYY")
         // },
         // { property: "og:updated_time", content: this.$page.post.date },
-        { property: "og:image", content: this.heroImage },
-        { property: "og:image:secure_url", content: this.heroImage }
+        { property: "og:image", content: $page.home.heroImage.src },
+        { property: "og:image:secure_url", content: $page.home.heroImage.src }
       ]
       // script: [{ src: "https://platform.twitter.com/widgets.js" }]
     };
   },
   computed: {
-    heroImage() {
-      return require("~/assets" + this.$page.home.heroImage);
-    }
+    // heroImage() {
+    //   return require("~/assets" + this.$page.home.heroImage);
+    // }
   }
 };
 </script>
