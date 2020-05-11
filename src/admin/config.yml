@@ -63,7 +63,7 @@ collections:
     files:
       - label: "Home"
         name: "home"
-        file: "pages/home.md"
+        file: "homepage/home.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: markdown}

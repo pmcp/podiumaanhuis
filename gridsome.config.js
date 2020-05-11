@@ -22,6 +22,18 @@ module.exports = {
       options: {
         path: 'pages/**/*.md',
         typeName: 'MDPages',
+        coverField: 'image', // What frontmatter fields to check for image paths fixings
+        remark: {
+          // remark options
+        }
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'homepage/home.md',
+        typeName: 'homepages',
+        coverField: 'heroImage', // What frontmatter fields to check for image paths fixings
         remark: {
           // remark options
         }
