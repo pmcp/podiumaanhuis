@@ -3,12 +3,11 @@
     id="videos"
     class="section ccsection--videos"
   >
-
     <div
       v-if="filteredItems.length === 0"
       style="text-align:center;"
     >
-      Voorstellingen ophalen...
+      <cc-loader></cc-loader>
     </div>
     <div
       v-else
@@ -215,10 +214,11 @@ const ccSearch = () =>
   import(
     /* webpackChunkName: "search" */ "@/components/cc-search"
   ).catch(error => console.warn(error));
-
+import ccLoader from "~/components/cc-loader.vue";
 export default {
   components: {
-    ccSearch
+    ccSearch,
+    ccLoader
   },
   mounted() {
     const items = this.$static.video.edges.map(val => {

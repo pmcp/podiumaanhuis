@@ -44,7 +44,6 @@
           data-duration="0"
           class="menu-icon"
         ></div>
-        
       </div>
     </div>
     </div>
@@ -94,14 +93,6 @@ query {
 }
 </static-query>
 
-<script>
-// import ccVideos from "~/components/cc-videos.vue";
-export default {
-  components: {
-    // ccVideos,
-  },
-}
-</script>
 <style>
 .fade-enter-active {
   transition: opacity .5s;

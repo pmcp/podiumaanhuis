@@ -1,10 +1,9 @@
 <template>
   <div>
     <div class="section">
-      <div class="cc-container">
-        <div class="video-wrapper-large">
+      <div class="cc-container" >
+        <div class="video-wrapper-large" style="background-color:#e8edf4">
           <div class='embed-container'>
-            
             <iframe scrolling="no" title="Video embed" frameborder="0" allow="autoplay; fullscreen"  :src="$page.entry.videoUrl" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
           </div>
         </div>

@@ -4347,7 +4347,7 @@ figcaption {
     display: flex;
     padding-top: 18px;
     padding-bottom: 18px;
-    border-bottom: 2px solid #e8edf4;
+    /* border-bottom: 2px solid #e8edf4; */
     font-size: 22px;
     font-weight: 800;
   }
