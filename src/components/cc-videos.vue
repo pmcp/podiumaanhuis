@@ -243,7 +243,6 @@ export default {
   },
   methods: {
     setGenres: function(acc, item) {
-      console.log(acc, item)
       const genre = item.genre;
       let total = 0;
       if (acc[genre]) {
