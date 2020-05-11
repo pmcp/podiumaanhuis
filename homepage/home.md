@@ -7,8 +7,11 @@ intro: Bekijk gratis opnames van straffe podiumvoorstellingen voor jong en oud.
   onbereikbaar. Geen nood, want als de zalen moeten sluiten, dan komt de
   voorstelling gewoon naar je toe. Veel kijkplezier!
 notificationActive: true
-notificationText: Ellens Tekst voor notificatie en  de
-  [link](https://forms.gle/nFeJM4smD1UrfzSG6)
+notificationText: Momenteel onderzoeken we hoe we Podium aan Huis kunnen
+  verderzetten in zijn huidige of gewijzigde vorm. Daarom hebben we 5 minuten
+  van jouw tijd nodig.
+  [Vertel](https://docs.google.com/forms/d/e/1FAIpQLSfU7hyzMG3I8w7zFWIZO-VgBfl-dTa1FW0oqUZT4OPU377WPg/viewform?usp=sf_link)
+  ons hoe jij Podium aan Huis gebruikt.
 heroImage: /uploads/5ea155fec9fa38ac66d1a5b9_zonzo_slumberland-c-dries-segers_banner.jpg
 heroCredit: |-
   Beeld uit Keik, 4 Hoog
