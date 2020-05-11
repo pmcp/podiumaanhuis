@@ -126,16 +126,16 @@
                       <h3 class="heading-4">{{ item.title }}</h3>
                       <div
                         class="cc-videocard__company"
-                        v-if="item.company !== 'undefined' && item.age !== ''"
+                        v-if="item.company !== 'undefined' && item.company !== ''"
                       >{{ item.company }}</div>
                       <div
                         class="cc-videocard__company"
-                        v-if="item.recordedAt !== 'undefined' && item.age !== ''"
+                        v-if="item.recordedAt !== 'undefined' && item.recordedAt !== ''"
                       >{{ item.recordedAt }}</div>
                       <div class="cc-videocard__spacer"></div>
                       <div
                         class="cc-videocard__duration"
-                        v-if="item.videoLength !== 'undefined' && item.age !== ''"
+                        v-if="item.videoLength !== 'undefined' && item.videoLength !== ''"
                       >{{ item.videoLength }}</div>
                       <div class="card-play-button-small">
                         <img
