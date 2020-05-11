@@ -29,7 +29,10 @@ text: >-
   live muziek: Gerrit Valckenaers, Youri Van Uffelen en Trĳn Janssens 
 
 
-  research en dramaturgie Els Theunis captatie Beeldstorm
+  research en dramaturgie: Els Theunis 
+
+
+  Opname video door [Beeldstorm](www.beeldstorm.be) o.l.v. Jan Bosteels.
 image: /uploads/nieuwstedelijk_hebzucht.jpg
 recordedAt: Opname in 30cc, Leuven
 company: Het nieuwstedelijk
