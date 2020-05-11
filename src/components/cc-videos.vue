@@ -4,20 +4,32 @@
     class="section ccsection--videos"
   >
 
-        <div v-if="filteredItems.length === 0"  style="text-align:center;">
-        Voorstellingen ophalen...
-      </div>
-    <div v-else class="container">
+    <div
+      v-if="filteredItems.length === 0"
+      style="text-align:center;"
+    >
+      Voorstellingen ophalen...
+    </div>
+    <div
+      v-else
+      class="container"
+    >
       <h2 class="section-header-border">Video&#x27;s</h2>
       <div>
 
         <div class="cc-video__vue">
           <div class="container">
             <ClientOnly>
-              <cc-search class="section-hero" style="text-align:left;"/>
+              <cc-search
+                class="section-hero"
+                style="text-align:left;"
+              />
             </ClientOnly>
 
-            <div class="section-hero" style="text-align:left;">
+            <div
+              class="section-hero"
+              style="text-align:left;"
+            >
               <h6>Doelgroep</h6>
               <div style="display:flex;flex-direction:row;justify-content:start;width:100%">
                 <button
@@ -77,14 +89,30 @@
                       class="video-card-image-wrapper"
                       style="position:relative"
                     >
-                    
-                    <g-image v-if="item.imageDownloaded" :src="item.imageDownloaded" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
-                    <g-image v-else-if="item.image" :src="item.image" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
-                    <!-- TODO: add placeholder image -->
-                    <div v-else style="position:absolute;height: 100%;width: 100%;object-fit: cover;"></div>
-                    
+                      <g-image
+                        v-if="item.imageDownloaded"
+                        :src="item.imageDownloaded"
+                        width="400"
+                        height="300"
+                        style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
+                      />
+                      <g-image
+                        v-else-if="item.image"
+                        :src="item.image"
+                        width="400"
+                        height="300"
+                        style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
+                      />
+                      <!-- TODO: add placeholder image -->
+                      <div
+                        v-else
+                        style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
+                      ></div>
 
-                      <div class="video-card-image-inner" style="position:relative">
+                      <div
+                        class="video-card-image-inner"
+                        style="position:relative"
+                      >
                         <div class="tagline">{{ item.genre }}</div>
                         <div
                           class="cc-videocard__age"
@@ -92,7 +120,6 @@
                         >{{ item.age }}</div>
                       </div>
 
-                      
                     </div>
                     <div class="video-card-content">
                       <div class="cc-videocard__genre">{{ item.genre }}</div>
@@ -316,7 +343,6 @@ export default {
       }
     },
     setGenreInactive: function(status, total) {
-
       if (this.untouchedGenres) {
         return true;
       }
