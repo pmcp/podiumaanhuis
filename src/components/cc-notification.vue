@@ -23,15 +23,14 @@ props: {
   padding: 10px 10px;
   border-radius: 10px;
   background-color: #fc2d75;
-  color: #fff;
   text-align: left;
 }
-.cc-notification p, a {
+.cc-notification > p, .cc-notification a {
   color: #fff;
   margin-bottom: 0;
 }
 
-.cc-notification a:hover {
+.cc-notification > a:hover {
   color: #fff;
 }
 </style>

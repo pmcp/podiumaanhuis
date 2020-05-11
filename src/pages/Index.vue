@@ -25,7 +25,6 @@
         <div class="section-hero">
           <h2 class="cc-heading--left">{{ $page.home.title }}</h2>
           <p class="paragraph">{{ $page.home.intro }}</p>
-          <!-- {{ $page.home.notificationText }} -->
           <cc-notification v-if="$page.home.notificationActive" :inner="$page.home.notificationText" />
         </div>
         
