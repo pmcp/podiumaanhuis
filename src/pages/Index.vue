@@ -66,7 +66,7 @@ export default {
         { name: "twitter:description", content: this.$page.home.intro},
         { name: "twitter:title", content: 'Podium Aan Huis' },
         // TODO: make a computed of this: if no social image, get thumbnail?
-        { name: "twitter:image", content: $page.home.heroImage.src },
+        { name: "twitter:image", content: this.$page.home.heroImage.src },
         { property: "og:type", content: "article" },
         { property: "og:title", content: 'Podium Aan Huis' },
         { property: "og:description", content: this.$page.home.intro },
@@ -79,8 +79,8 @@ export default {
         //   content: moment(this.$page.post.date).format("MM-DD-YYYY")
         // },
         // { property: "og:updated_time", content: this.$page.post.date },
-        { property: "og:image", content: $page.home.heroImage.src },
-        { property: "og:image:secure_url", content: $page.home.heroImage.src }
+        { property: "og:image", content: this.$page.home.heroImage.src },
+        { property: "og:image:secure_url", content: this.$page.home.heroImage.src }
       ]
       // script: [{ src: "https://platform.twitter.com/widgets.js" }]
     };
