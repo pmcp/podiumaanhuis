@@ -424,18 +424,20 @@ export default {
       const recountedGenres = filteredItemsAudience.reduce(this.setGenres, {});
 
       // What is this again
-      // const genresToZero = this.genresDefaultObject;
-      // for (let key in genresToZero) {
-      //   if (genresToZero.hasOwnProperty(key)) {
-      //     genresToZero[key].total = 0;
-      //   }
-      // }
+      const genresToZero = this.genresDefaultObject;
+      for (let key in genresToZero) {
+        if (genresToZero.hasOwnProperty(key)) {
+          genresToZero[key].total = 0;
+        }
+      }
 
       // the recounted genres don't have the non active genres, so add this again
       const combinedGenres = {
-        ...this.genresDefaultObject,
+        ...genresToZero,
         ...recountedGenres
       };
+
+      console.log(recountedGenres )
 
       // Turn combinedGenres object into an array
       const recountedGenresArray = Object.keys(combinedGenres).map(key => {
