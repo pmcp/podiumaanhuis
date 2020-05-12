@@ -6,7 +6,7 @@
         <div class="rounded">
           
           <g-image
-            :src="heroImage"
+            :src="$page.home.heroImage.src"
             width="1500"
           />
         </div>  
@@ -40,7 +40,7 @@
 
 <page-query>
   query {
-    home: mdPages(id: "7e4b4855d8becbeb699c887ba0c2fc82") {
+    home: homepages(id: "eae09f9aaa3a0e32f072f0955457f7e2") {
       title
       id,
       content,
@@ -71,7 +71,7 @@ export default {
         { name: "twitter:description", content: this.$page.home.intro },
         { name: "twitter:title", content: "Podium Aan Huis" },
         // TODO: make a computed of this: if no social image, get thumbnail?
-        { name: "twitter:image", content: this.heroImage },
+        { name: "twitter:image", content: this.$page.home.heroImage.src },
         { property: "og:type", content: "article" },
         { property: "og:title", content: "Podium Aan Huis" },
         { property: "og:description", content: this.$page.home.intro },
@@ -94,10 +94,9 @@ export default {
     };
   },
   computed: {
-    heroImage() {
-      return require("~/assets" + this.$page.home.heroImage);
-    }
+    // heroImage() {
+    //   return require("~/assets" + this.$page.home.heroImage);
+    // }
   }
 };
 </script>
-

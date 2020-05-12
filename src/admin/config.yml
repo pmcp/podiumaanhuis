@@ -63,10 +63,12 @@ collections:
     files:
       - label: "Home"
         name: "home"
-        file: "pages/home.md"
+        file: "homepage/home.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: markdown}
+          - {label: "Notificatie Actief", name: "notificationActive", widget: "boolean", default: false}
+          - {label: Notificatie - Tekst, name: notificationText, widget: markdown}
           - {label: Hoofdafbeelding, name: heroImage, widget: image}
           - {label: Hoofdafbeelding - Credit, name: heroCredit, widget: markdown}
           - {label: Formulier - Titel, name: formTitle, widget: string}

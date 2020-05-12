@@ -29,7 +29,7 @@ text: >-
 
 
   Opname video door[ Beeldstorm](www.beeldstorm.be) o.l.v. Jan Bosteels
-image: uploads/lazarus_metargumenten1.jpg
+image: /uploads/lazarus_metargumenten2.jpg
 company: LAZARUS
 descr: |-
   
@@ -49,5 +49,5 @@ socialDescr: "Zo niet snijden we je hoofd eraf, sorry   Koen De Graeve en
   die alles heeft geschapen, wie heeft God dan geschapen?'   Dit en nog veel
   meer in een voorstelling waar niemand minder dan Richard Dawkins graag was
   naar komen kijken, 'als er een Engelstalige ondertiteling was voorzien.*'"
-socialImage: uploads/lazarus_metargumenten1.jpg
+socialImage: /uploads/lazarus_metargumenten2.jpg
 ---

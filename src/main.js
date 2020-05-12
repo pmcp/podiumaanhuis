@@ -38,8 +38,7 @@ export default function (Vue, { router, head, isClient }) {
   }),
   // Script that checks if logged in and sends user to admin screen of Netlify CMS (/admin)
   head.script.push({
-    innerHTML: `console.log(window.netlifyIdentity)
-    if (window.netlifyIdentity) {
+    innerHTML: `if (window.netlifyIdentity) {
       window.netlifyIdentity.on("init", user => {
         if (!user) {
           console.log(user)
