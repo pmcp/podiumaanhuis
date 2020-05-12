@@ -161,7 +161,17 @@ export default {
 </script>
 
 <style>
-.search--focused {
-  background-color: red;
+.cc-video-card-image-wrapper {
+  display: block;
+  overflow: hidden;
+  height: 194px;
+  justify-content: flex-end;
+  align-items: stretch;
+  border-bottom: 6px solid #fc2d75;
+  border-radius: 10px 10px 0px 0px;
+  background-position: 50% 50%;
+  background-size: cover;
+  object-fit: cover;
 }
+
 </style>

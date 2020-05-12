@@ -27,7 +27,7 @@
 
             <div
               class="section-hero"
-              style="text-align:left;"
+              style="text-align:left;margin-bottom:60px;"
             >
               <h6>Doelgroep</h6>
               <div style="display:flex;flex-direction:row;justify-content:start;width:100%">
@@ -462,7 +462,16 @@ export default {
       this.filteredItems = filteredItems;
     }
   },
-
+  watch: {
+    '$route' (to, from) {
+      /**
+      * Watching what route we are going to. If "home", rest filters
+      */
+      if(to.fullPath === '/') {
+        this.toggleAll(true)
+      }
+    }
+  },
   computed: {
     totalGenresActive() {
       const values = this.genres.filter(function(item) {
