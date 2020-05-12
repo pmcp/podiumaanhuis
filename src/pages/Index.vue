@@ -1,16 +1,15 @@
 <template>
 
-<div>
-    <!-- {{ c }} -->
-    <!-- {{ $page.home }} -->
+  <div>
     <div class="section">
-      <div class="container w-container">
+      <div class="container w-container" style="margin-bottom:0">
         <div class="rounded">
+          
           <g-image
             :src="heroImage"
             width="1500"
           />
-        </div>
+        </div>  
         <div class="div-block-7">
           <div class="credit__container">
             <div
@@ -21,10 +20,17 @@
           </div>
         </div>
       </div>
-      <div class="container hero-container">
+      <div
+        class="container hero-container"
+        style="margin-bottom:0;"
+      >
         <div class="section-hero">
           <h2 class="cc-heading--left">{{ $page.home.title }}</h2>
           <p class="paragraph">{{ $page.home.intro }}</p>
+          <cc-notification
+            v-if="$page.home.notificationActive"
+            :inner="$page.home.notificationText"
+          />
         </div>
       </div>
     </div>
@@ -51,19 +57,23 @@
 
 
 <script>
+import ccNotification from "@/components/cc-notification.vue";
 export default {
+  components: {
+    ccNotification
+  },
   metaInfo() {
     return {
-      title: 'Podium Aan Huis',
+      title: "Podium Aan Huis",
       meta: [
         { name: "description", content: this.$page.home.intro },
         { name: "twitter:card", content: "summary_large_image" },
-        { name: "twitter:description", content: this.$page.home.intro},
-        { name: "twitter:title", content: 'Podium Aan Huis' },
+        { name: "twitter:description", content: this.$page.home.intro },
+        { name: "twitter:title", content: "Podium Aan Huis" },
         // TODO: make a computed of this: if no social image, get thumbnail?
         { name: "twitter:image", content: this.heroImage },
         { property: "og:type", content: "article" },
-        { property: "og:title", content: 'Podium Aan Huis' },
+        { property: "og:title", content: "Podium Aan Huis" },
         { property: "og:description", content: this.$page.home.intro },
         {
           property: "og:url",
@@ -74,8 +84,11 @@ export default {
         //   content: moment(this.$page.post.date).format("MM-DD-YYYY")
         // },
         // { property: "og:updated_time", content: this.$page.post.date },
-        { property: "og:image", content: this.heroImage },
-        { property: "og:image:secure_url", content: this.heroImage }
+        { property: "og:image", content: this.$page.home.heroImage.src },
+        {
+          property: "og:image:secure_url",
+          content: this.$page.home.heroImage.src
+        }
       ]
       // script: [{ src: "https://platform.twitter.com/widgets.js" }]
     };

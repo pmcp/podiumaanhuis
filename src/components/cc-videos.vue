@@ -17,7 +17,10 @@
               <cc-search class="section-hero" style="text-align:left;"/>
             </ClientOnly>
 
-            <div class="section-hero" style="text-align:left;">
+            <div
+              class="section-hero"
+              style="text-align:left;margin-bottom:60px;"
+            >
               <h6>Doelgroep</h6>
               <div style="display:flex;flex-direction:row;justify-content:start;width:100%">
                 <button
@@ -407,7 +410,12 @@ export default {
       this.filteredItems = filteredItems;
     }
   },
-
+  watch: {
+    '$route' (to, from) {
+      console.log(to, from)
+      // react to route changes...
+    }
+  },
   computed: {
     totalGenresActive() {
       const values = this.genres.filter(function(item) {
