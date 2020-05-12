@@ -412,8 +412,12 @@ export default {
   },
   watch: {
     '$route' (to, from) {
-      console.log(to, from)
-      // react to route changes...
+      /**
+      * Watching what route we are going to. If "home", rest filters
+      */
+      if(to.fullPath === '/') {
+        this.toggleAll(true)
+      }
     }
   },
   computed: {
