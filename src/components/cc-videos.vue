@@ -437,8 +437,6 @@ export default {
         ...recountedGenres
       };
 
-      console.log(recountedGenres )
-
       // Turn combinedGenres object into an array
       const recountedGenresArray = Object.keys(combinedGenres).map(key => {
         return { ...combinedGenres[key], name: key };
