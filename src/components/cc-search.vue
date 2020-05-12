@@ -128,6 +128,16 @@ export default {
       return this.query.length > 0;
     }
   },
+    watch: {
+    '$route' (to, from) {
+      /**
+      * Watching what route we are going to. If "home", rest filters
+      */
+      if(to.fullPath === '/') {
+        this.query = ""
+      }
+    }
+  },
   methods: {
     increment() {
       if (this.Z < this.results.length - 1) {
