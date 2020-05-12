@@ -3,21 +3,32 @@
     id="videos"
     class="section ccsection--videos"
   >
-
-        <div v-if="filteredItems.length === 0"  style="text-align:center;">
-        Voorstellingen ophalen...
-      </div>
-    <div v-else class="container">
+    <div
+      v-if="filteredItems.length === 0"
+      style="text-align:center;"
+    >
+      <cc-loader></cc-loader>
+    </div>
+    <div
+      v-else
+      class="container"
+    >
       <h2 class="section-header-border">Video&#x27;s</h2>
       <div>
 
         <div class="cc-video__vue">
           <div class="container">
             <ClientOnly>
-              <cc-search class="section-hero" style="text-align:left;"/>
+              <cc-search
+                class="section-hero"
+                style="text-align:left;"
+              />
             </ClientOnly>
 
-            <div class="section-hero" style="text-align:left;">
+            <div
+              class="section-hero"
+              style="text-align:left;"
+            >
               <h6>Doelgroep</h6>
               <div style="display:flex;flex-direction:row;justify-content:start;width:100%">
                 <button
@@ -74,17 +85,33 @@
                     class="video-card w-inline-block"
                   > -->
                     <div
-                      class="video-card-image-wrapper"
+                      class="cc-video-card-image-wrapper"
                       style="position:relative"
                     >
-                    
-                    <g-image v-if="item.imageDownloaded" :src="item.imageDownloaded" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
-                    <g-image v-else-if="item.image" :src="item.image" width="400" height="300" style="position:absolute;height: 100%;width: 100%;object-fit: cover;"/>
-                    <!-- TODO: add placeholder image -->
-                    <div v-else style="position:absolute;height: 100%;width: 100%;object-fit: cover;"></div>
-                    
+                      <g-image
+                        v-if="item.imageDownloaded"
+                        :src="item.imageDownloaded"
+                        width="400"
+                        height="300"
+                        style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
+                      />
+                      <g-image
+                        v-else-if="item.image"
+                        :src="item.image"
+                        width="400"
+                        height="300"
+                        style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
+                      />
+                      <!-- TODO: add placeholder image -->
+                      <div
+                        v-else
+                        style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
+                      ></div>
 
-                      <div class="video-card-image-inner" style="position:relative">
+                      <div
+                        class="video-card-image-inner"
+                        style="position:relative"
+                      >
                         <div class="tagline">{{ item.genre }}</div>
                         <div
                           class="cc-videocard__age"
@@ -92,23 +119,22 @@
                         >{{ item.age }}</div>
                       </div>
 
-                      
                     </div>
                     <div class="video-card-content">
                       <div class="cc-videocard__genre">{{ item.genre }}</div>
                       <h3 class="heading-4">{{ item.title }}</h3>
                       <div
                         class="cc-videocard__company"
-                        v-if="item.company !== 'undefined' && item.age !== ''"
+                        v-if="item.company !== 'undefined' && item.company !== ''"
                       >{{ item.company }}</div>
                       <div
                         class="cc-videocard__company"
-                        v-if="item.recordedAt !== 'undefined' && item.age !== ''"
+                        v-if="item.recordedAt !== 'undefined' && item.recordedAt !== ''"
                       >{{ item.recordedAt }}</div>
                       <div class="cc-videocard__spacer"></div>
                       <div
                         class="cc-videocard__duration"
-                        v-if="item.videoLength !== 'undefined' && item.age !== ''"
+                        v-if="item.videoLength !== 'undefined' && item.videoLength !== ''"
                       >{{ item.videoLength }}</div>
                       <div class="card-play-button-small">
                         <img
@@ -188,27 +214,31 @@ const ccSearch = () =>
   import(
     /* webpackChunkName: "search" */ "@/components/cc-search"
   ).catch(error => console.warn(error));
-
+import ccLoader from "~/components/cc-loader.vue";
 export default {
   components: {
-    ccSearch
+    ccSearch,
+    ccLoader
   },
   mounted() {
-    const items = this.$static.video.edges.map(val => {
-      return val.node;
+    const allItemsSimplified = this.$static.video.edges.map(val => {
+        return val.node;
     });
 
-    const genres = items.reduce(this.setGenres, {});
+    // Filter out undefined genres
+    this.allItems = allItemsSimplified.filter(val => val.genre !== "")
+
+
+    const genres = this.allItems.reduce(this.setGenres, {});
     /* Convert object to array */
 
     const genresArray = Object.keys(genres).map(function(key) {
       return { name: key, active: true, total: genres[key].total };
     });
 
-    this.genresDefaultObject = this.genres;
+    this.genresDefaultObject = genres;
     this.genres = [...genresArray];
 
-    this.items = items;
     this.filterItems();
   },
   methods: {
@@ -316,7 +346,6 @@ export default {
       }
     },
     setGenreInactive: function(status, total) {
-
       if (this.untouchedGenres) {
         return true;
       }
@@ -339,14 +368,27 @@ export default {
       }, 100);
     },
     filterItems: function() {
+      // TODO: Turn into computed
       /* Items getting filtered*/
-      /* 1) if the audience is active, return the item */
+      // Get items => if an item does not contain a genre or audience, remove it.
+      const items = this.allItems.filter(val  => {
+        if(val.audience !== "" || val.genre !== "") return val;
+      });
+      
 
+      
+
+      
+      // Start with an empty array.
+      // First filter on audience (then on genre)
       let filteredItemsAudience = [];
+      // totalAudienceActive is a computed value
       if (this.totalAudienceActive === 0) {
-        filteredItemsAudience = this.items;
+        // if there are no audiences activated (active = true), show all the item
+        filteredItemsAudience = items;
       } else {
-        filteredItemsAudience = this.items.filter(item => {
+        // if there are audiences active, filter out the once that are active
+        filteredItemsAudience = items.filter(item => {
           const audience = this.audience.find(
             element =>
               element.name.toLowerCase() === item.audience.toLowerCase()
@@ -356,13 +398,18 @@ export default {
           }
         });
       }
-
+    
+      // Now filter this list based on active genres
+      // Start with an empty array that will be filtered on genre
       let filteredItemsGenre = [];
 
+      // Lets get the genre from data in a constant to use here (so we don't accidentally change the genre array in the state)
       const genresArray = this.genres;
       if (this.totalGenresActive === 0) {
-        filteredItemsGenre = this.items;
+        // If all genres are active, just return all items (filtered by  audience)
+        filteredItemsGenre = filteredItemsAudience;
       } else {
+        // filter items based ongenres
         filteredItemsGenre = filteredItemsAudience.filter(item => {
           const genre = genresArray.find(
             element => element.name.toLowerCase() === item.genre.toLowerCase()
@@ -373,9 +420,10 @@ export default {
         });
       }
 
+      // Count genres per item
       const recountedGenres = filteredItemsAudience.reduce(this.setGenres, {});
 
-      // Not functional
+      // What is this again
       const genresToZero = this.genresDefaultObject;
       for (let key in genresToZero) {
         if (genresToZero.hasOwnProperty(key)) {
@@ -383,27 +431,34 @@ export default {
         }
       }
 
+      // the recounted genres don't have the non active genres, so add this again
       const combinedGenres = {
-        ...this.genresDefaultObject,
+        ...genresToZero,
         ...recountedGenres
       };
 
+      console.log(recountedGenres )
+
+      // Turn combinedGenres object into an array
       const recountedGenresArray = Object.keys(combinedGenres).map(key => {
         return { ...combinedGenres[key], name: key };
       });
 
+      // Add the status of each genre
       const genresArrayCombined = recountedGenresArray.map((item, key) => {
         if (this.genres[key] === undefined) return { ...item, active: false };
         return { ...item, active: this.genres[key].active };
       });
-
-      this.genres = genresArrayCombined;
-      this.totalFilteredItems = filteredItemsGenre.length;
+  
+      // Pagination
       const filteredItems = filteredItemsGenre.slice(
         this.startItem,
         this.endItem
       );
 
+      // Update state
+      this.genres = genresArrayCombined;
+      this.totalFilteredItems = filteredItemsGenre.length;
       this.filteredItems = filteredItems;
     }
   },
@@ -468,6 +523,7 @@ export default {
           active: true
         }
       ],
+      allItems: [],
       items: [],
       filteredItems: [],
       itemsPerPage: 15,
@@ -480,3 +536,20 @@ export default {
   }
 };
 </script>
+
+<style >
+.cc-video-card-image-wrapper {
+  display: block;
+  overflow: hidden;
+  height: 194px;
+  justify-content: flex-end;
+  align-items: stretch;
+  border-bottom: 6px solid #fc2d75;
+  border-radius: 10px 10px 0px 0px;
+  background-position: 50% 50%;
+  background-size: cover;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
+</style>

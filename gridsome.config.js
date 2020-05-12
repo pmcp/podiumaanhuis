@@ -22,6 +22,18 @@ module.exports = {
       options: {
         path: 'pages/**/*.md',
         typeName: 'MDPages',
+        coverField: 'image', // What frontmatter fields to check for image paths fixings
+        remark: {
+          // remark options
+        }
+      }
+    },
+    {
+      use: '@gridsome/source-filesystem',
+      options: {
+        path: 'homepage/home.md',
+        typeName: 'homepages',
+        coverField: 'heroImage', // What frontmatter fields to check for image paths fixings
         remark: {
           // remark options
         }
@@ -32,7 +44,7 @@ module.exports = {
       options: {
         path: 'entries/**/*.md',
         typeName: 'entries',
-        coverField: 'image', // What frontmatter fields to check for image paths fixings
+        // coverField: 'image', // What frontmatter fields to check for image paths fixings
         remark: {
           plugins: [
             // 'remark-frontmatter'
@@ -49,7 +61,7 @@ module.exports = {
     {
       use: 'gridsome-plugin-netlify-cms-paths',
       options: {
-        contentTypes: ['entries', 'MDPages']
+        contentTypes: ['entries', 'MDPages', 'homepages']
       }
     },
     {

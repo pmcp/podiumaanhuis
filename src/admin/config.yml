@@ -6,8 +6,8 @@ backend:
 # To run local backend git: npx netlify-cms-proxy-server
 # local_backend: true
 
-media_folder: "static/uploads"
-public_folder: "uploads"
+media_folder: "/static/uploads"
+public_folder: "/uploads"
 # media_library:
 #   name: uploadcare
 #   config:
@@ -63,10 +63,12 @@ collections:
     files:
       - label: "Home"
         name: "home"
-        file: "pages/home.md"
+        file: "homepage/home.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Intro, name: intro, widget: markdown}
+          - {label: "Notificatie Actief", name: "notificationActive", widget: "boolean", default: false}
+          - {label: Notificatie - Tekst, name: notificationText, widget: markdown}
           - {label: Hoofdafbeelding, name: heroImage, widget: image}
           - {label: Hoofdafbeelding - Credit, name: heroCredit, widget: markdown}
           - {label: Formulier - Titel, name: formTitle, widget: string}
