@@ -162,7 +162,8 @@ module.exports = function (api) {
 // }
 
   api.onCreateNode(node => {
-    
+    // TODO: arrange  with env variable, PRODUCTION vs DRAFT,  so code is same for live  & draft
+
     if(node.id === 'eae09f9aaa3a0e32f072f0955457f7e2') {
       node.notificationText = converter.makeHtml(node.notificationText);
     }
@@ -172,9 +173,9 @@ module.exports = function (api) {
     /**
      * Don't proceed if entry is in draft mode -> Not used in staging.
      */
-    // if (node.internal.typeName === 'entries' && node.draft === true) {
-    //   return null
-    // }
+    if (node.internal.typeName === 'entries' && node.draft === true) {
+      return null
+    }
 
     /**
      * Clean some stuff up if this is a video entry
