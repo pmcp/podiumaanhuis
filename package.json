@@ -17,6 +17,7 @@
     "fuse.js": "^5.2.3",
     "gridsome": "^0.7.0",
     "gridsome-plugin-gtag": "git+https://github.com/marcvangend/gridsome-plugin-gtag.git",
+    "gridsome-plugin-gtm": "^0.1.1",
     "gridsome-plugin-netlify-cms": "^1.0.9",
     "gridsome-plugin-netlify-cms-paths": "^0.3.1",
     "gridsome-transformer-netlify": "^1.0.3",
@@ -25,8 +26,7 @@
     "path": "^0.12.7",
     "remark-frontmatter": "^2.0.0",
     "showdown": "^1.9.1",
-    "turndown": "^6.0.0",
-    "vue-gtm": "^2.2.0"
+    "turndown": "^6.0.0"
   },
   "devDependencies": {}
 }

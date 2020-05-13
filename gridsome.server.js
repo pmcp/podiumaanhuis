@@ -162,7 +162,8 @@ module.exports = function (api) {
 // }
 
   api.onCreateNode(node => {
-    
+    // TODO: arrange  with env variable, PRODUCTION vs DRAFT,  so code is same for live  & draft
+
     if(node.id === 'eae09f9aaa3a0e32f072f0955457f7e2') {
       node.notificationText = converter.makeHtml(node.notificationText);
     }
