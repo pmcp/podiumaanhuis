@@ -15,6 +15,7 @@
       @focus="focused = true"
       @input="focusIndex = -1; query = $event.target.value"
       @change="query = $event.target.value"
+
       style="background-color:#e8edf4"
     />
 
@@ -105,9 +106,11 @@ export default {
     return {
       query: "",
       focusIndex: -1,
-      focused: false
+      focused: false,
+      timeout: ""
     };
   },
+
   computed: {
     results() {
       const fuse = new Fuse(this.headings, {
@@ -127,8 +130,19 @@ export default {
       // return this.focused && this.query.length > 0;
       return this.query.length > 0;
     }
-  },
-    watch: {
+  },  
+  watch: {
+    query(newValue, oldValue) {
+      // Send query to gtm
+      // TODO: This is very dirty
+      clearTimeout(this.timeout);
+       this.timeout = setTimeout(() => {
+          this.$gtm.trackEvent({
+            label: 'Search',
+            value: newValue
+      });
+      }, 1000);
+    },
     '$route' (to, from) {
       /**
       * Watching what route we are going to. If "home", rest filters
@@ -149,23 +163,24 @@ export default {
         this.focusIndex--;
       }
     },
-    go() {
-      // Do nothing if we don't have results.
-      if (this.results.length === 0) {
-        return;
-      }
-      let result;
-      // If we don't have focus on a result, just navigate to the first one.
-      if (this.focusIndex === -1) {
-        result = this.results[0];
-      } else {
-        result = this.results[this.focusIndex];
-      }
-      this.$router.push(result.path + result.anchor);
-      // Unfocus the input and reset the query.
-      this.$refs.input.blur();
-      this.query = "";
-    }
+    // go() {
+    //   // Do nothing if we don't have results.
+    //   if (this.results.length === 0) {
+    //     return;
+    //   }
+    //   let result;
+    //   // If we don't have focus on a result, just navigate to the first one.
+    //   if (this.focusIndex === -1) {
+    //     result = this.results[0];
+    //   } else {
+    //     result = this.results[this.focusIndex];
+    //   }
+      
+    //   this.$router.push(result.path + result.anchor);
+    //   // Unfocus the input and reset the query.
+    //   this.$refs.input.blur();
+    //   this.query = "";
+    // }
   }
 };
 </script>
