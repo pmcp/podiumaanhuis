@@ -99,7 +99,7 @@ query Search{
 </static-query>
 
 <script>
-import Fuse from "fuse.js";
+// import Fuse from "fuse.js";
 export default {
   components: {},
   data() {
@@ -110,7 +110,6 @@ export default {
       timeout: ""
     };
   },
-
   computed: {
     results() {
       const fuse = new Fuse(this.headings, {
