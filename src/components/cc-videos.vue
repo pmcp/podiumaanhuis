@@ -268,8 +268,8 @@ export default {
       this.filterItems();
     },
     toggleStatus: function(type, key, originalArray, allActive) {
-      let action = off;
-      if(originalArray[key].active === true) action = on;
+      let action = 'off';
+      if(originalArray[key].active === true) action = 'on';
       this.$gtm.trackEvent({
         event: null, // Event type [default = 'interaction'] (Optional)
         category: originalArray[key].name,
