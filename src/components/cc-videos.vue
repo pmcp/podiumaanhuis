@@ -24,7 +24,6 @@
                 style="text-align:left;"
               />
             </ClientOnly>
-
             <div
               class="section-hero"
               style="text-align:left;margin-bottom:60px;"
@@ -210,10 +209,12 @@ query {
 </static-query>
 
 <script>
-const ccSearch = () =>
-  import(
-    /* webpackChunkName: "search" */ "@/components/cc-search"
-  ).catch(error => console.warn(error));
+
+// const ccSearch = () =>
+//   import(
+//     /* webpackChunkName: "search" */ "@/components/cc-search"
+//   ).catch(error => console.warn(error));
+import ccSearch from "~/components/cc-search.vue";
 import ccLoader from "~/components/cc-loader.vue";
 export default {
   components: {
