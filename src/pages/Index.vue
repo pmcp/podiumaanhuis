@@ -28,6 +28,7 @@
           <h2 class="cc-heading--left">{{ $page.home.title }}</h2>
           <p class="paragraph">{{ $page.home.intro }}</p>
           <cc-notification
+          style="margin-bottom: 60px;margin-top: 35px;"
             v-if="$page.home.notificationActive"
             :inner="$page.home.notificationText"
           />
@@ -48,7 +49,9 @@
       heroImage,
       heroCredit,
       formTitle,
-      formText
+      formText,
+      notificationActive,
+      notificationText
     }
   }	
 </page-query>
