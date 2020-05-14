@@ -107,7 +107,7 @@
               <div class="column-4 w-col w-col-4 w-col-medium- w-col-small-4 w-col-tiny-tiny-stack">
                 <g-image
                   src="~/assets/images/logovlaanderen.png"
-                  width="4200"
+                  width="200"
                 />
               </div>
             </div>
