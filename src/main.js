@@ -36,6 +36,10 @@ export default function (Vue, { router, head, isClient }) {
     src: 'https://cdn.jsdelivr.net/npm/showdown@1.9.0/dist/showdown.min.js',
     body: true
   }),
+    head.script.push({
+    src: 'https://cdn.jsdelivr.net/npm/fuse.js/dist/fuse.js',
+    body: true
+  }),
   // Script that checks if logged in and sends user to admin screen of Netlify CMS (/admin)
   head.script.push({
     innerHTML: `if (window.netlifyIdentity) {

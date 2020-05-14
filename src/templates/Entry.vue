@@ -30,7 +30,8 @@
             </div>
             <div class="w-richtext" v-html="$page.entry.text"></div>
           </div>
-          <div>
+          <!-- grid fix for ie11 -->
+          <div style="-ms-grid-column: 2; -ms-grid-row: 1;">
             <div class="sticky">
               <div class="card-wrapper margin-bottom-large">
                 <div class="key-takeaways w-richtext">
