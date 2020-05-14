@@ -168,9 +168,7 @@ module.exports = function (api) {
       node.notificationText = converter.makeHtml(node.notificationText);
     }
     // if (node.internal.typeName === 'entries') {
-
     // }
-    
     /**
      * Don't proceed if entry is in draft mode -> Not used in staging.
      */
