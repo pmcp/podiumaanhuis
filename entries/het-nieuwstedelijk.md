@@ -1,5 +1,5 @@
 ---
-title: Het nieuwstedelijk
+title: Hoop
 draft: true
 publishDate: 2020-05-14T13:56:41.344Z
 text: >-
