@@ -14,7 +14,6 @@
     "axios": "^0.19.2",
     "cms": "^1.8.1",
     "fs": "0.0.1-security",
-    "fuse.js": "^5.2.3",
     "gridsome": "^0.7.0",
     "gridsome-plugin-gtag": "git+https://github.com/marcvangend/gridsome-plugin-gtag.git",
     "gridsome-plugin-gtm": "^0.1.1",
