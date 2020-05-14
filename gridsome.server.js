@@ -173,7 +173,8 @@ module.exports = function (api) {
     /**
      * Don't proceed if entry is in draft mode -> Not used in staging.
      */
-    if (node.internal.typeName === 'entries' && node.draft === true) {
+
+    if (process.env.DRAFT  && node.internal.typeName === 'entries' && node.draft === true) {
       return null
     }
 
