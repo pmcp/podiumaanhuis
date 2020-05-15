@@ -53,15 +53,9 @@ image: /uploads/in__br46644_koenbroos.jpg
 recordedAt: Opname in STUK, Leuven
 company: Thomas Ryckewaert
 descr: |-
-  <!--StartFragment-->
-
   * duur: 75 min
   * taal: Nederlands
-  * Thomas Ryckewaert <!--StartFragment-->
-
-    <https://thomasryckewaert.be/>
-
-  <!--EndFragment-->
+  * [Thomas Ryckewaert](https://thomasryckewaert.be/)
 genre: theater
 audience: volwassenen
 videoUrl: https://vimeo.com/333963680
