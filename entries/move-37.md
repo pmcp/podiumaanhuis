@@ -26,24 +26,13 @@ text: >-
   <!--StartFragment-->
 
 
-  regie: Thomas Ryckewaert - spel: Thomas Hertog, Thomas Ryckewaert - dramaturgie: Kristof Van Baarle - scenografie: Erki De Vries - licht: Peter Quasters - geluid: Jürgen Deblonde - video: Paul Van Caudenberg - regie-assistentie: Sibran Sampers - stage: Margarida Ramalhete - productieleidster: Charlotte Cornelissen - management: Karen Feys\
-
-  \
-
-  coproducenten: Platform 0090, Instituut voor Theoretische Fysica (KULeuven), deSingel Internationale Kunstcampus, Het Laatste Bedrijf\
-
-  \
-
-  \
-
-  in samenwerking met: WP Zimmer, BUDA\
-
-  \
-
-  Deze productie kwam tot stand met de steun van de Tax Shelter maatregel van de Belgische Federale Overheid, Gallop Tax Shelter en met de steun van de Vlaamse Overheid.
+  r<!--StartFragment-->
 
 
-  Luca Mattei in collaboration with Alessandra Coppola
+  regie & scenario: Thomas Ryckewaert - spel & tekst: Thomas Hertog, Thomas Ryckewaert - dramaturgie: Kristof Van Baarle - scenografie: Erki De Vries - licht: Janneke Donkersloot & Giacomo Gorini - geluid: Jürgen Deblonde - video: Paul Van Caudenberg - kostuums: Andrea Kränzlin - regie-assistentie: Sibran Sampers - stage: Margarida Ramalhete - productieleidster: Charlotte Cornelissen - management: Karen Feys\ \ coproducenten: Platform 0090, Instituut voor Theoretische Fysica (KULeuven), deSingel Internationale Kunstcampus, Het Laatste Bedrijf\ \ \ in samenwerking met: WP Zimmer, BUDA\ \ Deze productie kwam tot stand met de steun van de Tax Shelter maatregel van de Belgische Federale Overheid, Gallop Tax Shelter en met de steun van de Vlaamse Overheid.
+
+
+  Captatie: Luca Mattei in collaboration with Alessandra Coppola
 
 
   <!--EndFragment-->
