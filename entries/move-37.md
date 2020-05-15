@@ -1,6 +1,6 @@
 ---
 title: Move 37
-draft: true
+draft: false
 publishDate: 2020-05-14T13:32:38.922Z
 text: >-
   <!--StartFragment-->
@@ -43,25 +43,23 @@ text: >-
   Deze productie kwam tot stand met de steun van de Tax Shelter maatregel van de Belgische Federale Overheid, Gallop Tax Shelter en met de steun van de Vlaamse Overheid.
 
 
+
+
+  Luca Mattei in collaboration with Alessandra Coppola
+
+
   <!--EndFragment-->
 image: /uploads/in__br46644_koenbroos.jpg
-recordedAt: Luca Mattei in collaboration with Alessandra Coppola
+recordedAt: Opname in STUK, Leuven
 company: Thomas Ryckewaert
 descr: |-
   <!--StartFragment-->
 
-  * <!--StartFragment-->
-
-    theater
-
-    <!--EndFragment-->
   * duur: 75 min
   * taal: Nederlands
   * Thomas Ryckewaert <!--StartFragment-->
 
     <https://thomasryckewaert.be/>
-
-    <!--EndFragment-->
 
   <!--EndFragment-->
 genre: theater
