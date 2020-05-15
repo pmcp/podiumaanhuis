@@ -34,6 +34,7 @@ text: >-
 
   Video door [AAP Media](http://www.aapmedia.be/)
 image: /uploads/5eb54c52e4fb4840e9f45235_hetgevolgletter-2-.jpg
+company: HETGEVOLG
 descr: |-
   * theater
   * duur: 57 min
