@@ -20,7 +20,7 @@ text: >-
   <!--EndFragment-->
 
 
-  Credits
+  ##### Credits
 
 
   <!--StartFragment-->
@@ -41,8 +41,6 @@ text: >-
   \
 
   Deze productie kwam tot stand met de steun van de Tax Shelter maatregel van de Belgische Federale Overheid, Gallop Tax Shelter en met de steun van de Vlaamse Overheid.
-
-
 
 
   Luca Mattei in collaboration with Alessandra Coppola
