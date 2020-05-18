@@ -4,7 +4,7 @@ import '~/assets/style/podiumaanhuis.webflow.css'
 import '~/assets/style/cc.tweaks.css'
 
 // Tag manager
-import VueGtm from 'vue-gtm'
+// import VueGtm from 'vue-gtm'
 
 
 
@@ -14,16 +14,16 @@ import DefaultLayout from '~/layouts/Default.vue'
 export default function (Vue, { router, head, isClient }) {
 
   
-  if (isClient) {
-    console.log(router)
-    Vue.use(VueGtm, {
-      id: 'GTM-5TGPDTT',
-      enabled: true,
-      debug: true,
-      vueRouter: router
-    })  
+  // if (isClient) {
+  //   console.log(router)
+  //   Vue.use(VueGtm, {
+  //     id: 'GTM-5TGPDTT',
+  //     enabled: true,
+  //     debug: true,
+  //     vueRouter: router
+  //   })  
     
-  }
+  // }
 
 
   Vue.component('Layout', DefaultLayout),

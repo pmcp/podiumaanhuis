@@ -73,14 +73,14 @@ module.exports = {
         'targetPath': './src/assets/remoteImages'
       }
     },
-    // {
-    //   use: 'gridsome-plugin-gtm',
-    //   options: {
-    //     id: 'GTM-5TGPDTT',
-    //     enabled: true,
-    //     debug: true
-    //   }
-    // }
+    {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-5TGPDTT',
+        enabled: true,
+        debug: true
+      }
+    }
   ],
   templates: {
     entries: [
