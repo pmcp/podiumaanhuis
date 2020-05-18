@@ -138,8 +138,8 @@ export default {
       clearTimeout(this.timeout);
        this.timeout = setTimeout(() => {
           this.$gtm.trackEvent({
-            label: 'Search',
-            value: newValue
+            event: 'search',
+            searchValue: newValue,
       });
       }, 1000);
     },

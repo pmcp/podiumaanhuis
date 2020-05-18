@@ -272,10 +272,11 @@ export default {
     toggleStatus: function(type, key, originalArray, allActive) {
       let action = 'off';
       if(originalArray[key].active === true) action = 'on';
+
       this.$gtm.trackEvent({
-        category: originalArray[key].name,
-        action: action,
-        label: 'Filter'
+        event: 'filter',
+        filterName: originalArray[key].name,
+        filterStatus: action,
       });
       /* Back to first page */
       this.startItem = 0;
