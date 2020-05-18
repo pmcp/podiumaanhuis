@@ -104,10 +104,10 @@
                     src="~/assets/images/logocc.png"
                     width="400"
                   /></a></div>
-              <div class="column-4 w-col w-col-6 w-col-medium-6 w-col-small-6 w-col-tiny-tiny-stack">
+              <div class="column-4 w-col w-col-4 w-col-medium- w-col-small-4 w-col-tiny-tiny-stack">
                 <g-image
                   src="~/assets/images/logovlaanderen.png"
-                  width="400"
+                  width="200"
                 />
               </div>
             </div>

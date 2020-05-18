@@ -41,19 +41,20 @@ export default function (Vue, { router, head, isClient }) {
     body: true
   }),
   // Script that checks if logged in and sends user to admin screen of Netlify CMS (/admin)
-  head.script.push({
-    innerHTML: `if (window.netlifyIdentity) {
-      window.netlifyIdentity.on("init", user => {
-        if (!user) {
-          console.log(user)
-          window.netlifyIdentity.on("login", () => {
-            document.location.href = "/admin/";
-          });
-        }
-      });
-    }`,
-    body: true
-  })
+  // head.script.push({
+  //   innerHTML: `if (window.netlifyIdentity) {
+      
+  //     window.netlifyIdentity.on("init", user => {
+  //       if (!user) {
+  //         console.log(user)
+  //         window.netlifyIdentity.on("login", () => {
+  //           document.location.href = "/admin/";
+  //         });
+  //       }
+  //     });
+  //   }`,
+  //   body: true
+  // })
   // MY google font, bruv
   head.link.push({
     rel: 'stylesheet',

@@ -85,7 +85,7 @@ module.exports = {
   templates: {
     entries: [
       {
-        path: '/voorstellingen/:title',
+        path: '/video/:title',
         component: './src/templates/Entry.vue'
       }
     ],
