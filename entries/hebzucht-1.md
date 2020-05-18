@@ -12,7 +12,7 @@ text: >-
   ##### Credits
 
 
-  tekst en regie Stĳn Devillé spel Dirk Buyse, Michaël Pas, Jorre Vandenbussche, Kris Cuppens, Sara Vertongen, Stĳn Devillé en Esra Vandenbussche als het kind compositie muziek Gerrit Valckenaers, Rudy Trouvé en Gunter Nagels live muziek Gerrit Valckenaers, Youri Van Uffelen en Trĳn Janssens research en dramaturgie Els Theunis captatie Beeldstorm (Jan Bosteels)
+  **tekst en regie** Stĳn Devillé spel Dirk Buyse, Michaël Pas, Jorre Vandenbussche, Kris Cuppens, Sara Vertongen, Stĳn Devillé en Lena Devillé als het kind **compositie muziek** Gerrit Valckenaers, Rudy Trouvé en Gunter Nagels **live muziek** Gerrit Valckenaers, Youri Van Uffelen en Trĳn Janssens **research en dramaturgie** Els Theunis **captatie** Beeldstorm (Jan Bosteels)
 
 
   <!--EndFragment-->
