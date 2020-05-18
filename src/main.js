@@ -4,7 +4,7 @@ import '~/assets/style/podiumaanhuis.webflow.css'
 import '~/assets/style/cc.tweaks.css'
 
 // Tag manager
-// import VueGtm from 'vue-gtm'
+import VueGtm from 'vue-gtm'
 
 
 
@@ -13,16 +13,18 @@ import DefaultLayout from '~/layouts/Default.vue'
 
 export default function (Vue, { router, head, isClient }) {
 
-  // Set default layout as a global component
-  // if (isClient) {
-  //   console.log(isClient)
-  //   Vue.use(VueGtm, {
-  //     id: 'GTM-5TGPDTT',
-  //     enabled: true,
-  //     debug: true,
-  //     vueRouter: router
-  //   })
-  // }
+  
+  if (isClient) {
+    console.log(router)
+    Vue.use(VueGtm, {
+      id: 'GTM-5TGPDTT',
+      enabled: true,
+      debug: true,
+      vueRouter: router
+    })  
+    
+  }
+
 
   Vue.component('Layout', DefaultLayout),
   
@@ -30,10 +32,6 @@ export default function (Vue, { router, head, isClient }) {
   // Script for the identity provider of netlify (for cms)
   head.script.push({
     src: 'https://identity.netlify.com/v1/netlify-identity-widget.js',
-    body: true
-  }),
-    head.script.push({
-    src: 'https://cdn.jsdelivr.net/npm/showdown@1.9.0/dist/showdown.min.js',
     body: true
   }),
     head.script.push({
