@@ -73,17 +73,10 @@ query ($id: ID!) {
 <script>
 export default {
    mounted() {
-     this.$gtm.trackEvent({
-        event: null, // Event type [default = 'interaction'] (Optional)
-        category: 'Calculator',
-        action: 'click',
-        label: 'Home page SIP calculator',
-        value: 5000,
-        noninteraction: false // Optional
-      });
+
 
       
-    this.$gtm.trackView('MyScreenName', 'currentpath');
+      // this.$gtm.trackView('MyScreenName', 'currentpath');
   },
   metaInfo() {
     return {
