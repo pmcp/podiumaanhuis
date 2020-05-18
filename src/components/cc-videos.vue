@@ -92,6 +92,7 @@
                         :src="item.imageDownloaded"
                         width="400"
                         height="300"
+                        fit="cover"
                         style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
                       />
                       <g-image
