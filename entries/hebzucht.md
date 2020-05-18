@@ -20,7 +20,7 @@ text: >-
   tekst en regie: Stĳn Devillé 
 
 
-  spel: Dirk Buyse, Michaël Pas, Jorre Vandenbussche, Kris Cuppens, Sara Vertongen, Stĳn Devillé en Esra Vandenbussche als het kind 
+  spel: Dirk Buyse, Michaël Pas, Jorre Vandenbussche, Kris Cuppens, Sara Vertongen, Stĳn Devillé en Lena Devillé als het kind 
 
 
   compositie muziek: Gerrit Valckenaers, Rudy Trouvé en Gunter Nagels 
