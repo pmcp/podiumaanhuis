@@ -136,6 +136,7 @@ export default {
       // Send query to gtm
       // TODO: This is very dirty
       clearTimeout(this.timeout);
+      if(newValue === undefined|| newValue === undefined || newValue === '') return;
        this.timeout = setTimeout(() => {
           this.$gtm.trackEvent({
             event: 'search',
