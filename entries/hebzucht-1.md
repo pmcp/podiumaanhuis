@@ -6,7 +6,7 @@ text: >-
   <!--StartFragment-->
 
 
-  Met de ambitieuze trilogie Hebzucht, Angst, Hoop maakt Stijn Devillé de balans op van tien woelige jaren in Europa. Van de oneindige groei die de wereld in petto leek te hebben tot de economische en sociale dieperik die erop volgde. Op vrijdag 19 september 2008 hapt de Belgische bankensector naar adem. Op maandag zal het land niet meer hetzelfde zijn. De hele wereld komt in een allesverslindende draaikolk terecht. Hebzucht vertelt de klassieke rise & fall van een imperium. Maar aan het eind van deze tragedie gaan de personages niet dood. Ze cashen hun geld en zoeken dekking in de plooien van de geschiedenis.
+  Met de ambitieuze trilogie Hebzucht, [Angst](https://podiumaanhuis.be/video/angst/), [Hoop](https://podiumaanhuis.be/video/hoop/) maakt Stijn Devillé de balans op van tien woelige jaren in Europa. Van de oneindige groei die de wereld in petto leek te hebben tot de economische en sociale dieperik die erop volgde. Op vrijdag 19 september 2008 hapt de Belgische bankensector naar adem. Op maandag zal het land niet meer hetzelfde zijn. De hele wereld komt in een allesverslindende draaikolk terecht. Hebzucht vertelt de klassieke rise & fall van een imperium. Maar aan het eind van deze tragedie gaan de personages niet dood. Ze cashen hun geld en zoeken dekking in de plooien van de geschiedenis.
 
 
   ##### Credits
