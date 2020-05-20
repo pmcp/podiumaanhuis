@@ -12,7 +12,7 @@ text: >-
   <!--EndFragment-->
 
 
-  Credits
+  ##### Credits
 
 
   <!--StartFragment-->
@@ -23,17 +23,10 @@ text: >-
 
   <!--EndFragment-->
 image: /uploads/verdragen-versailles2-c-phile-deprez.jpg
-recordedAt: Kopergietery
+recordedAt: Opgenomen in Kopergietery
 company: Kopergietery
 descr: |-
-  
-
   * Duur: 67 min
-  * <!--StartFragment-->
-
-    <https://www.kopergietery.be/>
-
-    <!--EndFragment-->
   * Theater
 genre: theater
 audience: familie
