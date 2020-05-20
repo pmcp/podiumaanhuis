@@ -23,7 +23,7 @@ text: >-
 
   <!--EndFragment-->
 image: /uploads/voetbalophogehakken8-c-philedeprez.jpg
-recordedAt: Opgenomen in Kopergietery
+recordedAt: Opname in Kopergietery
 company: Kopergietery
 descr: |-
   
