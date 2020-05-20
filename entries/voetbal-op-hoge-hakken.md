@@ -6,17 +6,13 @@ text: >-
   <!--StartFragment-->
 
 
-  ef & Randi. Randi & Jef. Twee heren zijn van oordeel. Voor stelling nemen. Voor pruiken. Voor vreemd. Voor té klein en té groot. Voor honden met een mening. Voor mannen met baarden en vrouwen met snorren. Tegen het onuitstaanbare van vooroordelen. Met Voetbal op hoge hakken creëren Randi De Vlieghe en Jef Van gestel een voorstelling over de mogelijkheid of de kracht te kunnen zijn wat je wil zijn. Over het opnieuw leren kijken naar de ‘ander’, en de durf voor hem of haar open te staan.
+  Jef & Randi. Randi & Jef. Twee heren zijn van oordeel. Voor stelling nemen. Voor pruiken. Voor vreemd. Voor té klein en té groot. Voor honden met een mening. Voor mannen met baarden en vrouwen met snorren. Tegen het onuitstaanbare van vooroordelen. Met Voetbal op hoge hakken creëren Randi De Vlieghe en Jef Van gestel een voorstelling over de mogelijkheid of de kracht te kunnen zijn wat je wil zijn. Over het opnieuw leren kijken naar de ‘ander’, en de durf voor hem of haar open te staan.
 
 
   <!--EndFragment-->
 
 
-
-
   ##### Credits
-
-
 
 
   <!--StartFragment-->
@@ -27,7 +23,7 @@ text: >-
 
   <!--EndFragment-->
 image: /uploads/voetbalophogehakken8-c-philedeprez.jpg
-recordedAt: Kopergietery
+recordedAt: Opgenomen in Kopergietery
 company: Kopergietery
 descr: |-
   
