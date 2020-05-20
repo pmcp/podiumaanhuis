@@ -23,7 +23,7 @@ text: >-
 
   <!--EndFragment-->
 image: /uploads/verdragen-versailles2-c-phile-deprez.jpg
-recordedAt: Opgenomen in Kopergietery
+recordedAt: Opname in Kopergietery
 company: Kopergietery
 descr: |-
   * Duur: 67 min
