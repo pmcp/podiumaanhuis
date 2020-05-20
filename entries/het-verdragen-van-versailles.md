@@ -26,8 +26,11 @@ image: /uploads/verdragen-versailles2-c-phile-deprez.jpg
 recordedAt: Opname in Kopergietery
 company: Kopergietery
 descr: |-
-  * Duur: 67 min
   * Theater
+  * leeftijd +14
+  * duur 67 min
+  * taal Nederlands
+  * [kopergietery](https://www.kopergietery.be/)
 genre: theater
 audience: familie
 age: "+14"
