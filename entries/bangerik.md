@@ -1,6 +1,6 @@
 ---
 title: Bangerik
-draft: true
+draft: false
 publishDate: 2020-05-20T13:56:07.935Z
 text: >-
   <!--StartFragment-->
@@ -28,15 +28,14 @@ text: >-
 
   <!--EndFragment-->
 image: /uploads/img3238_180.jpg
-recordedAt: Opname in het paleis
-company: Gezelschap
+recordedAt: Opname in hetpaleis, Antwerpen
+company: hetpaleis
 descr: |-
-  
-
-  * Theater
-  * duur 69 min
-  * taal Nederlands
-  * [Het paleis](https://www.hetpaleis.be/)
+  * theater
+  * leeftijd: 6+
+  * duur: 69 min
+  * taal: Nederlands
+  * [hetpaleis](https://www.hetpaleis.be/)
 genre: theater
 audience: familie
 videoUrl: https://vimeo.com/257544337
