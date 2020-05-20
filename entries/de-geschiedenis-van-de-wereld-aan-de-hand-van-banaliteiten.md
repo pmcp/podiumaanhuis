@@ -1,6 +1,6 @@
 ---
 title: De geschiedenis van de wereld (aan de hand van banaliteiten)
-draft: true
+draft: false
 publishDate: 2020-05-20T13:02:45.585Z
 text: >-
   <!--StartFragment-->
@@ -12,9 +12,7 @@ text: >-
   <!--EndFragment-->
 
 
-
-
-  ##### Credit
+  Credit
 
 
   <!--StartFragment-->
@@ -25,7 +23,7 @@ text: >-
 
   <!--EndFragment-->
 image: /uploads/geschiedenis05-c-philedeprez.jpg
-recordedAt: 22 november 2013 in de KOPERGIETERY, Gent
+recordedAt: Op genomen op 22 november 2013 in de KOPERGIETERY, Gent
 company: Kopergietery
 descr: |-
   
