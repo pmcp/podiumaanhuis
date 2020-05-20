@@ -28,8 +28,11 @@ company: Kopergietery
 descr: |-
   
 
-  * Duur: 72 min
   * Theater
+  * leeftijd +14
+  * duur 72 min
+  * taal Nederlands
+  * [kopergietery](https://www.kopergietery.be/)
 genre: theater
 audience: familie
 age: "+14"
