@@ -25,7 +25,7 @@ text: >-
 
 
   <!--EndFragment-->
-image: /uploads/img3238_180.jpg
+image: /uploads/bangerik_hetpaleis_web.jpg
 recordedAt: Opname in hetpaleis, Antwerpen
 company: hetpaleis
 descr: |-
@@ -41,5 +41,5 @@ videoLength: 69 min
 socialDescr: Een nauwkeurig georkestreerd en bij vlagen geniaal sprookje over
   xenofobie, waarin slapstick, horror en musical moeiteloos over elkaar heen
   buitelen.
-socialImage: /uploads/img3238_180.jpg
+socialImage: /uploads/bangerik_hetpaleis_web.jpg
 ---
