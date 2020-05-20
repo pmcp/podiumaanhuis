@@ -1,6 +1,6 @@
 ---
 title: Het verdragen van Versailles
-draft: true
+draft: false
 publishDate: 2020-05-20T12:49:54.548Z
 text: >-
   <!--StartFragment-->
