@@ -12,8 +12,6 @@ text: >-
   <!--EndFragment-->
 
 
-
-
   ##### Credit
 
 
@@ -23,7 +21,7 @@ text: >-
   tekst, regie en kostuumontwerp: Stef Lernous licht- en decorontwerp: Sven Van Kuijk
 
 
-  compositie en live muziek: Jan De Smet spel: Gert Jochems, Kirsten Pieters, Lukas Smolders, Lien Thys, Tine Van den Wyngaert, Chiel van Berkel soundscape: Jef De Smet productie en technische realisatie: Abattoir Fermé, hetpaleis
+  compositie en live muziek: Jan De Smet spel: Gert Jochems, Kirsten Pieters, Lukas Smolders, Lien Thys, Tine Van den Wyngaert, Chiel van Berkel soundscape: Jef De Smet productie en technische realisatie: Abattoir Fermé, hetpaleis captatie: Beeldstorm (Jan Bosteels)
 
 
   <!--EndFragment-->
