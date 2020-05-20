@@ -6,7 +6,11 @@ text: >-
   <!--StartFragment-->
 
 
-  Move 37 verwijst naar een historische wedstrijd Go, het oudste en meest complexe bordspel ter wereld. In die wedstrijd anno 2016 neemt Google’s AlphaGo het op tegen de 18-voudig wereldkampioen Lee Sedol. Niemand gaf een cent om de kansen van de Artificiële Intelligentie AlphaGo. Maar diens zet 37 slaat in als een bom en openbaart het radicaal vreemde gelaat van A.I.: uitermate intelligent, creatief, maar ook totaal alien. In zijn lecture performance ‘Move 37’ zoekt Thomas Ryckewaert samen met kosmoloog Thomas Hertog naar manieren om het radicaal vreemde bloot te leggen. Een trip door de duistere, koele horror van de intelligente machine, door tijd en ruimte die worden verwrongen in zwarte gaten. Alles komt op losse schroeven te staan; het menselijke wordt alien, de computer intuïtief, de zintuigen bedriegen en de robot droomt.\
+  Move 37 verwijst naar een historische wedstrijd Go, het oudste en meest complexe bordspel ter wereld. In die wedstrijd anno 2016 neemt Google’s AlphaGo het op tegen de 18-voudig wereldkampioen Lee Sedol. Niemand gaf een cent om de kansen van de Artificiële Intelligentie AlphaGo. Maar diens zet 37 slaat in als een bom en openbaart het radicaal vreemde gelaat van A.I.: uitermate intelligent, creatief, maar ook totaal alien. 
+
+
+  In zijn lecture performance ‘Move 37’ zoekt Thomas Ryckewaert samen met kosmoloog Thomas Hertog naar manieren om het radicaal vreemde bloot te leggen. Een trip door de duistere, koele horror van de intelligente machine, door tijd en ruimte die worden verwrongen in zwarte gaten. Alles komt op losse schroeven te staan; het menselijke wordt alien, de computer intuïtief, de zintuigen bedriegen en de robot droomt.\
+
 
   <!--EndFragment-->
 
