@@ -1,5 +1,5 @@
 ---
-title: Homo Carnale - Deel 1
+title: Homo Carnale - deel 1
 draft: true
 publishDate: 2020-06-11T11:43:37.509Z
 text: >-
@@ -34,7 +34,7 @@ text: >-
 
   Credits opname: Parchfilms
 image: /uploads/homo-carnale-deel-1.jpeg
-recordedAt: CC Nova, Wetteren
+recordedAt: Opname in CC Nova, Wetteren
 company: Toneelgroep NUNC
 descr: |-
   * Muziektheater
