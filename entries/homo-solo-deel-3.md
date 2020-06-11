@@ -33,6 +33,7 @@ text: >-
 
 
   Credits opname: Parchfilms
+image: /uploads/homo-solo-deel-3.jpeg
 recordedAt: Opname in CC Nova, Wetteren
 company: Toneelgroep NUNC
 descr: |-
@@ -43,7 +44,7 @@ descr: |-
   * Toneelgroep NUNC
 genre: muziektheater
 audience: familie
-videoUrl: "https://www.youtube.com/watch?v=DEqqNMy6Uu4 "
+videoUrl: https://www.youtube.com/watch?v=DEqqNMy6Uu4
 videoLength: 59 min
 socialDescr: In het derde en laatste deel van de trilogie ontdoen de personages
   zich van hun verleden. Ze proberen zichzelf vrij te pleiten voor hun
