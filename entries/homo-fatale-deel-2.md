@@ -38,7 +38,7 @@ text: >-
 
   <!--EndFragment-->
 image: /uploads/homo-fatale-deel2.png
-recordedAt: CC Nova, Wetteren
+recordedAt: Opname in CC Nova, Wetteren
 company: Toneelgroep NUNC
 descr: |-
   * Muziektheater
