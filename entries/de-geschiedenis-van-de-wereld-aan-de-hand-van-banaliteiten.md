@@ -1,6 +1,6 @@
 ---
 title: De geschiedenis van de wereld (aan de hand van banaliteiten)
-draft: true
+draft: false
 publishDate: 2020-05-20T13:02:45.585Z
 text: >-
   <!--StartFragment-->
