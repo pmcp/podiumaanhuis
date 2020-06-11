@@ -50,4 +50,5 @@ socialDescr: In het derde en laatste deel van de trilogie ontdoen de personages
   misdaden.  In een ultieme strijd vernietigen ze zichzelf en elkaar door te
   liegen, te bedriegen en als echte volksmenners de waarheid te beduvelen.  In
   het derde deel staat een rock band centraal.
+socialImage: /uploads/homo-solo-deel-3.jpeg
 ---
