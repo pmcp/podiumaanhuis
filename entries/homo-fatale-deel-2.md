@@ -1,5 +1,5 @@
 ---
-title: Homo Fatale -deel 2
+title: Homo Fatale - deel 2
 draft: true
 publishDate: 2020-06-11T11:43:38.113Z
 text: >-
