@@ -18,7 +18,7 @@ text: >-
   <!--StartFragment-->
 
 
-  Spel: Dries Vanhegen Simon D’Huyvetter, Bert Dobbelaere, Leen Roels, Leen De Veirman, Hans De Munter,Laurens Aneca, Eve Van Avermaet, Seppe Decubber, Vic Van Avermaet, Lies Vandeburie £\
+  Spel: Dries Vanhegen Simon D’Huyvetter, Bert Dobbelaere, Leen Roels, Leen De Veirman, Hans De Munter,Laurens Aneca, Eve Van Avermaet, Seppe Decubber, Vic Van Avermaet, Lies Vandeburie\
 
   Tekst en regie: Benjamin Van Tourhout \
 
