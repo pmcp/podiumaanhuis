@@ -1,6 +1,6 @@
 ---
 title: Homo Fatale - deel 2
-draft: true
+draft: false
 publishDate: 2020-06-11T11:43:38.113Z
 text: >-
   <!--StartFragment-->
@@ -45,6 +45,7 @@ descr: |-
   * duur: 73 min
   * Toneelgroep NUNC
   * publiek: Familie
+  * Genre: theater en muziektheater
 genre: muziektheater
 audience: familie
 videoUrl: https://www.youtube.com/watch?v=B6Cn2ZiOXYo&feature=youtu.be
