@@ -1,6 +1,6 @@
 ---
 title: Homo Carnale - deel 1
-draft: true
+draft: false
 publishDate: 2020-06-11T11:43:37.509Z
 text: >-
   <!--StartFragment-->
@@ -40,6 +40,7 @@ descr: |-
   * Muziektheater
   * duur: 74 min
   * Toneelgroep NUNC
+  * Genre: theater en muziektheater
 genre: muziektheater
 audience: familie
 videoUrl: https://youtu.be/K1iOle8q4SY
