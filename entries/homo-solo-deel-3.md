@@ -1,6 +1,6 @@
 ---
 title: Homo Solo - deel 3
-draft: true
+draft: false
 publishDate: 2020-06-11T12:26:38.311Z
 text: >-
   <!--StartFragment-->
@@ -37,11 +37,10 @@ image: /uploads/homo-solo-deel-3.jpeg
 recordedAt: Opname in CC Nova, Wetteren
 company: Toneelgroep NUNC
 descr: |-
-  
-
   * Muziektheater
   * duur: 59 min
   * Toneelgroep NUNC
+  * Genre: theater en muziektheater
 genre: muziektheater
 audience: familie
 videoUrl: https://www.youtube.com/watch?v=DEqqNMy6Uu4
