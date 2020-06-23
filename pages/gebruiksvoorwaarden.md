@@ -4,35 +4,35 @@ date: 2020-05-05T17:43:24.651Z
 ---
 **Algemeen**‍
 
-Deze website wordt beheerd door Cultuurconnect vzw. Cultuurconnect is een organisatie die lokale besturen ondersteunt bij de digitale uitdagingen van hun cultuurbeleid, met klemtoon op openbare bibliotheken, cultuur- en gemeenschapscentra en aandacht voor sectoroverschrijdende verbindingen. Cultuurconnect sluit in dat kader een beheersovereenkomst met de Vlaamse overheid.\
-\
+Deze website wordt beheerd door Cultuurconnect vzw. Cultuurconnect is een organisatie die lokale besturen ondersteunt bij de digitale uitdagingen van hun cultuurbeleid, met klemtoon op openbare bibliotheken, cultuur- en gemeenschapscentra en aandacht voor sectoroverschrijdende verbindingen. Cultuurconnect sluit in dat kader een beheersovereenkomst met de Vlaamse overheid.
+
 Contactgegevens: Cultuurconnect, Priemstraat 51, 1000 Brussel
 
-Ondernemingsnummer: 0629.858.909\
+Ondernemingsnummer: 0629.858.909
 E-mail: [servicedesk@cultuurconnect.be](mailto:helpdesk@cultuurconnect.be)
 
 Wie gebruik maakt van deze website, aanvaardt de Gebruiksvoorwaarden/Privacyverklaring. Als u niet akkoord gaat met een of meerdere bepalingen, vragen wij u geen (verder) gebruik te maken van de website en contact met ons op te nemen via [servicedesk@cultuurconnect.be](mailto:helpdesk@cultuurconnect.be) om uw bezorgdheden te bespreken.
 
-De Gebruiksvoorwaarden/Privacyverklaring zijn van toepassing op het gebruik van de website, alsmede op de via de website aan u ter beschikking gestelde gegevens en materialen.\
-\
+De Gebruiksvoorwaarden/Privacyverklaring zijn van toepassing op het gebruik van de website, alsmede op de via de website aan u ter beschikking gestelde gegevens en materialen.
+
 **Doel van de website**‍
 
 De website heeft tot doel captaties van culturele en theatervoorstellingen te integreren (embedden) in een centraal platform. Dit doel is uitdrukkelijk tijdelijk van aard en gelinkt aan de veiligheidsmaatregelen die in het kader van de opmars van het Coronavirus zijn opgelegd, waaronder de sluiting van alle cultuurhuizen en theaterzalen. Daarom wil Cultuurconnect, in een partnerschap met theatergezelschappen die de rechten hierop beheren, de cultuursector ondersteunen om toch een tijdelijk virtueel aanbod te kunnen verzorgen.
 
-\
+
 **Beschikbaarheid en gebruiksrichtlijnen**‍
 
 U verbindt zich ertoe om op een zorgvuldige en redelijke wijze gebruik te maken van de website en de gegevens die erop staan. Zo aanvaarden wij niet dat de website oneigenlijk wordt gebruikt, bijvoorbeeld voor verspreiding van virussen of malware, uitvoering van kwetsbaarheidstests of publicatie van onrechtmatige of ongepaste inhoud.
 
 Door het gebruik van deze website verklaart u zich akkoord om
 
-\- Geen handelingen te verrichten die het gebruik van deze website door andere gebruikers in de weg staan, of die de veiligheid van deze website verstoren;
+- Geen handelingen te verrichten die het gebruik van deze website door andere gebruikers in de weg staan, of die de veiligheid van deze website verstoren;
 
-\- Geen virussen of andere schadelijke bestanden te uploaden;
+- Geen virussen of andere schadelijke bestanden te uploaden;
 
-\- Geen verdere handelingen te verrichten die in strijd zijn met de wet (zoals hacken of proberen om ongeautoriseerde toegang te krijgen tot de service of gegevens);
+- Geen verdere handelingen te verrichten die in strijd zijn met de wet (zoals hacken of proberen om ongeautoriseerde toegang te krijgen tot de service of gegevens);
 
-\- Alle intellectuele rechten op het beschikbaar gestelde materiaal te respecteren.
+- Alle intellectuele rechten op het beschikbaar gestelde materiaal te respecteren.
 
 ##### **Informatie, aansprakelijkheid en intellectuele eigendomsrechten**
 
@@ -43,9 +43,9 @@ Bepaalde delen van de website, alsook de in verband met de website gebruikte sof
 Cultuurconnect streeft ernaar dat alle informatie zo volledig, juist, begrijpelijk, nauwkeurig en actueel mogelijk is. Ondanks alle voortdurend geleverde inspanningen kunnen wij niet garanderen dat de ter beschikking gestelde informatie volledig, nauwkeurig of bijgewerkt is. Wanneer u onvolledigheden of tekortkomingen vaststelt, kunt u die melden via e-mail naar [servicedesk@cultuurconnect.be](mailto:helpdesk@cultuurconnect.be). Voor zover als de wet het toelaat, kan Cultuurconnect dan ook niet aansprakelijk worden gesteld voor rechtstreekse of onrechtstreekse schade die ontstaat uit het gebruik van de website of de beschikbare informatie, met inbegrip, zonder beperking, van alle verliezen, werkonderbrekingen, beschadiging van uw programma's of andere gegevens op het computersysteem, of van uw apparatuur of programma's.
 
 De website kan hyperlinks bevatten naar websites of pagina's van derden, of daar onrechtstreeks naar verwijzen. Het plaatsen van links naar deze websites of pagina's impliceert op geen enkele wijze een impliciete goedkeuring van de inhoud ervan. Cultuurconnect verklaart uitdrukkelijk dat zij geen zeggenschap heeft over de inhoud of over andere kenmerken van deze websites. Zij kan in geen geval aansprakelijk worden gesteld voor schade te wijten aan de inhoud of de kenmerken van deze sites.\
-\
-Cultuurconnect geeft geen garanties voor de goede werking van de website en kan op geen enkele wijze aansprakelijk worden gehouden voor een slechte werking of voor een tijdelijke of permanente onbeschikbaarheid of voor enige vorm van schade die rechtstreeks of onrechtstreeks zou voortvloeien uit de toegang tot of het gebruik van de website. De inhoud van de site (links inbegrepen) kan te allen tijde, geheel of gedeeltelijk, zonder aankondiging of kennisgeving offline worden gehaald, aangepast, gewijzigd of aangevuld.\
-\
+
+Cultuurconnect geeft geen garanties voor de goede werking van de website en kan op geen enkele wijze aansprakelijk worden gehouden voor een slechte werking of voor een tijdelijke of permanente onbeschikbaarheid of voor enige vorm van schade die rechtstreeks of onrechtstreeks zou voortvloeien uit de toegang tot of het gebruik van de website. De inhoud van de site (links inbegrepen) kan te allen tijde, geheel of gedeeltelijk, zonder aankondiging of kennisgeving offline worden gehaald, aangepast, gewijzigd of aangevuld.
+
 Indien u een slechte werking of onbeschikbaarheid vaststelt, kan u dit melden via [servicedesk@cultuurconnect.be](mailto:helpdesk@cultuurconnect.be).
 
 ***Integreren (embedden) van captaties van culturele en theatervoorstellingen***
@@ -55,7 +55,6 @@ Op de website worden captaties van culturele en theatervoorstellingen geïntegre
 Elke reproductie, verspreiding, verkoop of andere exploitatie van deze captaties, ongeacht de wijze, is verboden zonder de voorafgaandelijke schriftelijke toestemming van het gezelschap dat de desbetreffende captatie aan Cultuurconnect ter beschikking heeft gesteld ter integratie op deze website. U verbindt zich ertoe u te onthouden van elke inbreuk op de intellectuele eigendomsrechten van rechthoudende partijen.
 
 Cultuurconnect verklaart uitdrukkelijk dat zij geen zeggenschap heeft over de inhoud of over andere kenmerken van de betreffende captaties. Zij kan in geen geval aansprakelijk worden gesteld voor eventueel grensoverschrijdende content (zoals, maar niet gelimiteerd hiertoe, content die beledigend of storend is, illegaal of onrechtmatig gedrag aanmoedigt, virus, bots o.i.d. bevat, racistisch, pornografisch of seksueel van aard is, frauduleus of bedrieglijk van aard is, gewelddadig of bloederig is) of voor schade die hieraan te wijten is. Zodra Cultuurconnect op de hoogte is van potentieel grensoverschrijdende content zal zij dit opnemen met het gezelschap dat de desbetreffende captatie aan Cultuurconnect ter beschikking heeft gesteld. Cultuurconnect behoudt zich het recht voor om, van zodra zij ervan op de hoogte zou komen dat de content niet voldoet aan de bovenstaande voorwaarden, die onverwijld te verwijderen van het platform.
-
 
 
 ##### **Bescherming van persoonsgegevens**
@@ -80,24 +79,24 @@ Via uw browserinstellingen kunt u de installatie van cookies weigeren. U kunt oo
 
 Gebruikers kunnen aanvullend feedback op de website achterlaten, en er hierbij voor kiezen om ook hun e-mailadres in te vullen. Dit is volledig vrijblijvend. De feedback wordt verzameld en verwerkt in functie van onderzoek naar gebruikersnoden en -verwachtingen ten aanzien van online culturele content. Via uw e-mailadres kunnen we u informeren in verband met (vervolgstappen in) dat onderzoek en/of kunnen we u op de hoogte houden van soortgelijke initiatieven.
 
-\
+
 U kan uw toestemming voor het verwerken van uw feedback en/of uw e-mailadres steeds intrekken door een eenvoudig mailtje te sturen naar [dpo@cultuurconnect.be](mailto:dpo@cultuurconnect.be).
 
 ***Wat zijn uw rechten en hoe kan u ze uitoefenen?***
 
 U hebt altijd het recht om de door u meegedeelde persoonsgegevens (onder de voorwaarden vermeld in de AVG)
 
-\- op te vragen en in te kijken (art. 15 AVG), of over te dragen (art. 20 AVG); u kan in dat kader een volledige export van uw persoonsgegevens in een gestructureerd, veelgebruikt en machineleesbaar formaat verkrijgen;
+- op te vragen en in te kijken (art. 15 AVG), of over te dragen (art. 20 AVG); u kan in dat kader een volledige export van uw persoonsgegevens in een gestructureerd, veelgebruikt en machineleesbaar formaat verkrijgen;
 
-\- te (laten) wijzigen of vervolledigen (art. 16 AVG);
+- te (laten) wijzigen of vervolledigen (art. 16 AVG);
 
-\- te (laten) schrappen (art. 17 AVG).
+- te (laten) schrappen (art. 17 AVG).
 
 Daarnaast heeft u steeds het recht om
 
-\- Beperking van de verwerking te vragen (art. 18 AVG);
+- Beperking van de verwerking te vragen (art. 18 AVG);
 
-\- Bezwaar te maken tegen de verwerking (art. 21 AVG).
+- Bezwaar te maken tegen de verwerking (art. 21 AVG).
 
 U kan uw rechten uitoefenen door een eenvoudig verzoek te mailen naar [dpo@cultuurconnect.be](mailto:dpo@cultuurconnect.be).
 
