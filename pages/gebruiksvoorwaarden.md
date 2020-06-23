@@ -34,8 +34,6 @@ Door het gebruik van deze website verklaart u zich akkoord om
 
 \- Alle intellectuele rechten op het beschikbaar gestelde materiaal te respecteren.
 
-
-
 ##### **Informatie, aansprakelijkheid en intellectuele eigendomsrechten**
 
 ***Algemeen***
@@ -56,7 +54,9 @@ Op de website worden captaties van culturele en theatervoorstellingen geïntegre
 
 Elke reproductie, verspreiding, verkoop of andere exploitatie van deze captaties, ongeacht de wijze, is verboden zonder de voorafgaandelijke schriftelijke toestemming van het gezelschap dat de desbetreffende captatie aan Cultuurconnect ter beschikking heeft gesteld ter integratie op deze website. U verbindt zich ertoe u te onthouden van elke inbreuk op de intellectuele eigendomsrechten van rechthoudende partijen.
 
-‍
+Cultuurconnect verklaart uitdrukkelijk dat zij geen zeggenschap heeft over de inhoud of over andere kenmerken van de betreffende captaties. Zij kan in geen geval aansprakelijk worden gesteld voor eventueel grensoverschrijdende content (zoals, maar niet gelimiteerd hiertoe, content die beledigend of storend is, illegaal of onrechtmatig gedrag aanmoedigt, virus, bots o.i.d. bevat, racistisch, pornografisch of seksueel van aard is, frauduleus of bedrieglijk van aard is, gewelddadig of bloederig is) of voor schade die hieraan te wijten is. Zodra Cultuurconnect op de hoogte is van potentieel grensoverschrijdende content zal zij dit opnemen met het gezelschap dat de desbetreffende captatie aan Cultuurconnect ter beschikking heeft gesteld. Cultuurconnect behoudt zich het recht voor om, van zodra zij ervan op de hoogte zou komen dat de content niet voldoet aan de bovenstaande voorwaarden, die onverwijld te verwijderen van het platform.
+
+
 
 ##### **Bescherming van persoonsgegevens**
 
@@ -76,16 +76,12 @@ De Data Protection Officer (DPO) van Cultuurconnect kan worden bereikt via het a
 
 Dankzij cookies kunnen we het gebruik van de website vereenvoudigen, vervolledigen en personaliseren. Zo kan bijvoorbeeld onthouden worden waar u precies het bekijken van een voorstelling onderbroken heeft, zodat u de volgende keer meteen op die plaats kan inpikken. De via cookies verzamelde gegevens laten ons toe om gebruiksanalyse op de website te voeren, en zo de website permanent te optimaliseren voor de gebruikers. Voor gebruiksanalyse van onze website schakelen wij Google Analytics in. Door gebruik te maken van de website gaat u akkoord met [privacybeleid van Google](https://policies.google.com/privacy/update?hl=nl), met betrekking tot haar service Google Analytics.
 
-
-
 Via uw browserinstellingen kunt u de installatie van cookies weigeren. U kunt ook op elk moment de reeds geïnstalleerde cookies verwijderen van uw computer of mobiel apparaat. Ga hiervoor naar het menu 'Instellingen' of 'Opties' van je browser en duid in het tabblad 'Privacy' de juiste instellingen aan voor het gebruik van cookies. Het kan wel zijn dat u hierdoor minder performant gebruik kan maken van de website, of bepaalde functionaliteiten niet kan gebruiken.
 
 Gebruikers kunnen aanvullend feedback op de website achterlaten, en er hierbij voor kiezen om ook hun e-mailadres in te vullen. Dit is volledig vrijblijvend. De feedback wordt verzameld en verwerkt in functie van onderzoek naar gebruikersnoden en -verwachtingen ten aanzien van online culturele content. Via uw e-mailadres kunnen we u informeren in verband met (vervolgstappen in) dat onderzoek en/of kunnen we u op de hoogte houden van soortgelijke initiatieven.
 
 \
 U kan uw toestemming voor het verwerken van uw feedback en/of uw e-mailadres steeds intrekken door een eenvoudig mailtje te sturen naar [dpo@cultuurconnect.be](mailto:dpo@cultuurconnect.be).
-
-
 
 ***Wat zijn uw rechten en hoe kan u ze uitoefenen?***
 
@@ -96,8 +92,6 @@ U hebt altijd het recht om de door u meegedeelde persoonsgegevens (onder de voor
 \- te (laten) wijzigen of vervolledigen (art. 16 AVG);
 
 \- te (laten) schrappen (art. 17 AVG).
-
-
 
 Daarnaast heeft u steeds het recht om
 
@@ -111,14 +105,10 @@ Heeft u ondanks onze voorzorgsmaatregelen toch klachten over ons gebruik van uw 
 
 Meer informatie over klachtenprocedures vindt u op de website van de [Vlaamse Toezichtcommissie](https://overheid.vlaanderen.be/vlaamse-toezichtcommissie) en de [Gegevensbeschermingsautoriteit](https://www.gegevensbeschermingsautoriteit.be/).
 
-
-
 **Toepasselijk recht en bevoegde rechter**
 
 **‍**Deze online overeenkomst en alle geschillen en vorderingen die voortkomen uit het gebruik van deze website of gegevens van de website, vallen onder de toepassing van het Belgische recht en van de relevante internationale regelgeving. Raadpleging van deze website houdt in dat u zich onderwerpt aan de rechtspraak van de rechtbanken van België en dat u aanvaardt om alle gedingen alleen voor een Belgische rechtbank te brengen. De bevoegde rechtbank met zetel in Brussel is bij uitsluiting bevoegd om kennis te nemen van eventuele geschillen die in verband met deze gebruiksvoorwaarden ontstaan.
 
-
-
 **Wijzigingen**
 
-**‍**Cultuurconnect kan deze Gebruiksvoorwaarden/Privacyverklaring altijd wijzigen zonder voorafgaande verwittiging aan de gebruiker. De wijzigingen gaan in direct na het plaatsen van de nieuwe Gebruiksvoorwaarden/Privacyverklaring op de website. Gelieve daarom steeds na te gaan of u de laatste versie hebt doorgelezen. Deze versie werd het laatst gewijzigd op 24/3/2020.
+**‍**Cultuurconnect kan deze Gebruiksvoorwaarden/Privacyverklaring altijd wijzigen zonder voorafgaande verwittiging aan de gebruiker. De wijzigingen gaan in direct na het plaatsen van de nieuwe Gebruiksvoorwaarden/Privacyverklaring op de website. Gelieve daarom steeds na te gaan of u de laatste versie hebt doorgelezen. Deze versie werd het laatst gewijzigd op 23/6/2020.
