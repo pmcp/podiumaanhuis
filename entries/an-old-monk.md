@@ -54,10 +54,10 @@ socialDescr: Over lijf en geest en hoe die maar niet op elkaar afgestemd
   lijflied over liefde en leed. Over de grenzeloosheid van de geest, de grenzen
   van het lichaam en de confrontatie daarmee. Hoe voelt het om oud te worden
   terwijl je geest eeuwig jong lijkt te blijven?
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7917026d28a4095d0691cb_LOD_%20AnOldMonkVDE_8797.jpg
+socialImage: /uploads/5e7917026d28a4095d0691cb_LOD_%20AnOldMonkVDE_8797.jpg
 id: 5e7919d5ed14123d2665034d
 publishDate: 2020-05-09T11:12:48.572Z
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7b0ec510466d148c702003_LOD_%20AnOldMonkVDE_8797.jpg
+image: /uploads/5e7b0ec510466d148c702003_LOD_%20AnOldMonkVDE_8797.jpg
 company: LOD / Josse De Pauw & Kris Defoort Trio
 age: undefined
 ---

@@ -38,10 +38,10 @@ socialDescr: De Praagse auteur Bohumil Hrabal schetst een rauw en pijnlijk
   tot filosoof, estheet en diepzinnige levensgenieter. Tot alles hem plotseling
   ontnomen dreigt te worden.Koen van Kaam speelt. Jorgen Cassier maakt live
   muziek. Koen De Sutter regisseert.
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7b620abcfcb4c94c1665e9_101_1724_wm_20140925_zuidpool28.jpg
+socialImage: /uploads/5e7b620abcfcb4c94c1665e9_101_1724_wm_20140925_zuidpool28.jpg
 id: 5e7b6224ec456a1011b5019a
 publishDate: 2020-05-09T11:11:10.238Z
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e7b620abcfcb4c94c1665e9_101_1724_wm_20140925_zuidpool28.jpg
+image: /uploads/5e7b620abcfcb4c94c1665e9_101_1724_wm_20140925_zuidpool28.jpg
 company: Theater Zuidpool
 age: undefined
 ---

@@ -28,7 +28,7 @@ company: hetpaleis
 descr: |-
   * theater
   * leeftijd: 6+
-  * duur: 69 min
+  * duur: 69 min    
   * taal: Nederlands
   * [hetpaleis](https://www.hetpaleis.be/)
 genre: theater

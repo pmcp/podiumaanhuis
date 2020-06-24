@@ -44,7 +44,7 @@ module.exports = {
       options: {
         path: 'entries/**/*.md',
         typeName: 'entries',
-        // coverField: 'image', // What frontmatter fields to check for image paths fixings
+        coverField: 'image', // What frontmatter fields to check for image paths fixings
         remark: {
           plugins: [
             // 'remark-frontmatter'
@@ -64,15 +64,17 @@ module.exports = {
         contentTypes: ['entries', 'MDPages', 'homepages']
       }
     },
-    {
-      use: '@noxify/gridsome-plugin-remote-image',
-      options: {
-        'typeName' : 'entries',
-        'sourceField': 'image',
-        'targetField': 'imageDownloaded',
-        'targetPath': './src/assets/remoteImages'
-      }
-    },
+    // {
+    //   use: '@noxify/gridsome-plugin-remote-image',
+    //   options: {
+    //     'typeName' : 'entries',
+    //     'cache': false,
+    //     'original' : true,
+    //     'sourceField': 'image',
+    //     'targetField': 'imageDownloaded',
+    //     'targetPath': './src/assets/remoteImages'
+    //   }
+    // },
     // {
     //   use: 'gridsome-plugin-gtm',
     //   options: {

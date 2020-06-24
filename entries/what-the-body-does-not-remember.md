@@ -114,9 +114,9 @@ socialDescr: Het debuut van Wim Vandekeybus en Ultima Vez uit 1987 sloeg de
   aantrekken en afstoten. Nu eens levert dat een confrontatie van twee dansers
   op, dan van twee groepen, van de dansers en de muziek, van de dansers en een
   dwingend lijnenspel.
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg
+socialImage: /uploads/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg
 id: 5e8c87d0f0f88e8fe9ca5893
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg
+image: /uploads/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg
 company: Ultima Vez / Wim Vandekeybus & Ictus
 age: undefined
 ---

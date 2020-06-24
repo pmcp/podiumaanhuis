@@ -10,7 +10,7 @@ videoUrl: vimeo.com/ultimavez/here-after
 videoLength: 64 min
 socialDescr: |-
   ‘Here After’ is de cinematografische adaptatie van de podiumcreatie ‘Puur’ (2005). In gedanste scènes zien we de personages hun herinneringen herbeleven in het hiernamaals ; alsof hun gevoelens en trauma’s behouden werden in het geheugen van het lichaam. 
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e84f3b015518b52d81c992a_Here-After_Wim%20Vandekeybus_5a9_photo%20Jean-Pierre%20Stoop.jpg
+socialImage: /uploads/5e84f3b015518b52d81c992a_Here-After_Wim%20Vandekeybus_5a9_photo%20Jean-Pierre%20Stoop.jpg
 recordedAt: |-
   undefined
 text: |-
@@ -25,5 +25,5 @@ id: 5e84f4299ffbea0b964e298c
 age: undefined
 company: |-
   Ultima Vez
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e84f3b015518b52d81c992a_Here-After_Wim%20Vandekeybus_5a9_photo%20Jean-Pierre%20Stoop.jpg
+image: /uploads/5e84f3b015518b52d81c992a_Here-After_Wim%20Vandekeybus_5a9_photo%20Jean-Pierre%20Stoop.jpg
 ---

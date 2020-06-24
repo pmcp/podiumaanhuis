@@ -28,7 +28,7 @@ socialDescr: |-
   ja
   waar moeten we nu dan naartoe?
   verder
-socialImage: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg
+socialImage: /uploads/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg
 recordedAt: |-
   Opname in De Kazematten, Gent
 text: |-
@@ -83,5 +83,5 @@ id: 5e84a04643fd28616359b1e0
 age: undefined
 company: |-
   Larf!
-image: https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg
+image: /uploads/5e849f11eae6d5161d2dee6d_Thesecrets_Larf.jpg
 ---

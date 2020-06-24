@@ -87,19 +87,13 @@
                       class="cc-video-card-image-wrapper"
                       style="position:relative"
                     >
+                    <!-- {{ item.image }} -->
                       <g-image
-                        v-if="item.imageDownloaded"
-                        :src="item.imageDownloaded"
-                        width="400"
-                        height="300"
-                        fit="cover"
-                        style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
-                      />
-                      <g-image
-                        v-else-if="item.image"
+                        v-if="item.image"
                         :src="item.image"
                         width="400"
                         height="300"
+                        fit="cover"
                         style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
                       />
                       <!-- TODO: add placeholder image -->
@@ -198,7 +192,6 @@ query {
         descr,
         recordedAt,
         image,
-        imageDownloaded,
         text,
         genre,
         audience,

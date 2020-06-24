@@ -65,7 +65,7 @@ module.exports = function (api) {
 //       'afstoten. Nu eens levert dat een confrontatie van twee dansers op, dan ' +
 //       'van twee groepen, van de dansers en de muziek, van de dansers en een ' +
 //       'dwingend lijnenspel.\nsocialImage: ' +
-//       'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg\n' +
+//       'https://uploads-ssl.webflow.com/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg\n' +
 //       'recordedAt: |-\n  Opname in KVS, Brussel\ntext: |-\n  Het debuut van Wim ' +
 //       'Vandekeybus en Ultima Vez uit 1987 sloeg de toenmalige danswereld met ' +
 //       'verstomming. Vandekeybus en componisten Thierry de Mey en Peter ' +
@@ -96,7 +96,7 @@ module.exports = function (api) {
 //       'Benjamin Dandoy\n\n  ‍\ngenre: dans\naudience: volwassenen\nid: ' +
 //       '5e8c87d0f0f88e8fe9ca5893\nage: undefined\ncompany: |-\n  Ultima Vez / Wim ' +
 //       'Vandekeybus & Ictus\nimage: ' +
-//       'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg\n' +
+//       'https://uploads-ssl.webflow.com/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg\n' +
 //       '---\n',
 //     timestamp: 1588948516409,
 //     publicPath: { default: '/voorstellingen/what-the-body-does-not-remember/' }
@@ -126,7 +126,7 @@ module.exports = function (api) {
 //     'en afstoten. Nu eens levert dat een confrontatie van twee dansers op, ' +
 //     'dan van twee groepen, van de dansers en de muziek, van de dansers en ' +
 //     'een dwingend lijnenspel.',
-//   socialImage: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg',
+//   socialImage: 'https://uploads-ssl.webflow.com/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg',
 //   recordedAt: 'Opname in KVS, Brussel',
 //   text: 'Het debuut van Wim Vandekeybus en Ultima Vez uit 1987 sloeg de ' +
 //     'toenmalige danswereld met verstomming. Vandekeybus en componisten ' +
@@ -157,7 +157,7 @@ module.exports = function (api) {
 //   audience: 'volwassenen',
 //   age: 'undefined',
 //   company: 'Ultima Vez / Wim Vandekeybus & Ictus',
-//   image: 'https://uploads-ssl.webflow.com/5e74d1a9ef22355294c7d60e/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg',
+//   image: 'https://uploads-ssl.webflow.com/5e8c86a2e226b18f5f2514d4_What%20the%20Body%C2%A9DannyWillems-5705.jpg',
 //   imageDownloaded: '/Users/pmcp/dev/Podiumaanhuis/podiumaanhuis/src/assets/remoteImages/f8cb9bda5d40f8b667133974eedbdb32e092419db79f8c287bc15404c60136ab.jpg'
 // }
 
