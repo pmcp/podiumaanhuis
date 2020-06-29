@@ -1,6 +1,6 @@
 ---
 title: Voetbal op hoge hakken
-draft: true
+draft: false
 publishDate: 2020-05-20T12:58:24.404Z
 text: >-
   <!--StartFragment-->
