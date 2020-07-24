@@ -1,6 +1,6 @@
 ---
 title: Ik ben een held!
-draft: true
+draft: false
 publishDate: 2020-07-24T12:37:51.316Z
 text: >-
   Over een monster zonder kop, een vis met scherpe tanden, een geheim… dat
