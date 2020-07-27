@@ -1,6 +1,6 @@
 ---
 title: En morgen was het feest
-draft: true
+draft: false
 publishDate: 2020-07-27T06:24:06.114Z
 text: >-
   Een sprankelende theatervoorstelling waarin we de wereld van taart,
