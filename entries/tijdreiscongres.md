@@ -1,6 +1,6 @@
 ---
 title: Tijdreiscongres
-draft: true
+draft: false
 publishDate: 2020-08-19T06:19:15.435Z
 text: >-
   <!--StartFragment-->
