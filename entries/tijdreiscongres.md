@@ -23,8 +23,8 @@ text: >-
 
   <!--EndFragment-->
 image: /uploads/tijdreiscongres.jpg
-recordedAt: BRUTHAUSGALLERY, gelocaliseerd in de gebouwen van CLAESSENS ARTISTS
-  CANVAS (Waregem)
+recordedAt: Opname in BRUTHAUSGALLERY, gelocaliseerd in de gebouwen van
+  CLAESSENS ARTISTS CANVAS (Waregem)
 company: Celestial Mekaniks
 descr: |-
   * Theater
