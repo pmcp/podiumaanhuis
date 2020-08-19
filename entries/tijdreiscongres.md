@@ -37,12 +37,7 @@ audience: familie
 age: alle leeftijden
 videoUrl: https://www.youtube.com/watch?v=hFBCWAc8zTQ&feature=youtu.be
 videoLength: 39 min
-socialDescr: "Door de Corona-virus crisis werden alle voorstellingen van
-  Tijdreiscongres in theater verboden. Toch wilden wij met dit project doorgaan.
-  Na vier maanden repetities online zijn wij blij om u de verfilming van
-  Tijdreiscongres voor te stellen, gemaakt met beperkte middelen maar in een
-  prachtige onverwachte locatie en een onvoorwaardelijke passie voor de Cultuur
-  en de Kunsten.  Op een internationaal congres over tijdreizen komen mensen van
+socialDescr: "Op een internationaal congres over tijdreizen komen mensen van
   over de hele wereld bijeen; zij verzeilen in absurde situaties.
   Tijdreiscongres is een komedie geschikt voor tijdreizigers van alle leeftijden
   en met een uiteenlopende beheersing van het Nederlands.   Om dit
