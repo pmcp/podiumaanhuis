@@ -18,7 +18,10 @@ text: >-
   <!--StartFragment-->
 
 
-  Deelnemers / acteurs : Aguila John Lester (De Filipijnen), Balkaen Angelina (Oekraïne), Bavilla Sandy (Congo), Cui Qianjing (China), Dominguez Michelangeli David (Venezuela), Naim Erbaba (Turkije), Anastasia Galvita (Rusland), Hegedus Melinda (Hongarije), Omrani Armaghan (Iran), Shahada Mohammad (Syrië). Regie en productie : Sophie Cocheteux-Depraeter Tekst en taalcoach : Jeroen Theunissen Muziek en productie assistent : Jean-Pierre Bouchard-Rees Licht en videomontage : Alexander Coppenolle Kunstwerken en decor : Willem Boel Producenten : Celestial Mekaniks en CVO Miras SPONSORS : STAD WAREGEM CLAESSENS ARTISTS CANVAS WILLEM BOEL CC DE SCHAKEL CC HET PERRON SCHOUWBURG VAN KORTRIJK PRINTBURO (Waregem) KRINGLOOPWINKEL (Kortrijk, Wevelgem) MARNIXRING IEPER WESTLAND ACP PRODUCTIONS DENYS
+  Deelnemers / acteurs : Aguila John Lester (De Filipijnen), Balkaen Angelina (Oekraïne), Bavilla Sandy (Congo), Cui Qianjing (China), Dominguez Michelangeli David (Venezuela), Naim Erbaba (Turkije), Anastasia Galvita (Rusland), Hegedus Melinda (Hongarije), Omrani Armaghan (Iran), Shahada Mohammad (Syrië). Regie en productie : Sophie Cocheteux-Depraeter Tekst en taalcoach : Jeroen Theunissen Muziek en productie assistent : Jean-Pierre Bouchard-Rees Licht en videomontage : Alexander Coppenolle Kunstwerken en decor : Willem Boel Producenten : Celestial Mekaniks en CVO Miras 
+
+
+  SPONSORS : STAD WAREGEM, CLAESSENS ARTISTS CANVAS, WILLEM BOEL, CC DE SCHAKEL, CC HET PERRON, SCHOUWBURG VAN KORTRIJK, PRINTBURO (Waregem), KRINGLOOPWINKEL (Kortrijk, Wevelgem), MARNIXRING IEPER WESTLAND, ACP PRODUCTIONS, DENYS
 
 
   <!--EndFragment-->
@@ -32,6 +35,7 @@ descr: |-
   * taal: Nederlands
   * 39 min
   * voor alle leeftijden
+  * [Celestial Mekaniks](http://celestialmekaniks.com/)
 genre: theater
 audience: familie
 age: alle leeftijden
