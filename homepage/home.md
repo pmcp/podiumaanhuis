@@ -7,11 +7,14 @@ intro: Bekijk gratis opnames van straffe podiumvoorstellingen voor jong en oud.
   onbereikbaar. Geen nood, want als de zalen moeten sluiten, dan komt de
   voorstelling gewoon naar je toe. Veel kijkplezier!
 notificationActive: true
-notificationText: Momenteel onderzoeken we of Podium Aan Huis een toekomst heeft
-  eens de coronamaatregelen zijn afgelopen. Zag je al een voorstelling? Deel
-  jouw mening en vul deze
-  [bevraging](https://docs.google.com/forms/d/e/1FAIpQLSfU7hyzMG3I8w7zFWIZO-VgBfl-dTa1FW0oqUZT4OPU377WPg/viewform?usp=sf_link)
-  in (max. 5 min).
+notificationText: >-
+  Liefste kijkers van Podium aan Huis,\
+
+  31 augustus is de laatste dag dat jullie kunnen genieten van deze voorstellingen.\
+
+  Podium aan Huis is gestart als een tijdelijk initiatief voor de gesloten theaterzalen. Gezelschappen, kunst- en cultuurhuizen bundelden virtueel de krachten om jou te blijven ontroeren en ontspannen.\
+
+  Op 1 september halen we de site offline. Hopelijk vinden jullie de weg naar een cultuurhuis in de buurt.
 heroImage: /uploads/5ea155fec9fa38ac66d1a5b9_zonzo_slumberland-c-dries-segers_banner.jpg
 heroCredit: |-
   Beeld uit Slumberland, Zonzo Compagnie
