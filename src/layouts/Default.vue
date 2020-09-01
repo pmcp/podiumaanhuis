@@ -25,10 +25,10 @@
             aria-current="home"
             class="nav-link w--current"
           >Home</g-link>
-          <g-link
+          <!-- <g-link
             to="/#videos"
             class="nav-link"
-          >Video's</g-link>
+          >Video's</g-link> -->
           <g-link
             to="/pages-over-dit-initiatief"
             class="nav-link"
@@ -71,7 +71,7 @@
         
       </div>
     </div>
-    <div class="cc-pagewrapper">
+    <div class="">
       <transition
         name="fade"
         appear
@@ -82,39 +82,39 @@
       </transition>
     </div>
 
-    <div class="section-3">
-      <div class="container">
-        <div class="w-row">
-          <div class="w-col w-col-6">
-            <div class="w-richtext">
-              <p>
-                <g-link to="/pages-gebruiksvoorwaarden">Gebruiksvoorwaarden / Privacyverklaring</g-link>
-              </p>
+      <!-- <div class="section-3">
+        <div class="container">
+          <div class="w-row">
+            <div class="w-col w-col-6">
+              <div class="w-richtext">
+                <p>
+                  <g-link to="/pages-gebruiksvoorwaarden">Gebruiksvoorwaarden / Privacyverklaring</g-link>
+                </p>
+              </div>
             </div>
-          </div>
-          <div class="w-col w-col-6">
-            <div class="text-block-3">Deze website is mogelijk gemaakt door</div>
-            <div class="columns-2 w-row">
-              <div class="column-3 w-col w-col-6 w-col-medium-6 w-col-small-6 w-col-tiny-tiny-stack"><a
-                  href="https://www.cultuurconnect.be/"
-                  target="_blank"
-                  class="w-inline-block"
-                >
+            <div class="w-col w-col-6">
+              <div class="text-block-3">Deze website is mogelijk gemaakt door</div>
+              <div class="columns-2 w-row">
+                <div class="column-3 w-col w-col-6 w-col-medium-6 w-col-small-6 w-col-tiny-tiny-stack"><a
+                    href="https://www.cultuurconnect.be/"
+                    target="_blank"
+                    class="w-inline-block"
+                  >
+                    <g-image
+                      src="~/assets/images/logocc.png"
+                      width="400"
+                    /></a></div>
+                <div class="column-4 w-col w-col-4 w-col-medium- w-col-small-4 w-col-tiny-tiny-stack">
                   <g-image
-                    src="~/assets/images/logocc.png"
-                    width="400"
-                  /></a></div>
-              <div class="column-4 w-col w-col-4 w-col-medium- w-col-small-4 w-col-tiny-tiny-stack">
-                <g-image
-                  src="~/assets/images/logovlaanderen.png"
-                  width="200"
-                />
+                    src="~/assets/images/logovlaanderen.png"
+                    width="200"
+                  />
+                </div>
               </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
+      </div> -->
   </div>
 </template>
 
