@@ -89,13 +89,24 @@
                     >
                     <!-- {{ item.image }} -->
                       <g-image
-                        v-if="item.image"
+                        v-if="item.image && item.image.size"
                         :src="item.image"
                         width="400"
                         height="300"
                         fit="cover"
                         style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
                       />
+                      
+                      <g-image
+                        v-else-if="item.image && item.image.src"
+                        :src="item.image.src"
+                        width="400"
+                        height="300"
+                        fit="cover"
+                        style="position:absolute;height: 100%;width: 100%;object-fit: cover;"
+                      />
+                    
+                      
                       <!-- TODO: add placeholder image -->
                       <div
                         v-else
