@@ -28,8 +28,7 @@
           <h2 class="cc-heading--left">{{ $page.home.title }}</h2>
           <!-- <p class="paragraph">{{ $page.home.intro }}</p> -->
 
-          <p class="paragraph">Podium Aan Huis was een tijdelijk platform met straffe podiumvoorstellingen. De magie van de live beleving was even onbereikbaar. Nu het nieuwe cultuurseizoen voorzichtig terug op gang komt hopen we je terug in de zalen te verwelkomen. Hopelijk tot snel!
-</p>
+          <p class="paragraph">Podium Aan Huis was een tijdelijk platform met straffe podiumvoorstellingen. De magie van de live beleving was even onbereikbaar. Nu het nieuwe cultuurseizoen voorzichtig terug op gang komt hopen we je terug in de zalen te verwelkomen. Hopelijk tot snel!</p>
           <!-- <cc-notification
           style="margin-bottom: 60px;margin-top: 35px;"
             v-if="$page.home.notificationActive"
